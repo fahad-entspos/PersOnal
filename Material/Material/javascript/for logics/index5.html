@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+    <button onclick="Add(apple, 'apple.jpg')">Add</button><button onclick="Sale('apple')">sale</button>
+    <button onclick="Add(banana, 'apple.jpg')">add</button><button onclick="Sale('banana')">sale</button>
+    <button onclick="Add(carrot, 'apple.jpg')">add</button><button onclick="Sale('carrot')">sale</button>
+    <!-- <div onclick="remove()"></div> -->
+    <table id="myTable" border="1px">
+        <tr>
+            <td>Apple</td>
+            <td>Bananas</td>
+            <td>Oranges</td>
+        </tr>
+        
+        <tr>
+            
+            <td id='apple'></td>
+            <td id='banana'></td>
+            <td id='carrot'></td>
+        </tr>
+    </table>
+    <script>
+        
+        
+        function Add(fruit, mySrc){
+            let num=prompt("enter a nbr")
+            for(i=1;i<=num;i++){
+                
+                let img=document.createElement('img')
+                //   img.className="imgs"
+                img.src=mySrc;
+                img.className = fruit.id;
+                img.onclick=function(){
+                  img.remove()
+                }
+                 fruit.appendChild(img)
+//   debugger      
+                // 
+const box = document.getElementById('apple');
+
+box.addEventListener('click', function handleClick(event) {
+  event.target.remove();
+});
+            //  
+            
+            
+            }
+        
+        function Sale(fruit){
+            let s=+prompt("enter a nbr");
+
+            let allFruits = document.querySelectorAll('.'+fruit);
+            for(let i = 0;i<s;i++){
+                allFruits[i].remove();
+            }
+            function remove(){
+                let element=el;
+                element.remove()
+            }
+
+        //   if(num>s){
+        //       y=num-s;
+              
+        //   }
+        //   else{
+        //       alert("invalid")
+        //   }
+        }
+    }
+    </script>
+</body>
+</html>

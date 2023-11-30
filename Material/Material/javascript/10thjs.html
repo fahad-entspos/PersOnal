@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #gamica{
+            background-color: chocolate;
+        }
+        .fahad {
+            width: 200px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .fahad div {
+            width: 32%;
+            height: 35px;
+            margin: 2px;
+            color: white;
+            background-color: rgb(255, 0, 0);
+            border: 1px solid black;
+            text-align: center;
+            border-radius: 30px;
+        }
+        #1{
+            color: aqua;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="gamica">
+    <span class="fahad">
+        <div id="1"></div>
+        <div id="2"></div>
+        <div id="3"></div>
+    </span>
+    <span class="fahad">
+        <div id="4"></div>
+        <div id="5"></div>
+        <div id="6"></div>
+    </span>
+    <span class="fahad">
+        <div id="7"></div>
+        <div id="8"></div>
+        <div id="9"></div>
+    </span>
+
+    </div>
+    
+    <script>
+        for (let i = 1; i <= 9; i++) {
+            let num = 0
+            if (i == 1 || i == 5 || i == 9) {
+                num = (Math.floor(Math.random() * 100) * 2) + 1
+            }
+            document.getElementById(i).innerHTML = num
+        }
+        </script> 
+</body>
+
+</html>

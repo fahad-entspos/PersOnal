@@ -1,0 +1,24 @@
+
+.continer{
+    width: 180px;
+    margin: auto;  
+      margin-top: 15%;
+      justify-content: center;
+      align-items: center;
+
+    background-color: rgb(180, 74, 74);
+    border-radius: 15px;
+    /* gap: 2%; */
+}
+.container{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.line{
+    color: black;
+    margin-top: 10%;
+
+}

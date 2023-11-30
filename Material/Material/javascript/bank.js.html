@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .hide{
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome To IsLaMiC Bank</h1>
+    <button onclick="showSignUpBox()">New User</button>
+    <button onclick="showLoginBox()">Allready a User</button>
+    <button onclick="logout()">Logout</button>
+    <form id="signUpbox" class="hide"> <br>
+        <input type="text" id="login_user_name" placeholder="NAME">
+        <input type="password" id="login_user_password" placeholder="PASSWORD">
+        <button onclick="loginUser()">Login</button>
+    </form>
+    <div id="loginBox" class="hide"><br>
+        <input type="text" id="signup_user_name" placeholder="Name">
+        <input type="password" id="signup_user_password" placeholder="Password">
+        <input type="number" id="signup_user_blance" placeholder="Blance">
+        <button onclick="creatUser()">Signup</button>
+    </div>
+    <div id="dashBoard" class="hide">
+        Wellcome to DashBoard
+        <table border="2">
+            <tr>
+                <td>Name</td>
+                <td id="tUserName"></td>
+                <td>Blance</td>
+                <td id="tUserBlance"></td>
+                <td><button onclick="makeTransaction('deposit')">Deposit Money</button></td>
+                <td><button onclick="makeTransaction('withdraw')">Withdraw</button></td>
+            </tr>
+        </table>
+    </div>
+    <script>
+        let array=[]
+        let currentUser;
+        function showDashBoard(){
+            tUserName.innerText=currentUser.name;
+            tUserBlance.innerText=currentUser.blance;
+            signUpbox.classList.add('hide')
+            dashBoard.classList.remove('hide')
+            loginBox.classList.add('hide')
+            transactionsBox.innerHTML = '';
+
+
+        }
+        
+                function logout(){
+                    currentUser = null;
+                    loginBox.reset;
+                    loginBox.classList.remove('hide')
+                    dashBoard.classList.add('hide') }
+
+        function showSignUpBox(){signUpbox.classList.remove('hide');
+        loginBox.classList.add('hide')}
+        function showLoginBox(){
+            signUpbox.classList.add('hide')
+            loginBox.classList.remove('hide')
+            
+        }
+        function creatUser(){
+            let userIndex = array.findIndex(function(user){
+                return user.name == signup_user_name.value;
+                
+            })
+            if(userIndex > -1){
+                return alert("user allready registerd")
+            }
+            let data = {
+                name : signup_user_name.value,
+                password : signup_user_password.value,
+                blance : signup_user_blance.value,
+            }
+            array.push(data);
+        }
+        function loginUser(){
+            event.preventDefault();
+            let name = login_user_name.value;
+            let password = login_user_password.value;
+            let user = array.find(user=>{
+                if(user.name == name && user.password == password){
+                    return true;
+                }
+                
+            })
+            if(user){
+                currentUser = user;
+                alert("mill gya")
+                showDashBoard();
+            }
+            else{
+                alert("ni mila")
+            }
+        }
+    </script>
+</body>
+</html>

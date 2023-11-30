@@ -1,0 +1,112 @@
+<table border="1">
+    <tr>
+        <td>Biryani</td>
+        <td>150</td>
+        <td>
+            <input id="biryani" class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Kabab</td>
+        <td>240</td>
+        <td>
+            <input id="kabab" class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Russian Salad</td>
+        <td>200</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Chicken Karahi</td>
+        <td>1000</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Daal Channa</td>
+        <td>140</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Raita</td>
+        <td>30</td>
+        <td>
+            <input id="raita" class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="getBill()">Calculate Bill</button>
+        </td>
+        <td>
+            <b>Gross Bill</b>
+            <span id="totalBill"></span>
+        </td>
+        <td>
+            <b>Net Bill</b>
+            <span id="netBill"></span>
+        </td>
+    </tr>
+</table>
+<script>
+    function  getBill(){
+        let total = 0;
+
+
+        let dishes = document.querySelectorAll('.dish');
+
+        dishes.forEach((dish)=>{
+
+            let dishName = dish.parentNode.previousElementSibling.previousElementSibling.innerText;
+            if(dish.checked){
+                dish.parentNode.parentNode.style.backgroundColor = "limegreen";
+
+                if(dishName == "Biryani" || dishName == "Kabab"){
+                    raita.checked = true;
+                    raita.parentNode.nextElementSibling.children[0].value = +biryani.parentNode.nextElementSibling.children[0].value + +kabab.parentNode.nextElementSibling.children[0].value;
+                }
+                let qty = +dish.parentNode.nextElementSibling.children[0].value;
+                if(!qty){
+                    dish.parentNode.nextElementSibling.children[0].value = 1;
+                    qty = 1;
+                }
+                total += qty * dish.parentNode.previousElementSibling.innerText;
+            }
+        });
+        totalBill.innerText = total;
+        netBill.innerText = total;
+
+        if(total > 1000){
+            netBill.innerText  = total * 0.9;
+        }
+
+    }
+
+
+
+</script>

@@ -1,0 +1,36 @@
+.main{
+    /* background-image: url("/public/767.jpg"); */
+    background-color: rgb(4, 1, 27);
+
+    background-size: cover;
+}
+.hire{
+    background-color: rgb(4, 1, 27);
+
+}
+
+
+.btn{
+    width: 120px;
+    height: 40px;
+    border-radius: 12%;
+    margin-top: 3%;
+    align-items: center;
+    background-color:transparent;
+    color: white;
+    border: 2px solid white;
+}
+.btn:hover {
+    background-color: white;
+    color: rgb(4, 1, 27);
+
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    gap: 1%;
+    font-size: x-large;
+    color: white;
+}

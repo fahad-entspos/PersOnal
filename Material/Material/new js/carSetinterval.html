@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        #car{
+            position: absolute;
+        }
+    </style>
+    <img id="car" src="caar.jpg" alt="">
+    <script>
+        let count =0;
+        let deriction = "toRight";
+       let meriKey = setInterval(() => {
+            car.style.left=  count  + "px" 
+            if(deriction == "toRight"){
+                count++
+                console.log(count);
+            }else{count--}
+            if(count == 1000){
+                deriction = "toleft"
+            }else if(count == 0){
+                deriction = "toRight"
+            }
+        }, 0.5);
+    </script>
+</body>
+</html>

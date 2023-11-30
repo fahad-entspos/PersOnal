@@ -1,0 +1,21 @@
+    .main{
+        display: flex;
+       flex-wrap: wrap; 
+        gap:1rem;
+margin-top: 5%;
+        align-items: center;
+        justify-content: center;
+    }
+    .img{
+        width: 260px;
+    }
+    
+    .container{
+        text-align: center;
+    }.container h2{
+        font-family:'Times New Roman', Times, serif;
+        font-size: 1.5rem;    
+    }.container h4{
+        font-weight: bold;
+    }
+

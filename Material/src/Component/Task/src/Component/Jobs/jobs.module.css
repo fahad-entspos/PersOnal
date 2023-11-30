@@ -1,0 +1,29 @@
+.main{
+    text-align: center;
+}
+
+
+.container{
+    width: 25%;
+    padding: 10px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 40px;
+    background-color: rgb(255, 230, 183);
+}
+
+.Description{
+    font-size: 1.5vw;
+}
+
+.Provide{
+    font-size: 1vw;
+
+}
+
+.Job{
+
+    font-size: 1.5vw;
+
+
+}

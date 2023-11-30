@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         let students = [
+            {
+                name:"ali",
+                subjects:["bio", "PHysics", "chemistry", "economics"]
+            }, 
+            {
+                name:"rameez",
+                subjects:["ENGLISH", "PHysics", "maths"]
+            },
+            {
+                name:"aqsa",
+                subjects:["Pakistan Studies", "Accounting"]
+            },
+            {
+                name:"khurram",
+                subjects:["ENGLISH", "PHysics", "communication skills"]
+            },
+            {
+                name:"sarmad",
+                subjects:["stats", "management", ""]
+            }
+        ];
+
+       console.log(foundStudents("sarmad")); 
+
+
+            function foundStudents(SubjectName){
+                students.filter(function(student){
+                    if(student.subjects.includes(SubjectName)){
+                    }
+                })
+                return true;
+            }
+
+
+
+
+
+
+
+
+
+
+
+//         a = prompt("Enter Your Subject");
+//         user = [];
+//         students.forEach(function(abc){
+//             for(let i of abc.subjects){
+//                 if(i == a){
+//                     user.push(abc.name)
+//                 }
+//             }
+//          })
+// console.log(user);
+
+
+
+//  console.log(); Object.values(students);
+// Object.keys(students);
+    </script>
+</body>
+</html>

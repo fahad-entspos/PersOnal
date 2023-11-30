@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+
+  /* .gGox{
+    color:green;
+    border:1px solid orange;
+  }
+
+  #myDiv{
+    width: 200px;
+    height: 200px;
+    border:1px solid red;
+  } */
+
+  #myCar{
+    position: absolute;
+    width: 200px;
+    /* transform: scale(1, 1); */
+  }
+
+</style>
+
+<body>
+
+<img id="myCar" src="caar.jpg" alt="">  
+  <script>
+
+    let index = 0;
+    let limit = 1100;
+    let dir = "left";
+
+    setInterval(() => {
+
+        myCar.style.left = index + "px";
+        
+        console.log(index);
+        if(dir == "left"){
+            index++;
+
+            if(index == 1000){
+                dir = "right";
+                myCar.style. transform= "scale(1, 1)";  
+
+            }
+        }else{
+            index--
+        }
+
+    }, 0);
+    
+
+
+  </script>
+</body>
+</html>

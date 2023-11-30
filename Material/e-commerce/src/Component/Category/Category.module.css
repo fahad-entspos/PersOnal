@@ -1,0 +1,30 @@
+
+.continer{
+    width: 160px;
+    margin: auto;    margin-top: 5%;
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 2px solid white;
+    gap: 2%;
+    padding: 8%
+}
+.container{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.continer:hover{
+    color: white;
+    background-color: rgba(245, 222, 179, 0);
+}
+
+.icons{
+    font-size: 3rem;
+    margin: auto;
+
+}
+
+.containt{
+text-align: center;
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+
+       
+
+
+        let data = [
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            },
+            {
+                orange:30,
+                banana:30,
+                mango:30
+            },
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            }
+        ]
+
+
+        let fruitName = prompt("konsa frui chahiye?");
+        let fruitQty = +prompt("kitna fruit cahhiye");
+        
+        // let data1 = [2,4,6];
+
+        // Array.prototype.squareNikalo = function(){
+
+        //     let total= 0;
+
+        //     this.forEach((item)=>{
+        //         total += item * item;
+        //     })
+
+        //     return total;
+
+        // }
+
+
+
+        // for(let some in data1){
+
+        //     let value = data1[some]
+
+        // }
+
+
+        
+
+       function totalFruitBtao(fruitName){
+
+        let total = 0;
+
+        for(let petty of data){
+
+            if(petty[fruitName]){
+                total += petty[fruitName]
+            }
+
+        }
+            return total;
+
+       }
+
+          
+
+        let totalFruitNikalaHua = 0;
+
+        for(let petty of data){
+
+            if(petty[fruitName]){
+
+
+                let available = totalFruitBtao(fruitName);
+                
+
+                if(fruitQty > available){
+                    if(confirm("itta to fruit nahi h, "+available+ " pare huey hn, dediye?")){
+
+                        fruitQty = available;
+
+                    }else{
+
+                        break;
+                    }
+                }
+
+        // fruitQty
+        // 65   
+
+        totalFruitNikalaHua
+        // 30
+
+
+                if(fruitQty < petty[fruitName]){
+
+                    totalFruitNikalaHua += fruitQty;
+
+                    petty[fruitName] -= fruitQty;
+                    break;
+                }else{
+
+                    totalFruitNikalaHua += petty[fruitName]
+
+                    fruitQty -= petty[fruitName]
+
+                    petty[fruitName] = 0 ;
+
+
+                }
+ 
+            }else{
+                alert("yeh fruit nahi h ")
+                break;
+            }
+
+        }
+
+
+
+    </script>
+    
+</body>
+</html>

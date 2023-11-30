@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    body {
+        background-color: black;
+
+    }
+
+    td {
+        color: white;
+    }
+    #btn{
+        background-color: black;
+        /* color: black; */
+        color: white;
+       
+    }
+    #btn:hover{
+        border: 2px solid rgb(105, 9, 9);
+        border-radius: 10px;
+    }
+
+    
+</style>
+
+<body>
+    <table border=" 1px solid black">
+        <thead>
+            <td>Dish</td>
+            <td>Price</td>
+            <td>Select</td>
+            <td>Please Type Quantity</td>
+        </thead>
+        <tr>
+            <td>Biryani</td>
+            <td>250</td>
+            <td>
+                <input class="dish" type="checkbox" <input type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Chicken Kabab</td>
+            <td>150</td>
+            <td>
+                <input class="dish rotiWaliDish" type="checkbox" </td>
+            <td><input type="number" placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Chicken Karahi</td>
+            <td>250</td>
+            <td>
+                <input class="dish rotiWaliDish" type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Beef Mutton</td>
+            <td>2000</td>
+            <td>
+                <input class="dish rotiWaliDish" type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Nehari</td>
+            <td>550</td>
+            <td>
+                <input class="dish rotiWaliDish" type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Nann</td>
+            <td>20</td>
+            <td>
+                <input id="nan" class="dish" type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>Raita</td>
+            <td>30</td>
+            <td>
+                <input class="dish" type="checkbox" </td>
+            <td><input type="number"placeholder="Type  Quantity"></td>
+
+        </tr>
+        <tr>
+            <td>
+                <button id="btn" onclick="getBill()">Bill Calculate</button>
+            </td>
+            <td>Gross Bill
+                <span id="totalBillContainer">0</span>
+                Discount Bill
+                <span id="totalDiscount">0</span>
+
+            </td>
+            <td>
+                Total Bill
+                <span id="final"></span>
+            </td>
+        </tr>
+    </table>
+    <script>
+        // let rotiWaliDishes = document.getElementsByClassName('rotiWaliDish');
+
+        // for (let dish of rotiWaliDishes) {
+
+        //     dish.onchange = function (evt) {
+
+        //         // if(evt.target.checked){
+        //         nan.checked = evt.target.checked;
+        //         // }
+
+        //     }
+
+        // }
+
+        let rotiWaliDishes = document.getElementsByClassName('rotiWaliDish');
+        let nanChaiya = document.getElementById("nan");
+                for (let itemMila of rotiWaliDishes) {
+                    itemMila.onchange = function(evt){
+
+                        if(evt.target.checked == true){
+                            nanChaiya.checked = true
+                        }
+                    }
+                }
+
+
+
+
+
+        
+        function getBill() {
+            total = 0;
+            let selectedDish = document.getElementsByClassName("dish");
+            for (let dish of selectedDish) {
+                if (dish.checked == true) {
+                    let price = +dish.parentNode.previousElementSibling.innerText;
+                    let qty =dish.parentNode.nextElementSibling.lastChild.value;
+                    total += price * (qty || 1) 
+                    // total += price
+                    document.getElementById("totalBillContainer").innerText = total
+                }
+            }
+            totalBillContainer.innerText = totalDiscount.innerText = total;
+            if (total > 1500) {
+                totalDiscount.innerText = total * 15 / 100;
+                document.getElementById("final").innerText = totalBillContainer.innerText - totalDiscount.innerText
+
+            }
+
+            console.log(total);
+        }
+    </script>
+</body>
+
+</html>

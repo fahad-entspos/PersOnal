@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<img id="weatherICON" src="" alt="">
+
+<select onchange="getWeather(placeSelector.value)" id="placeSelector">
+    <option>Faisalabad</option>
+    <option>Karachi</option>
+    <option>Quetta</option>
+    <option>Peshawar</option>
+    <option>Gilgit</option>
+</select>
+
+<script>
+
+    async function getWeather(city){
+
+        let resp = await axios.get("http://api.weatherapi.com/v1/current.json?key=6129828d27af415ca8f141622221801&q="+city+"&aqi=no");
+        weatherICON.src =  'http:'+resp.data.current.condition.icon
+        
+        // axios.get("http://api.weatherapi.com/v1/current.json?key=6129828d27af415ca8f141622221801&q="+city+"&aqi=no").then((resp)=>{            
+        //     weatherICON.src =  'http:'+resp.data.current.condition.icon
+        //     console.log(resp.data.current.temp_c);            
+        // });
+        
+    }
+// 6129828d27af415ca8f141622221801 
+
+// API, application programming interface
+// ready made code 
+
+    </script>
+</body>
+</html>

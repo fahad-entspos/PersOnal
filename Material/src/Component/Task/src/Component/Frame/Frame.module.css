@@ -1,0 +1,40 @@
+.container{
+    background-color: #E3EFFD;
+border-radius: 20px;
+    padding: 2%;
+   margin-top: 5%;
+    border: 0px 20px 0px   rgb(231, 131, 0);
+}
+.Guaranteed{
+    padding-bottom: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Vetted{
+    color: #0068E1;
+}
+
+.Happiness{
+    color: #FF9E45;
+    background-color: #FDEFE2;
+
+}
+.containerone{
+    border-radius: 20px;
+    margin-top: 5%;
+ 
+
+    padding: 1.3%;
+
+    background-color: #FDEFE2;
+
+}
+.mix{
+}
+
+.Guaranteed{
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            width: 200px;
+            height: 200px;
+            border: 2px solid ;
+            margin: 2px;
+            
+        }
+        #parents{
+            display: flex;
+            /* height: 100px; */
+
+        }
+        .img{
+            width: 200px;
+            height: 90px;
+        }
+    </style>
+</head>
+<body>
+    <div id="parents">
+
+    </div>
+
+    <script>
+    //   let data=[
+    //       {
+    //           name:"jia",
+    //           roll:06,
+    //           subject:["math","urdu","eng"]
+
+    //       },
+    //       {
+    //           name:"jia",
+    //           roll:06,
+    //           subject:["math","urdu","eng"]
+
+    //       },
+    //       {
+    //           name:"jia",
+    //           roll:06,
+    //           subject:["math","urdu","eng"]
+
+    //       }
+
+    //   ]
+
+   function saveToDB(){
+localStorage.setItem("myData", JSON.stringify(data))
+
+}
+  
+
+
+let data = JSON.parse( localStorage.getItem("myData") || "[]"  )
+  
+
+make();  
+
+function make(){
+        parents.innerHTML='';
+data.forEach((obj,ind)=>{
+
+
+
+    parents.innerHTML += '<div class="box">\
+        <img class="img" src="pic.jpg" alt="">\
+         Name '+obj.name+' <br>subject '+obj.subject+' <br>Roll no '+ obj.roll+'<br> <button onClick="del('+ind+')">del</button> <br> <button onClick="Edit('+ind+')" >Edit</button> </div>'
+        });
+        saveToDB()
+       
+
+    }
+
+         function del(ind){
+            data.splice(ind,1);
+
+            make();
+        }
+
+
+        function Edit(ind){
+    data[ind].name = prompt("Enter New Name");
+    data[ind].subject=prompt("enter a subjt")
+    data[ind].roll=prompt("enter a roll")
+    make()
+    
+}
+
+
+console.log(data);
+
+
+
+
+    </script>
+
+</body>
+</html>

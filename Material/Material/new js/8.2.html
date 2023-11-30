@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+        let num1 = +prompt("1st number");
+        let num2 = +prompt("2st number");
+
+        let data = [];
+
+        for (let i = num1; i <= num2; i++) {
+
+            let res = primeFunction(i);
+
+            if (res) {
+                data.push(i);
+            }
+
+        }
+
+
+
+        let count = 0;
+
+        function hello() {
+
+            let some = data[count];
+            console.log(some);
+
+            count++;
+
+            if (count == data.length) {
+                clearInterval(key);
+            }
+
+
+
+        }
+
+        let key = setInterval(hello, 500); 
+
+
+
+        function primeFunction(number){
+            let isprime = true;
+
+            for (let i = 2; i < number; i++) {
+                if(number % i == 0) {
+                    isprime = false;
+                    break;
+                }
+            }
+            return isprime;
+
+        }
+
+
+
+    </script>
+</body>
+
+</html>

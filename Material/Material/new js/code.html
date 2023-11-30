@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+      <script>
+    
+        
+        function startGame(){
+              
+        console.log("outer function chla");
+    
+          function connectToPeers(){
+    
+            console.log("andr wala function chla")
+    
+          }
+    
+          connectToPeers();
+    
+        }
+    
+        startGame();
+    
+        let name = "khurram";
+    
+        for(let i=0;i<5;i++){
+    
+          let a = 20;
+    
+          console.log(name);
+          console.log(a);
+        }
+    
+    
+    
+    // let count = 0;
+    
+    // function hello(){
+    
+    //   let res = primeFunction(count);
+    
+    //   if(count > 5 && res){
+    //     clearInterval(some)
+    //   }
+    
+    //   console.log(count);
+    //   count++;
+    
+    
+    // }
+    
+    // let some = setInterval(hello, 500)
+    
+    
+    function primeFunction(number){
+            let isprime = true;
+            // if(number ===1){
+            //     console.log("1 is neither prime nor composite number");
+            // }
+            // else if(number > 1)
+            //     {
+                    for(let i=2; i < number; i++){
+                    if(number % i == 0){
+                        isprime = false;
+                        break;
+                        }
+                    }
+                    return(isprime);
+        
+                    // if(isprime){
+                    //     console.log(number+" is a prime number");
+                    // }
+                    // else{
+                    //     console.log(number+" is not a prime number");
+                    // }
+                }
+            // }
+    
+    
+      </script>
+      
+    </body>
+    </html>
+    [20:14, 9/8/2022] Sir Khurram GamicaCloud:
+    
+    
+    let num1 = +prompt("1st number");
+    let num2 = +prompt("1st number");
+    
+    let data = [];
+    
+    for(let i =num1;i<=num2;i++){
+    
+      let res = primeFunction(i);
+    
+      if(res){
+        data.push(i);
+      }
+    
+    }
+    
+    
+    
+    let count = 0;
+    
+    function hello(){
+    
+      let some = data[count];
+      console.log(some);
+    
+      count++;
+    
+      if(count == data.length){
+        clearInterval(key);
+      }
+    
+      
+    
+    }
+    
+    let key = setInterval(hello, 500);
+
+
+    
+    [20:16, 9/8/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+    <html lang="en">
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+    </head>
+    <body>
+    
+      <script>
+    
+    let num1 = +prompt("1st number");
+    let num2 = +prompt("1st number");
+    
+    let data = [];
+    
+    for(let i =num1;i<=num2;i++){
+    
+      let res = primeFunction(i);
+    
+      if(res){
+        data.push(i);
+      }
+    
+    }
+    
+    
+    
+    let count = 0;
+    
+    function hello(){
+    
+      let some = data[count];
+      console.log(some);
+    
+      count++;
+    
+      if(count == data.length){
+        clearInterval(key);
+      }
+    
+      
+    
+    }
+    
+    let key = setInterval(hello, 500);
+        
+        // function startGame(){
+              
+        // console.log("outer function chla");
+    
+        //   function connectToPeers(){
+    
+        //     console.log("andr wala function chla")
+    
+        //   }
+    
+        //   connectToPeers();
+    
+        // }
+    
+        // startGame();
+    
+        // let name = "khurram";
+    
+        // for(let i=0;i<5;i++){
+    
+        //   let a = 20;
+    
+        //   console.log(name);
+        //   console.log(a);
+        // }
+    
+    
+    
+    // let count = 0;
+    
+    // function hello(){
+    
+    //   let res = primeFunction(count);
+    
+    //   if(count > 5 && res){
+    //     clearInterval(some)
+    //   }
+    
+    //   console.log(count);
+    //   count++;
+    
+    
+    // }
+    
+    // let some = setInterval(hello, 500)
+    
+    
+    function primeFunction(number){
+            let isprime = true;
+            // if(number ===1){
+            //     console.log("1 is neither prime nor composite number");
+            // }
+            // else if(number > 1)
+            //     {
+                    for(let i=2; i < number; i++){
+                    if(number % i == 0){
+                        isprime = false;
+                        break;
+                        }
+                    }
+                    return(isprime);
+        
+                    // if(isprime){
+                    //     console.log(number+" is a prime number");
+                    // }
+                    // else{
+                    //     console.log(number+" is not a prime number");
+                    // }
+                }
+            // }
+    
+    
+      </script>
+      
+    </body>
+    </html>
+    [20:17, 9/8/2022] Sir Khurram GamicaCloud: Assignment 1)
+    
+    Display the prime numbers in reverse
+    [24:27, 9/9/2022] +92 303 9622175: let secondnumber = +prompt("Enter largest Number");
+            let firstnumber = +prompt("Enter lowest Number");
+    
+            let arr=[];
+    //To push prime numbers in an array
+            for(i=secondnumber;i>=firstnumber;i--){
+                let output = primeFunction(i);
+                if(output){
+                    arr.push(i);
+                }
+            }
+    
+    //To show that array
+            let count = 0;
+            function hello(){
+    
+                let some = arr[count];
+                console.log(some);
+                count++;
+                if(count ==arr.length){
+                    clearInterval(key);
+                }
+            }
+            
+            let key = setInterval(hello,1000);
+        
+        
+    
+    //To find prime function
+            function primeFunction(number){
+            let isprime = true;
+                    for(let i=2; i < number; i++){
+                    if(number % i == 0){
+                        isprime = false;
+                        break;
+                        }
+                    }
+                    return(isprime);
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <script>
+
+                  let data= [2,3,4,5,6,7,8,9,10];
+          
+                 let final = data.filter( function(abc){
+          
+                  if(abc % 2==0){
+                      return "haider"
+                  }
+          
+                          // if(abc > 6){
+                          //     return true;
+                          // }
+          
+                  } );
+                  console.log(final)
+          
+          
+                  // function makeBiryani(){
+                  //     console.log("baryani is baning");
+                  // }
+          
+                  // someFunction(makeBiryani)
+          
+                  // function someFunction(hello){
+          
+                  //     hello();
+          
+                  // }
+          
+                  // High Order Functions
+          
+                  // let a1 = [1,2,3,4];
+                  // let b1 = [5,6,7,8];
+          
+                  // let d1 =   sum(a1, b1);
+                  // console.log(d1);
+          
+                  //  function sum(a, b){
+                      
+                  //     let newArray = [];
+          
+                  //     for(let i = 0;i<a.length;i++){
+                  //         newArray.push(a[i] + b[i]);
+                  //     }
+          
+                  //     return newArray
+          
+                  //  }
+          
+                  // let sum = add(2,3,5,6,7);
+          
+                  // function add(...a){
+          
+                  //     // a ki baad vali state
+                  //     [2,3,5,6,7]
+          .
+                  //     let total = 0;
+          
+                  //     for(let someThing of a){
+                  //         total += someThing
+                  //     }
+          
+                  //     return total;
+          
+                  // }
+          
+                 
+                  // console.log(sum);
+          
+          
+              </script>
+</body>
+</html>

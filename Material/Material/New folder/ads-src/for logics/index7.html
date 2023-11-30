@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+
+<body>
+   <table id="myTable" border="1">
+      <tr>
+         <td id="name">Name</td>
+         <td id="city">City</td>
+         <td id="email">Email</td>
+      </tr>
+      <tr>
+         <td>Tom</td>
+         <td>smd</td>
+         <td>tom2@gmail.com</td>
+      </tr>
+      <tr>
+         <td>Jerry</td>
+         <td>fsd</td>
+         <td>jerry3@gmail.com</td>
+      </tr>
+   </table>
+   <button onclick="get()">Get data</button>
+
+
+
+
+
+
+   <script>
+
+      let gv;
+      document.onkeydown = function (event) {
+
+         if (event.keyCode == 46) {
+
+            let alltd = document.querySelectorAll("tr")
+
+            alltd.forEach((tr)=>{
+               let milgya= tr.children[gv]
+               milgya.remove();
+            })
+
+             
+
+          
+
+         }
+      }
+
+
+      function get() {
+         let abc = prompt("enter a letter")
+
+         let n = document.getElementById(abc)
+         let b = n.parentNode.children;
+         let x = [...b]
+         console.log(x);
+         let y = x.indexOf(n);
+         
+
+         [...document.querySelectorAll('tr')].slice(1).forEach((myTr) => {
+
+            console.log(myTr.children[y].innerText)
+
+         });
+
+
+
+
+         console.log(y)
+      }
+
+
+      [...document.querySelectorAll('#name,#city,#email')].forEach((myTd) => {
+
+         //   gv=y
+         myTd.onclick = function () {
+            let b = myTd.parentNode.children;
+            let x = [...b]
+            let y = x.indexOf(myTd);
+            gv=y;
+            [...document.querySelectorAll("tr")].splice(0).forEach((myTr) => {
+
+
+
+               myTr.children[y].style.backgroundColor = 'red';
+            })
+
+
+
+         }
+
+
+      });
+
+
+
+
+   </script>
+</body>
+
+</html>

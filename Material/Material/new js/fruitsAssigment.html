@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let fruits = [
+            {
+                
+                apple:10,
+                mango:30
+            },
+            {
+                banana:10,
+                cherry:20,
+                mango:30
+            },
+            {
+                apple:10,
+                cherry:20,
+                mango:30
+            }
+        ];
+
+        let fruitName =  prompt("Enter fruit");
+        let qty =  prompt("Kinna fruit?");
+
+        for(let fruitBucket of fruits){
+
+            if(fruitName in fruitBucket){
+
+                if(qty <= fruitBucket[fruitName]){
+                        fruitBucket[fruitName] -= qty;
+                        break;
+                }
+                else{
+
+                    qty -= fruitBucket[fruitName];
+                    fruitBucket[fruitName] = 0; 
+
+                }
+            }
+
+        }
+        console.log(fruits);
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+
+let items = [1,2,3,4,5,6,8,8,9,10,12,12,13];
+
+        for(let i=0;i<items.length;i++){
+
+            if(items[i] % 2 == 0){
+                removeItem(i);
+                i--;
+            }
+
+        }
+
+        function removeItem(index){
+
+            for(let i= index;i<items.length-1;i++){
+                items[i] = items[i+1];
+            }
+
+            items.pop();
+
+        }
+
+    </script>
+</body>
+</html>

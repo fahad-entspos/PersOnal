@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    let data = [
+      {
+        name: "ahmed",
+        subjects: [
+          {
+            category: "science",
+            items: ["chemistry", "biology"]
+          }
+        ]
+      },
+      {
+        name: "noor",
+        subjects: [
+          {
+            category: "arts",
+            items: ["English", "Urdu"]
+          }
+        ]
+      },
+      {
+        name: "farhan",
+        subjects: [
+          {
+            category: "science",
+            items: ["Physics", "Chemistry"]
+          }
+        ]
+      }
+    ];
+
+    let get = prompt("enter a subject")
+
+    data.forEach(function (obj1) {
+      sub = obj1.subjects
+
+      sub.forEach(function (obj2) {
+        objec = obj2.category
+        if (get[0] == objec[0]) {
+
+
+          console.log(obj2.items)
+          
+        } else if (get[0] == objec[0]) {
+          console.log(obj2.items)
+
+        }
+            
+        else {
+          alert("ni h")
+        }
+
+
+
+      })
+
+    })
+    console.log()
+
+
+
+
+  </script>
+</body>
+
+</html>
+
+
+
+<!-- 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+ <script>
+     let data = [
+  {
+    name:"ahmed",
+    subjects:[
+      {
+        category:"science",
+        items:["chemistry", "biology"]
+      }
+    ]
+  },
+  {
+    name:"noor",
+    subjects:[
+      {
+        category:"Arts",
+        items:["English", "Urdu"]
+      }
+    ]
+  },
+
+];
+let num=prompt("enter the name ")
+
+
+data.find((d)=>{
+if(num.toLocaleLowerCase()=="arts"){
+    console.log(data[0].subjects[0].items);
+}else if(num.toLocaleLowerCase()=="science"){
+    console.log(data[1].subjects[0].items);
+}else{
+   alert("please enter the correct category ")
+}
+})
+ </script>
+</html> -->

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<body>
+    <script>
+        
+        async function getWeather(){
+
+          let  res = await  axios.get("http://api.weatherapi.com/v1/current.json?key=77fe87e7568549a3957124427223009&q=faisalabad&aqi=no")
+          console.log(res.data);
+          pic.src = 'http:'+ res.data.current.condition.icon;
+          some.innerHTML = res.data.current.temp_c
+        }
+        getWeather()
+        
+        
+        
+        
+        
+         //  .then(function(resp){
+        //     console.log(resp.data)
+        // }).catch(function(err){
+        //     console.log(err);
+        // })
+    </script>
+<img id="pic" src="" alt="">
+    <h1 id="some"></h1>
+</body>
+</html>

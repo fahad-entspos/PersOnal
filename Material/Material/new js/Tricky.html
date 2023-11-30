@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let data  = [
+        ["a", "b", "c", "d", "e"],
+        ["f", "g", "h", "i", "j"],
+        ["k", "l", "m", "n", "o"],
+        ["p", "q", "r", "s", "t"],
+        ["u", "v", "w", "x", "y"]
+     ];
+     let ch  =  prompt("Enter character");
+     let indexMilgya;
+
+     for(let miniArray of data){
+        let index = miniArray.indexOf(ch);
+        if(index != -1){
+           indexMilgya = index ;
+           continue;
+        }
+
+        if(indexMilgya != undefined && miniArray[indexMilgya+1]){
+            indexMilgya++;
+            ch += miniArray[indexMilgya]
+        }
+
+     }
+
+     console.log(ch);
+    </script>
+</body>
+</html>

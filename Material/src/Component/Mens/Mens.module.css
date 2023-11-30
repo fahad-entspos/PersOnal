@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img{
+width: 350px;
+}
+.container{
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.main{
+    color: white;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #005ECB;
+
+}
+
+.img{
+    box-shadow: 10 wheat;
+    filter: drop-shadow(0 100px 100px rgb(255, 255, 255));
+
+}

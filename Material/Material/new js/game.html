@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    img {
+        width: 80px;
+        position: absolute;
+        top: 470px;
+        right: 582px;
+    }
+
+    body {
+        background-image: url(s.png.jpg);
+        background-size: cover;
+        overflow: hidden;
+    }
+
+    #btn1 {
+        right: 0;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div id="splashScreen">
+            <img onclick="startGame()" id="btn1" src="btn.jpeg" alt="">
+        </div>
+
+        <div id="gameScreen" style="display: none">
+            <img id="rckt" src="rocket.png" alt="">
+        </div>
+    </div>
+    <script>
+        function startGame() {
+            splashScreen.style.display = 'none';
+            gameScreen.style.display = 'block';
+
+        }
+
+        document.body.onkeydown = function (evt) {
+            switch (evt.keyCode) {
+                case 37:
+                    rckt.style.left = (rckt.offsetLeft - 20) + "px"
+                    break;
+                case 38:
+                    if(rckt.offsetTop > 20){
+                        rckt.style.top = (rckt.offsetTop - 20) + "px"
+                    }
+
+                    break;
+                case 39:
+                    rckt.style.left = (rckt.offsetLeft + 20) + "px"
+
+                    break;
+                case 40:
+                    rckt.style.top = (rckt.offsetTop + 20) + "px"
+
+                    break;
+            }
+        }
+    </script>
+</body>
+
+</html>

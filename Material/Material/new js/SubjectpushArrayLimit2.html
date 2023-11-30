@@ -1,0 +1,48 @@
+<script>
+    let students = [
+        {
+            name:"ali",
+            subjects:["bio", "PHysics", "chemistry", "economics"]
+        }, 
+        {
+            name:"rameez",
+            subjects:["ENGLISH", "PHysics", "maths"]
+        },
+        {
+            name:"aqsa",
+            subjects:["Pakistan Studies", "Accounting"]
+        },
+        {
+            name:"khurram",
+            subjects:["ENGLISH", "PHysics", "communication skills"]
+        },
+        {
+            name:"sarmad",
+            subjects:["stats", "management", "PHysics"]
+        }
+    ];
+
+    
+    array1=[];
+    
+    for (let student of students){
+        for(let  abc of student.subjects){
+            if(countSubject(abc) < 2){
+                
+                array1.push(abc)
+            }
+        }
+    }       
+    console.log(array1);
+    
+    function countSubject(subject1){
+        let count = 0;
+        array1.forEach(function(parametter1){
+                if(subject1 == parametter1){
+                    count++;
+                }
+            })
+            return count
+    }
+               
+    </script>

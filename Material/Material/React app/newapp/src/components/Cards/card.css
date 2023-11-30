@@ -1,0 +1,11 @@
+.card{
+    width: 280px;
+    overflow: hidden;
+    height: 350px;
+}
+.card-Container{
+    justify-content: space-between;
+    display: flex;
+        flex-wrap: wrap;
+        column-gap: 5px;
+}

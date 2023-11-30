@@ -1,0 +1,45 @@
+.container{
+    color: white;
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main{
+    background: #3B5998;
+    display:flex ;    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    flex-wrap: wrap;
+    padding: 40px;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.Connect{
+    color: white;
+    margin-top: 14px;
+
+}
+
+.Stay{
+    color: white;
+
+}
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    font-size: xx-large;
+    color: white;
+}
+
+.Farenow{
+text-align: center;
+margin: auto;margin-top: 1%;
+
+}
+
+.img{
+    margin-right: 12px;
+    margin-top: 3px;
+    height: 6vh;
+}

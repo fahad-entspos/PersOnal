@@ -1,0 +1,13 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 3rem;
+}
+.img{
+    border-radius: 2rem;
+width: 350px;
+}
+.container{
+    text-align: center;
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #football{
+        width: 100px;
+        height: 100px;
+        top: 100px;
+        left: 0%;
+        right: 0%;
+        position: absolute;
+        margin: auto;
+    }
+</style>
+<body>
+    <img id="football" src="Football-isolated-premium-vector-PNG.png" alt="">
+    <!-- <script>
+        let direction = "up"
+            let limit = "10"
+      let a =  setInterval(() => {
+            if(direction == "up"){
+                football.style.top = (football.offsetTop -1) + "px"
+                if(football.offsetTop < limit){
+                    direction = "down"
+                }
+            }
+                else{
+                    football.style.top = (football.offsetTop + 1) + "px";
+                    if(football.offsetTop == 300 ){
+                        direction = "up"
+                        limit = limit * 2;
+                        if(limit + football.offsetWidth > naturalTop){
+                            clearInterval(a)
+                        }
+
+                    }
+                }
+            
+        }, .110);
+    </script> -->
+    <script>
+        let direction = "up"
+        let limit = "10"
+        let naturalTop = "200"
+      let a =  setInterval(() => {
+            if(direction == "up"){
+                football.style.top = (football.offsetTop - 1) + "px"
+                if(football.offsetTop < limit){
+                    direction = "down"
+                }
+            }
+            else{
+                football.style.top = (football.offsetTop + 1) + "px";
+                if(football.offsetTop ==200){
+                    direction = "up"
+                    limit = limit * 2;
+                    if(limit + football.offsetWidth > naturalTop){
+                        clearInterval(a)
+                    }
+                }
+            }
+            
+        }, 0);
+    </script>
+</body>
+</html>

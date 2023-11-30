@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Volume Meter</title>
+
+    <style>
+        #parent {
+            /* text-align: center; */
+            height: 500px;
+            width: 700px;
+            border: 1px solid red;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .needle {
+            width: 65px;
+            position: absolute;
+            bottom: 120px;
+            left: 70px;
+        }
+
+        .picContainer {
+            position: relative;
+            margin-top: 150px;
+        }
+
+        button {
+            display: block;
+            border-radius: 40px;
+            background-color: yellowgreen;
+            border: none;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="parent">
+        <div class="picContainer">
+            <img src="./Volumemeter.jpg" />
+            <img class="needle" src="./needle.png" />
+            <button onclick="move()">VolumeUp</button>
+        </div>
+
+        <div class="picContainer">
+            <img src="./Volumemeter.jpg" />
+            <img class="needle" src="./needle.png" />
+            <button onclick="moveSecond()">VolumeUp</button>
+        </div>
+
+        <div class="picContainer">
+            <img src="./Volumemeter.jpg" />
+            <img class="needle" src="./needle.png" />
+            <button onclick="moveThird()">VolumeUp</button>
+        </div>
+
+    </div>
+    <!-- <button onclick="move()">VolumeUp</button> -->
+
+    <script>
+        let moveNeedle = document.getElementsByClassName('needle');
+        let removeVolumeBox = document.getElementsByClassName('picContainer');
+        let position1 = 120;
+        let position2 = 120;
+        let position3 = 120;
+
+        //  if (position1 < 281 && position2 < 281 && position3 < 281) {
+        function move() {
+            if (position1 < 281) {
+                position1 += 10;
+                moveNeedle[0].style.bottom = position1 + 'px';
+            }
+            // else {
+            // removeVolumeBox[0].style.display = 'none';
+
+            // }
+        }
+
+        function moveSecond() {
+            if (position2 < 281) {
+                position2 += 10;
+                moveNeedle[1].style.bottom = position2 + 'px';
+            }
+        }
+
+        function moveThird() {
+            if (position3 < 281) {
+                position3 += 10;
+                moveNeedle[2].style.bottom = position3 + 'px';
+            }
+        }
+
+        let peak = false
+
+        let key = setInterval(() => {
+            if (position1 > 280 && position2 > 280 && position3 > 280) {
+                removeVolumeBox[0].style.display = 'none';
+                removeVolumeBox[1].style.display = 'none';
+                removeVolumeBox[2].style.display = 'none';
+                console.log('peak ho gya');
+                peak = true
+            }
+
+            if (peak) {
+                clearInterval(key)
+            }
+        }, 100)
+
+
+
+    </script>
+</body>
+
+</html>

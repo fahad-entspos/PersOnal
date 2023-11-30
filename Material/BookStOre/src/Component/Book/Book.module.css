@@ -1,0 +1,12 @@
+.text{
+    text-align: center;
+}
+
+.text h1{
+    font-size: 3.5rem;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 2%;
+}
+.text p{
+    margin-top: 2%;
+}

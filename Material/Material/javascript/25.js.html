@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .hide{
+        display: none;
+    }
+</style>
+<body>
+    <h1>Wellcome to IsLaMiC BanK</h1>
+    <button onclick="showSignupBox()">New User</button>
+    <button onclick="showLoginForm()">Allready a User</button>
+    <div id="loginBox" class="hide"> <br>
+      <input type="text" id="login_username" placeholder="NAME">
+    <input type="text" id="login_password" placeholder="PASSWORD"> 
+    <button onclick="loginUser()">Login</button>           
+ </div>
+ <div id="signupbox" class="hide">
+     <input type="text" id="signup_user_name" placeholder="Username">
+     <input type="text" id="signup_user_password" placeholder="password">
+     <input type="number" id="signup_user_blance" placeholder="Your Blance">
+     <button onclick="creatUser()">Signup</button>
+
+ </div>
+ <div id="dashBoard" class="hide">
+     <H1>Wellcome To DashBoard</H1>
+     <table>
+         <tr>
+             <td>Name</td>
+             <td id="tUserName"></td>
+             <td>Balance</td>
+             <td id="tUserBlance"></td>
+         </tr>
+     </table>
+ </div>
+ <script>
+     let currentUser;
+     let userAccounts = [];
+
+     function showDashboard(){
+        signupbox.classList.add('hide')
+         loginBox.classList.add('hide') 
+         dashBoard.classList.remove('hide')
+         tUserName.innerText=currentUser.name;
+         tUserBlance.innerText=currentUser.blance;
+     }
+     function showLoginForm(){signupbox.classList.add('hide')
+     loginBox.classList.remove('hide') }
+     function showSignupBox(){
+         signupbox.classList.remove('hide')
+         loginBox.classList.add('hide') }
+        let array =[]
+     function creatUser(){ 
+         let userIndex = array.findIndex(function(user){
+
+return user.name == signup_user_name.value ;
+         })
+         if(userIndex > -1){
+             return alert("User already exists")
+         }
+         let data = {
+             name :signup_user_name.value,
+             password : signup_user_password.value,
+             balance : signup_user_blance.value,
+         }
+         array.push(data)
+
+     }
+function loginUser(){
+    let name = login_username.value;
+    let password = login_password.value;
+    let user = array.find(user=>{
+        if(user.name == name && user.password == password){
+            return true;
+        }
+    })
+        if(user){
+            alert("Milgya")
+            showDashboard();
+        }else{
+            alert("Nahi Milaa")
+        }
+}
+ </script>
+</body>
+</html>

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+
+    .coach{
+        width: 250px;
+        height: 250px;
+        border:1px solid red;
+        
+    }
+
+
+    #coachesContainer, .coach{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        column-gap: 5px;
+    }
+
+    .seat{
+        width: 50px;
+        height: 50px;
+        background-color:magenta;
+    }
+
+</style>
+
+</head>
+<body>
+
+
+    <select onchange="showCoaches()" id="citySelector">
+
+        <option>Select City</option>
+
+    </select>
+
+    <div id="coachesContainer"></div>
+
+    <script>
+
+let cities = [
+        "Hyderabad",
+        "Sukkur",
+        "Rohri",
+        "Sadiqabad",
+        "Multan",
+        "Toba",
+        "Gojra",
+        "Faisalabad",
+        "Saangla",
+        "Hafizabad",
+        "Wazirabad",
+        "Rawalpindi"
+       ];
+
+
+       cities.forEach(function(city){
+
+        citySelector.innerHTML += '<option>'+city+'</option>';
+
+       });
+
+       function showCoaches(){
+
+        coachesContainer.innerHTML = '';
+
+             let cityIndex = cities.indexOf(citySelector.value);
+
+            if(cityIndex > 7){
+                let bogies = coaches.slice(4);
+
+
+                bogies.forEach(function(bogie){
+
+                    let coach = document.createElement('div');
+                    coach.className = "coach";
+                    coachesContainer.appendChild(coach);
+
+
+                    for(let i = 1;i<=bogie.seats;i++){
+
+                    let seat = document.createElement('div');
+                    seat.className = "seat";
+
+                    seat.onclick = function(){
+                        
+                        if(seat.alreadyBooked == undefined){
+
+                            seat.alreadyBooked = true;
+                            bogie.booked++;
+                            seat.style.backgroundColor = "yellow";
+
+
+                        }else{
+
+                            let cancel = window.confirm("Seat cancel karni?")
+
+                            if(cancel == true){
+                                seat.alreadyBooked = undefined;
+                                 bogie.booked--;
+                                seat.style.backgroundColor = "magenta";
+                                alert("seat cancel hogyi j");
+                            }
+
+                        }
+
+                        // seat.style.pointerEvents = "none";
+
+                    }
+
+                    coach.appendChild(seat);
+
+
+                    }
+
+                });
+            
+            
+            }else{
+
+                let bogies = coaches.slice(0,4);
+            }
+
+
+
+       }
+
+        let coaches = [
+            {
+                id:1,
+                seats:10,
+                booked:0
+            },
+            {
+                id:2,
+                seats:10,
+                booked:0
+            },
+            {
+                id:3,
+                seats:10,
+                booked:0
+            },
+            {
+                id:4,
+                seats:10,
+                booked:0
+            },
+            {
+                id:5,
+                seats:10,
+                booked:0
+            },
+            {
+                id:6,
+                seats:10,
+                booked:0
+            },
+            {
+                id:7,
+                seats:10,
+                booked:0
+            },
+            {
+                id:8,
+                seats:10,
+                booked:0
+            },
+            {
+                id:9,
+                seats:10,
+                booked:0
+            },
+            {
+                id:10,
+                seats:10,
+                booked:0
+            }
+        ]
+    
+
+        // let city = prompt("Enter city");
+
+        // let seats = +prompt("Enter seats");
+
+        //     let cityIndex = cities.indexOf(city);
+
+        //     if(cityIndex > 7){
+
+        //         let nextBogies = coaches.slice(4);
+
+        //         for(let coach of nextBogies){
+            
+        //             let dastiabSeats = coach.seats - coach.booked; 
+
+        //             if(seats < dastiabSeats){
+        //                 coach.booked += seats; 
+        //                 break;
+        //             }else{
+        //                 coach.booked += dastiabSeats;
+        //                 seats-=dastiabSeats;
+        //             }
+
+        //         }
+
+        //     }else{
+
+        //         let previousBogies = coaches.slice(0,4);
+        //         for(let coach of previousBogies){
+            
+        //             let dastiabSeats = coach.seats - coach.booked;
+
+        //             if(seats < dastiabSeats){
+        //                 coach.booked += seats; 
+        //                 break;
+        //             }else{
+        //                 coach.booked += dastiabSeats;
+        //                 seats-=dastiabSeats;
+        //             }
+
+        //         }
+        //     }
+    </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="ascending()">Asending</button>
+    <button onclick="descending()">Descending</button>
+    
+    <table id="myTable" border="1"></table>
+    <script>
+        let gv;
+        document.onkeydown=function(event){
+            if(event.keyCode==46){
+                gv.remove();
+            }
+         }
+        let abc=+prompt('enter nbr of elements')
+        let array=[]
+        // let array=[ 23,28.67,20,45,108];
+         for(i=0;i<=abc;i++){
+            b=+prompt('enter a nbr')
+            array.push(b)
+        }
+        show();
+          function show(){
+              myTable.innerHTML='';
+            for( let values of array){
+            myTable.innerHTML+="<tr  onclick='changeColor()'> <td>"+values+"</td> <td>"+values+"</td><td>"+values+"</td> <td>"+values*2+"</td></tr>"
+    }
+         }
+         function ascending(){
+             array.sort(function(next,prev){
+            
+                
+                if(next>prev){
+                    return 1;
+                }
+                else if(prev>next){
+                    return -1;
+                }
+                else{
+                    return 0;
+                }
+                  
+             });
+         show();
+        }
+
+
+
+        function descending(){
+             array.sort(function(next,prev){
+            
+                
+                if(next<prev){
+                    return 1;
+                }
+                else if(prev<next){
+                    return -1;
+                }
+                else{
+                    return 0;
+                }
+                
+             });
+         show();
+
+            }
+
+
+            function changeColor(){
+                if(gv){
+
+                
+                gv.style.backgroundColor="transparent";
+                }
+                gv=event.target.parentNode;
+            
+               event.target.parentNode.style.backgroundColor='red';
+               
+            }
+
+
+
+
+
+
+        console.log(array)
+    </script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+.icon{
+    width: 2rem;
+    height: 2rem;
+margin-left: 2rem; 
+
+    color: rgb(28, 23, 197);
+    cursor: pointer;
+
+}
+.icons{
+    color: rgba(0, 0, 0, 0.957);
+    cursor: pointer;
+    width: 2rem;
+    font-family:serif;
+    font-size: 1.5rem;
+margin-left: 2rem; 
+padding-top: .4rem;
+  height: 2rem;
+}
+.main{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 2rem;
+}

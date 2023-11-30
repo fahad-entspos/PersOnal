@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let vowels = ['a','e','i','o','u']
+        let words = [
+            'apple',
+            'banana',
+            'mango',
+            'orange',
+            'onion',
+            'cherry',
+            'icecream', ]
+            
+            function vowelCheckkaro(myWord){
+                let ch = myWord[0];
+                if(vowels.includes(ch)){
+                    return true;
+                }
+            }
+            for(let i=0;i<words.length;i++){
+                let word = words[i];
+                let result = vowelCheckkaro(word);
+                            
+                if(result == true){
+                    words.splice(i,1);
+                    i--;
+                }
+            }
+    </script>
+</body>
+</html>

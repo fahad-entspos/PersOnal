@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    *{
+        margin: 0%;
+        padding: 0%;
+    }
+    #main{
+        position: relative; 
+    }
+    #input1{
+        width: 100px;
+        height: 100px;
+        margin: 20px;
+        text-align: center;
+        background-color: rgb(232, 77, 11);
+        border-radius: 20px;
+position: absolute; }
+    #h1{
+        margin-left: 175px;
+        padding-top: 45px;
+position: absolute;
+    }
+    #h2{
+        margin-left: 420px;
+        margin-top: 50px;
+
+position: absolute;
+    }
+    #input2{
+        border-radius: 20px;
+        background-color: rgb(232, 77, 11);
+
+        width: 100px;
+        text-align: center;
+        height: 100px;
+        margin-left: 300px;
+        margin-top: 18px;
+
+position: absolute;
+    }
+    .btn{
+        margin-left: 490px;
+        margin-top: 50px;
+        position: absolute;
+        width: 40px;
+        height: 30px;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+    
+
+    
+
+    }
+    .btn1{
+        margin-left: 550px;
+        margin-top: 50px;
+        position: absolute;
+        width: 40px;
+        height: 30px;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+
+    }
+    .btn2{
+        margin-left: 610px;
+        margin-top: 50px;
+        position: absolute;
+        width: 40px;
+        height: 30px;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+
+    }
+    .btn3{
+        background-color: black;
+        color: white;
+        margin-left: 680px;
+        margin-top: 50px;
+        position: absolute;
+        width: 40px;
+        height: 30px;
+        border-radius: 10px;
+
+    }
+    .mainbtn{
+        position: relative;
+    }
+    .btn:hover{
+        border: 4px solid rgb(205, 32, 32);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .btn1:hover{
+        border: 4px solid rgb(205, 32, 32);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .btn2:hover{
+        border: 4px solid rgb(205, 32, 32);
+        border-radius: 10px;
+        text-align: center;
+    }
+    .btn3:hover{
+        border: 4px solid rgb(205, 32, 32);
+        border-radius: 10px;
+        text-align: center;
+    }
+   #daddy{
+    width: 781px;
+    height: 350px;
+    background-color: rgb(48, 48, 54);
+   }
+</style>
+<body>
+    <div id="daddy">
+    <div id="main">
+        <input type="text" id="input1">
+        <h2 id="h1">   (+ - | */) </h2>
+        <h2 id="h2">   = </h2>
+        <input type="text" id="input2">
+        
+    </div>
+    <div id="mainbtn">
+        <button class="btn"  onclick="add()">Add</button>
+        <button class="btn1" onclick="sub()" >Sub</button>
+        <button class="btn2" onclick="multi()" >Multi</button>
+        <button class="btn3" onclick="div()" >Div</button>
+    </div>
+        <script>
+            function add(){
+
+                a = document.getElementById("input1").value
+                b = document.getElementById("input2").value
+                c = a + b ;
+                alert(c)
+            }
+            function add(){
+
+a = +document.getElementById("input1").value
+b = +document.getElementById("input2").value
+c = a + b ;
+alert(c)
+}
+function sub(){
+
+a = document.getElementById("input1").value
+b = document.getElementById("input2").value
+c = a - b ;
+alert(c)
+}
+function multi(){
+
+a = document.getElementById("input1").value
+b = document.getElementById("input2").value
+c = a * b ;
+alert(c)
+}
+function div(){
+
+a = document.getElementById("input1").value
+b = document.getElementById("input2").value
+c = a / b ;
+alert(c)
+}
+        </script>
+        </div>
+</body>
+</html>

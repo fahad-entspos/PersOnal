@@ -1,0 +1,25 @@
+.main{
+    margin: auto;
+    background-color: grey;
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    column-gap: 5rem;
+    padding: 5%;
+    margin: auto;
+    row-gap: 2rem;
+}
+.award{
+    margin: auto;
+    text-align: center;
+}
+
+.award h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.icon{
+    margin: auto;
+font-size: xx-large;
+}

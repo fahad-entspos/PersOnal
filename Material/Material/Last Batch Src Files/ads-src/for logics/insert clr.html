@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #parent{
+       
+        margin: 0%;
+        display: flex;
+    }
+    .some{
+        /* position: relative; */
+
+        width: 50px;
+        height: 100px;
+        /* margin: 20px; */
+        /* text-align: center; */
+
+            background-color: rgb(255, 0, 0);
+    }
+
+</style>
+<body>
+    <div id="parent">
+        <div id="one" class="some"></div>
+        <div id="two" class="some"></div>
+        <div id="three" class="some"></div>
+        <div id="four" class="some"></div>
+        <div id="five" class="some"></div>
+        <div id="six" class="some"></div>
+        <div id="seven" class="some"></div>
+        <div id="eight" class="some"></div>
+        <div id="nine" class="some"></div>
+    </div>
+</body>
+</html> -->
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box {
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+            margin: auto;
+        }
+        .container {
+            display: flex;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="red" class="box" onclick="changeColor(this)">red</div>
+        <div id="green" class="box" onclick="changeColor(this)">green</div>
+        <div id="yellow" class="box" onclick="changeColor(this)">yellow</div>
+        <div id="gray" class="box" onclick="changeColor(this)">gray</div>
+    </div>
+
+    <script>
+        let someTag;
+        function changeColor(evt) {
+
+            if (someTag != undefined) {
+                someTag.style.backgroundColor = "transparent"
+                someTag.style.borderRadius = "0";
+
+            }
+            let Color = event.target.innerText;
+            evt.style.backgroundColor = Color;
+            evt.style.borderRadius = "30px";
+            someTag = evt;
+        }
+
+
+    </script>
+</body>
+
+</html>

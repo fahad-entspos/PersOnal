@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<div id="container"></div>
+<body>
+    <select id="fruit" onchange="selectedFruits()">
+        <option>Apple</option>
+        <option->Banana</option>
+        <option>Orange</option>
+        <option>Mango</option>
+        <option>Cherry</option>
+    </select>
+    <button onclick="showFruits()">show fruits</button>
+    <script>
+        let some;
+        function selectedFruits(){
+       let f= document.getElementById("fruit").value;
+        some=f;
+         console.log(f)
+         }
+
+         function showFruits(){
+              let tag= document.getElementById("container")
+                let img=document.createElement('img')
+                img.src= some+".jpg";
+                tag.appendChild(img)
+         }
+        
+    </script>
+    
+</body>
+</html>

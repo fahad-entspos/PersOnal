@@ -1,0 +1,91 @@
+.main {
+  width: 80%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.43);
+border-radius: .5%;
+  overflow: hidden;
+margin: auto;
+margin-top: .5%;
+border: 1px solid rgb(0, 0, 0);
+}
+h1{
+text-align: center;
+color: white;
+font-size: 2.5rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+.Apple{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.words{
+  color: rgb(255, 3, 120);
+}
+
+.textareTwo{
+  width: 18%;
+  height: 10%;
+  border-radius: 12%;
+  align-items: center;
+  padding: 2%;
+  text-align:center;
+  overflow: hidden;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(247, 0, 148);
+  background-color: rgba(0, 0, 0, 0.738);
+}
+.img{
+  width: 25%;
+  margin: auto;
+  margin-top: 4%;
+}
+.special{
+  flex-wrap: wrap;
+  display: flex;
+  gap: 12%;
+  margin-top: 2%;
+  justify-content:space-around;
+}
+.smartwatchTwo{
+  box-shadow: 1px 3px 5px 6px rgba(255, 255, 255, 0.446);
+  width: 30%;
+  margin-top: 5%;
+}
+.textareThree{
+  width: 18%;  padding: 2%;
+
+  border-radius: 12%;
+  align-items: center;
+  text-align:center;
+  overflow: hidden;
+  height: 10%;
+
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(247, 0, 148);
+  background-color: rgba(0, 0, 0, 0.738);
+}
+
+.para{
+  font-size: 1vw;
+}
+
+.textareFour{
+  box-shadow: 1px 3px 5px 6px rgba(255, 255, 255, 0.446);
+width:8%;
+background-color:black ;
+border-radius: 20%;
+
+}
+.con{
+  display: flex;
+  justify-content: space-around;
+}
+.textareFive{
+  width:8%;
+  box-shadow: 1px 3px 5px 6px rgba(255, 255, 255, 0.446);
+background-color:black ;
+border-radius: 20%;
+}
+
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="abc()">Onclick</button>
+    <button ondblclick="abc1()">Doubleclick</button>
+    <button onmouseover="abc2()">Mouse Hover</button>
+    <input onchange="onchnge()"  id="some" type="text">
+        <script>
+function abc(){ console.log("onclick chaling");}
+function abc1(){ console.log(" double click chaling");}
+function abc2(){ console.log(" Mouse Hover");}
+function onchnge(){
+    console.log(some.value);
+}
+        </script>
+</body>
+</html>

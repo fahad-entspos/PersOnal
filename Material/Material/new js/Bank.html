@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            margin-top: 30px
+        }
+    </style>
+</head>
+
+<body>
+
+    <div>
+        Name <input id="userName" type="text">
+    </div>
+    <div>
+        Password <input id="password" type="text">
+    </div>
+    <div>
+        Amount <input id="amount" type="text">
+    </div>
+    <div>
+        <button onclick="accountCreation()">Create Account</button>
+    </div>
+    <button onclick="deleteUserByName()">Delete Usre</button>
+
+    <table border="1">
+
+        <tr>
+            <th>Name</th>
+            <th>Amount</th>
+        </tr>
+
+        <tbody id="accountsTable"></tbody>
+
+    </table>
+
+    <script>
+
+
+function deleteUserByName(){
+
+let userKaName =  prompt("etner name");
+
+let userMilgya = users.find(function(abv){
+
+    if(abv.name == userKaName){
+        return true;
+    }
+
+});
+
+if(userMilgya){
+    users.splice( users.indexOf(userMilgya), 1  );
+    updateUI();
+}
+
+
+}
+
+
+
+        function delUser(abc) {
+            users.splice(abc, 1)
+            updateUI();
+            console.log(users);
+        }
+
+        function updateUI() {
+
+            accountsTable.innerHTML = "";
+
+            for (let user of users) {
+                accountsTable.innerHTML += '<tr><td><button onclick=delUser(' + users.indexOf(user) + ')>Del</button></td><td>' + user.name + '</td><td>' + user.amount + '</td></tr>'
+            }
+
+
+        }
+
+        let username = document.getElementById("userName");
+        let password = document.getElementById("password");
+        let amount = document.getElementById("amount");
+
+        let users = [];
+
+        function accountCreation() {
+
+            let user = {
+                name: username.value,
+                password: password.value,
+                amount: amount.value
+            }
+            users.push(user);
+
+            updateUI();
+
+            console.log(users);
+        }
+    </script>
+</body>
+
+</html>

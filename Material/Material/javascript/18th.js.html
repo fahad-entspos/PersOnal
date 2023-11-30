@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    
+    #box{
+        width: 600px;
+        height: 600px;
+        border:2px solid red;
+        margin:auto;
+    }
+
+    #circle{
+        position: absolute;
+        top:0;
+        bottom:0;
+        margin:auto;
+        border-radius: 100px;
+        width: 100px;
+        height: 100px;
+        background-color: orange;
+        left:0;
+    }
+    </style>
+
+</head>
+<body>
+
+    <div id="box">
+
+        <div id="circle"></div>
+
+    </div>
+
+    <script>
+
+        let meriDir = "left";
+        setInterval(() => {
+            let rightSide = circle.offsetLeft + circle.offsetWidth;
+            let boxRight = box.offsetLeft + box.offsetWidth;
+            if(circle.offsetLeft >= box.offsetLeft && circle.offsetLeft <= boxRight){
+                circle.style.backgroundColor = "red"
+            }
+            else{
+                circle.style.backgroundColor = "orange"
+            }
+            if(meriDir == "left"){
+                circle.style.left = (circle.offsetLeft + 1) + "px"
+                if(rightSide == window.innerWidth){
+                    meriDir = "right"
+                }
+            }else{
+                circle.style.left = (circle.offsetLeft  -1) + "px";
+                if(circle.offsetLeft == 0){meriDir = 'left'}
+            }
+            
+        }, 0);
+       
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+  </style>
+
+</head>
+<body>
+
+  <button onclick="addUser()">Add User</button>
+
+  <table border="1" id="parent1">
+
+  </table>
+<script>
+
+  let users = JSON.parse(localStorage.getItem('data') ||'[]');
+
+  updateUI();
+  function saveToDB(){
+
+    localStorage.setItem("data", JSON.stringify(users));
+  }
+  function addUser(){
+    let name = prompt("Name btyen");
+    let password = prompt("Name btyen");
+    let email = prompt("Name btyen");
+
+    let user = {
+      name, password, email
+    };
+
+    users.push(user);
+
+    updateUI();
+  }
+  function updateUI(){
+
+    parent1.innerHTML = '';
+
+    users.forEach((user)=>{
+
+      parent1.innerHTML += '<tr><td>'+user.name+'</td><td>'+user.password+'</td><td>'+user.email+'</td></tr>'
+
+    })
+
+  }
+  
+</script>
+
+  
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .ad {
+        width: 250px;
+        height: 310px;
+        border: 5px solid grey;
+        text-align: center;
+    }
+
+    .ad img {
+        width: 250px;
+    }
+
+    #adContainer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+</style>
+
+<body>
+    <!-- <input id="searchBox" type="text" oninput="searchKro()"> -->
+
+    <div id="adContainer"></div>
+    <button onclick="creatAd()"> Create Add</button>
+    <script>
+        function searchKro(){
+            console.log(searchBox.value);
+        }
+        function creatAd() {
+            let adTitle = prompt("Enter The Title")
+            let adPrice = prompt("Enter The Price")
+            let adDescription = prompt("Enter The Description")
+
+            let adObj = {
+                title: adTitle,
+                price: adPrice,
+                description: adDescription,
+                image: "caamera.jpg"
+            }
+            ads.push(adObj)
+            updateUI();
+        };
+
+
+        let ads = [
+            {
+                title: "Bitt Coin",
+                price: "$18000",
+                description: "A Famous Bitcoin",
+                image: "bit.jpg"
+            },
+            {
+                title: "BMW",
+                price: "$12000",
+                description: "A Nice Car",
+                image: "car.jpg"
+            },
+            {
+                title: "Laptop E6723",
+                price: "$9909",
+                description: "A Nyc Laptop",
+                image: "laptop.jpg"
+            }];
+
+
+
+           updateUI()
+        function updateUI() {
+            adContainer.innerHTML = '';
+
+            for (let ad of ads) {
+                let adBox = document.createElement('div');
+                adBox.className = "ad";
+                let adKaIndex = ads.indexOf(ad);
+
+                let addprice = document.createElement('h2');
+                addprice.innerText = ad.price
+
+                let deleteBTN = document.createElement('button');
+                deleteBTN.innerText = "DELL";
+                deleteBTN.onclick = function () {
+                    // adBox.remove()
+                    ads.splice(adKaIndex, 1)
+                    updateUI();
+                };
+                let addDescription = document.createElement('p');
+                addDescription.innerText = ad.description;
+                
+                let addtitle = document.createElement('h2');
+                addtitle.innerText = ad.title;
+                let editBTN = document.createElement('button');
+                editBTN.innerText ="EDIT";
+                editBTN.onclick = function(){
+                    ad.price = prompt("Enter The Value ");
+                    updateUI();
+                }
+
+                let alImg = document.createElement('img');
+                alImg.src = ad.image;
+                adBox.append(alImg, addtitle, addprice, addDescription, deleteBTN, editBTN)
+                adContainer.appendChild(adBox)
+            };
+        };
+
+    </script>
+</body>
+
+</html>

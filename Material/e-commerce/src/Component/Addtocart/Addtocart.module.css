@@ -1,0 +1,43 @@
+Table{
+justify-content: center;
+color: rgb(0, 0, 0);
+}
+
+.full{
+    margin: 0%;
+    padding: 0%;
+
+    object-fit: cover;    background-attachment: fixed;
+    background-position: center;    width: 100%;
+    background-size: 100% auto;
+  /* background-image: url("/public/ITEM/items\ \(30\).jpg"); */
+}
+
+.tab{
+margin: auto;
+align-items: center;
+display: flex;
+margin-top: 5%;
+justify-content: center;
+}
+
+
+.imggg{
+    border-radius: 10px;
+}
+.icon{
+    color: rgb(255, 46, 119);
+    font-size: 2rem;   
+}
+
+.Total{
+    align-items: center;
+    text-align: center;
+    width: 20%;
+    padding: 5%;
+    margin: auto;
+    color: rgba(0, 0, 0, 0.753);
+    font-size: large;
+    padding-top: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.571);
+}

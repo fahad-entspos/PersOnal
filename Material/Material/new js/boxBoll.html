@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+#container{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+    margin: auto;
+    position: relative;
+}
+#child{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: blue;
+    position: absolute;
+}
+body{
+    background-color:darkred;
+}
+</style>
+<body id="mainBody">
+    <div id="container">
+<div id="child"></div>
+    </div>
+    <script>
+mainBody.onkeydown = function (event){ 
+            switch (event.keyCode) {
+                case 37:
+                    if(child.offsetLeft > 20){
+                        child.style.left = (child.offsetLeft -20) + "px";
+                    }
+                    break;
+                    case 38:
+                        if(child.offsetTop > 1){
+
+                            child.style.top = (child.offsetTop -20) + "px";
+                        }
+                    break;   
+                    case 39:
+                        let containerRight = container.offsetWidth 
+                        let childRight = child.offsetLeft + child.offsetWidth;
+                        if(childRight < containerRight){
+
+                            child.style.left = (child.offsetLeft +20) + "px";
+                        }
+                    break;  
+                     case 40:
+                        let containerHeight = container.offsetHeight
+                        let childHeight = child.offsetTop + child.offsetHeight;
+                        if(childHeight < containerHeight){
+
+                            child.style.top = (child.offsetTop +20) + "px";
+                        }
+                    break;
+            }
+ }
+
+    </script>
+</body>
+</html>

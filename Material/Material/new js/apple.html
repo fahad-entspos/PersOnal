@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .fruit{
+        width: 100px;
+        position: absolute;
+        bottom: 0;
+    }
+    #kala{
+text-align: center;
+background-color: blue;
+border-radius: 5px;
+display: inline-block;
+margin-left: 500px;
+padding: 5px;
+    }
+</style>
+<body><h1 id="kala">
+    Kala Kilu
+</h1>
+    <div id="some"></div>
+    <script>
+        // let item = document.createElement("input");
+        // some.appendChild(item);
+    setInterval(() => {
+        let item = document.createElement("img");
+        item.className = "fruit";
+        some.appendChild(item);
+        item.src ="apple.jpg"
+        item.style.right= Math.random() * 1000 + "px";
+            setInterval(() => {
+                item.style.top = (item.offsetTop - 1) + "px";
+                
+            },);
+    }, 500)
+    </script>
+</body>
+
+</html>

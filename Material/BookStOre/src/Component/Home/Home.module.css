@@ -1,0 +1,57 @@
+.mainDiv{
+    background-image: url("/public/home (1).jpg");
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    overflow: hidden;
+  height: 100vh;
+
+}
+.mix{
+  justify-content:space-around;
+  flex-wrap: wrap;
+  display: flex;
+}
+.images{
+    overflow: hidden;
+    width: 15%;
+    margin-top: 5%;
+    height: 45vh;
+    background-image: url("/public/books.png");
+    background-size: cover;
+
+}
+.homeContent{
+  color: white;
+  margin-top: 5%;
+
+
+
+}
+.new{
+  color: blue;
+}
+.think{
+  margin-top: 2%;
+  color: wheat;
+font-size: 4rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+.Grow{
+  color: gray;
+}
+.btn{
+  margin-top: 2%;
+  width: 150px;
+  font-size: larger;
+  font-family:'Courier New', Courier, monospace;
+  height:50px;
+  border-radius: 7px;
+  border: 2px solid rgb(255, 255, 255);
+}
+.btn:hover{
+  background-color: white;
+  color: rgb(12, 12, 12);
+}

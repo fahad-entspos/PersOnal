@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let users = [   {name:"ali",city: "fsd"},
+                        {name:"fahad",city: "lhr"},
+                        {name:"usman",city: "karachi"},
+                        {name:"nimra",city: "multan"},
+                        {name:"ali",city: "lhr"},
+                        {name:"tayyab",city: "multan"}  ]
+
+                    function getCities(someArray){
+                        let finalCities =[];
+                        someArray.forEach(user => {
+                            if(!finalCities.includes(user.city)){
+                                finalCities.push(user.city);
+                            }
+                            
+                            return finalCities;
+                        });
+                    }    console.log(finalCities);
+    </script>
+</body>
+</html>

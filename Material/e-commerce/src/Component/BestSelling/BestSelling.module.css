@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main{
+display: flex;
+flex-wrap: wrap;
+margin: auto;
+align-items: center;
+}
+.Best{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 3%;
+    font-size: 4rem;
+}

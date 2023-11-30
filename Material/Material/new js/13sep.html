@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // data1 = [];
+        // let data = [
+        // {name : "fahad",marks : ["Math","Chemistry"]  },
+        // {name : "asad",marks : ["urdu","biology"]  },
+        // {name : "mian",marks : ["english","physics"]  }
+        // ]
+        // for(let item in data){
+        //     if(data[item].marks){
+
+        //         data1.push(...data [item].name)
+        //     }
+        // }
+        // console.log(data1);
+
+
+
+        let data = [
+        {
+            name:"Ali",
+            marks:["CS", "Chemistry", ]
+        },
+        {
+            name:"Rameez",
+            marks:["Biology", "Chemistry", ]
+        },
+        {
+            name:"khurram",
+            marks:["Zoology", "Physics", ]
+        }
+    ];
+
+    let allSUbjects = [];
+
+        for(let item of data ){
+            for(let subject of item.marks){
+                allSUbjects.push(subject);
+            }
+        }
+        console.log(allSUbjects);
+    </script>
+</body>
+</html>

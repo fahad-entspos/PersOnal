@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>  
+
+        <table border="1">
+            <tr>
+                <td>Biryani</td>        
+                <td>250</td>
+                <td><input class="dish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Chicken Karahi</td>        
+                <td>1000</td>
+                <td><input class="dish rotiWaliDish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Chapli kabab</td>        
+                <td>650</td>
+                <td><input class="dish rotiWaliDish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Dumbokh</td>        
+                <td>2500</td>
+                <td><input class="dish rotiWaliDish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Grilled Machi</td>        
+                <td>2000</td>
+                <td><input class="dish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Naan</td>        
+                <td>20</td>
+                <td><input id="naan" class="dish" type="checkbox"> </td>
+                <td><input type="number"></td>
+            </tr>
+            <tr>
+                <td>Raita</td>        
+                <td>30</td>
+                <td><input class="dish" type="checkbox"> </td>
+                <td><input type="number"></td>
+
+            <tr>
+                <td>
+                    <button onclick="getBill()">GetBill</button>
+                </td>
+                <td>
+                    Gross Bill
+                    <span id="totalBillContainer">0</span>
+                    Discounted Bill
+                    <span id="totalDiscount">0</span>
+                </td>
+            </tr>
+        </table>    
+
+
+        <script>
+
+       let rotiWaliDishes = document.getElementsByClassName('rotiWaliDish');
+
+       for(let dish of rotiWaliDishes){
+
+        dish.onchange = function(evt){
+
+            // if(evt.target.checked){
+                naan.checked = evt.target.checked;
+            // }
+
+        }
+
+       }
+
+
+
+    function getBill(){
+
+        let allDishes = document.getElementsByClassName("dish");
+
+        let total = 0;
+
+        for(let dish of allDishes){
+            if(dish.checked == true){
+
+                let price = +dish.parentNode.previousElementSibling.innerText;
+                let qty = Math.abs(dish.parentNode.nextElementSibling.lastChild.value);
+
+                total += price * (qty || 1);
+
+            }
+        }
+
+        totalDiscount.innerText = totalBillContainer.innerText = total;
+
+        if(total > 1500){
+            totalDiscount.innerText = total * 0.85;
+        }
+        
+        console.log(total)
+
+
+    }
+
+            
+
+
+        </script>
+        
+    </body>
+    </html>

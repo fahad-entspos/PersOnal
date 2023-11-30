@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <select multiple name="" id="lefter">
+        <option value="">FSD</option>
+        <option value="">LHR</option>
+        <option value="">SGD</option>
+        <option value="">JBD</option>
+        <option value="">KRI</option>
+    </select>
+    <button onclick="moveLeft()">&lt;</button>
+    <button onclick="moveRight()">&gt;</button>
+    <select multiple name="" id="righter">
+        <option value="">ISB</option>
+        <option value="">JNG</option>
+        <option value="">TOBA</option>
+        <option value="">PES</option>
+    </select>
+    <script>
+function moveRight(){
+    let tag = lefter.selectedOptions[0];
+    righter.appendChild(tag)
+}
+function moveLeft(){
+    let tag = righter.selectedOptions[0];
+    lefter.appendChild(tag)
+}
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,1818 @@
+[6:50 AM, 3/9/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+   /* li{
+       color:red;
+       background-color: green;
+   }
+
+   span{
+       color:blue;
+       background-color: black;
+   } */
+
+   .punjab{
+       color:blue;
+   }
+
+   .balochistan{
+       color:magenta;
+   }
+
+   #KPK{
+       color:aquamarine;
+   }
+
+
+    </style>
+
+</head>
+<body>
+
+
+    <span>this is span tag</span>
+    
+<ol>
+    <li id="KPK">Peshawar</li>
+    <li class="punjab">FSD</li>
+    <li class="balochistan">Zoab</li>
+    <li class="balochistan">Quetta</li>
+    <li class="punjab">Silakot</li>
+    <li class="punjab">Lahore</li>
+    <li class="punjab">Multan</li>
+</ol>
+
+</body>
+</html>
+[6:50 AM, 3/9/2022] Sir Khurram GamicaCloud: https://demo.firepad.io/#vZRMJLGcej
+[7:04 AM, 3/9/2022] +92 309 6169298: G thek hy sir
+[7:21 AM, 3/10/2022] Sir Khurram GamicaCloud: dear students, please make sure your ID cards download links are being shown on your voucher page
+[7:21 AM, 3/10/2022] Sir Khurram GamicaCloud: Tormorrow, there will be ID cards check, only students with ID card will be allowed in the class permises
+[7:03 AM, 3/11/2022] +92 300 4570193: https://saqibweb-e016c.web.app
+👆👆👆👆
+Class 7
+[7:13 AM, 3/11/2022] +92 322 6059407: Good
+[7:34 AM, 3/11/2022] +92 300 4570193: Mobile sy kise be box k opr click kry
+[7:40 AM, 3/11/2022] +92 322 6059407: Wow advanced CSS
+[7:45 AM, 3/11/2022] Bilal Software hOuse: Zabardast
+[8:33 AM, 3/11/2022] Fadiii👻: https://drive.google.com/folderview?id=15l47kalDYhRygZFth_a1HTPz0ZJmrZFG
+[9:48 AM, 3/12/2022] Sir Khurram GamicaCloud: Practise task
+[9:57 AM, 3/12/2022] Bilal Software hOuse: Sir slider b bnana h iska?
+[5:57 PM, 3/12/2022] Sir Khurram GamicaCloud: Static bhi chalega
+[6:03 PM, 3/12/2022] Bilal Software hOuse: Ok
+[9:42 AM, 3/13/2022] +92 322 6059407: Assalam-O-Alikum
+[9:42 AM, 3/13/2022] Sir Khurram GamicaCloud: ws
+[9:42 AM, 3/13/2022] +92 322 6059407: Kisi ny assignment try ki ha
+[9:45 AM, 3/13/2022] Bilal Software hOuse: ws
+G meri half se zyada hogai
+[9:49 AM, 3/13/2022] +92 300 4570193: Bro me ny..abi kr raha hon
+[10:05 AM, 3/13/2022] M Usman: sir mushkil si ha
+[10:05 AM, 3/13/2022] Pervaiz Bhai: Bhot zidha
+[10:05 AM, 3/13/2022] M Usman: yes
+[10:05 AM, 3/13/2022] Fadiii👻: mai ap sochi pr gya kesa krni
+[10:05 AM, 3/13/2022] Sir Khurram GamicaCloud: abhi to just try krna h
+[10:06 AM, 3/13/2022] Bilal Software hOuse: Easy h itni b nh yr
+[10:13 AM, 3/13/2022] +92 322 6059407: Bhai tyr kero ho jaye gi is main sb Wohi ha Jo sir ny parhaya ha bs ap ko styling k liye css ki properties yad honi chahiye Jo sir ny kerwai ha
+[3:43 AM, 3/14/2022] +92 322 6059407: 👏👏👏🎉🎉🎉
+[3:43 AM, 3/14/2022] Farzeel Software House: Laval ✌️
+[3:44 AM, 3/14/2022] Farzeel Software House: Yr code send ker day gy.... Ya kis ny bani ha.... Code send ker dy
+[3:45 AM, 3/14/2022] +92 309 7848256: Ok
+[4:14 AM, 3/14/2022] Farzeel Software House: Ya open hi nai ho Rahi...?
+[4:15 AM, 3/14/2022] +92 309 7848256: Extract kr key zip file hai
+[4:16 AM, 3/14/2022] Farzeel Software House: Open nahi ho Rahi ya ...
+[5:18 AM, 3/14/2022] +92 300 2952257: Practice task resend kr da koi kindly
+[11:49 AM, 3/14/2022] +92 348 9900653: Nice bro
+[1:54 PM, 3/14/2022] +92 300 4570193: Ma Shaa Allah Hafiz sb
+[1:58 PM, 3/14/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: 👍👍
+[6:34 PM, 3/14/2022] +92 322 6059407: 👏 🎉🎉👏👏
+[1:36 AM, 3/15/2022] Sir Khurram GamicaCloud: Nice effort 🥰
+[1:37 AM, 3/15/2022] Farzeel Software House: Thank u sir ggg
+[7:25 AM, 3/15/2022] Sir Khurram GamicaCloud: https://www.instagram.com/gamicacloud_official/
+[10:42 AM, 3/15/2022] Pervaiz Bhai: 🥰🥰
+[11:45 AM, 3/15/2022] Pervaiz Bhai: 💓💓
+[7:30 PM, 3/15/2022] +92 322 6059407: 👍👍👍
+[10:18 PM, 3/15/2022] Pervaiz Bhai: 🥰
+[10:19 PM, 3/15/2022] +92 322 6059407: Try this one
+[10:21 PM, 3/15/2022] Pervaiz Bhai: Good sir ab ma b asa bano ka in shaa Allah 🥰
+[10:42 PM, 3/15/2022] +92 322 6059407: Thanks
+[2:13 AM, 3/16/2022] +92 311 7998429: Good work brother 👍🏻
+[3:45 AM, 3/16/2022] Fadiii👻: 😂😁🤣
+[6:52 AM, 3/16/2022] +92 311 7998429: Level 🔥
+[9:49 AM, 3/16/2022] Sir Khurram GamicaCloud: Aoa
+[9:49 AM, 3/16/2022] Farzeel Software House: W alilum aslm
+[9:49 AM, 3/16/2022] Farzeel Software House: G Sir
+[9:49 AM, 3/16/2022] +92 322 6059407: Waaliku Assalam
+[9:49 AM, 3/16/2022] Sir Khurram GamicaCloud: Dear friends kisi ko black color ki wrist watch milli thi class m?
+[9:49 AM, 3/16/2022] Fadiii👻: W.s Yes sir
+[9:50 AM, 3/16/2022] Fadiii👻: No sir
+[9:50 AM, 3/16/2022] Farzeel Software House: Nahi sir
+[10:15 AM, 3/16/2022] +92 300 4570193: Ni Sir
+[10:16 AM, 3/16/2022] M Usman: No sir
+[10:25 AM, 3/16/2022] Pervaiz Bhai: W alaikum assalam sir ni sir
+[10:43 AM, 3/16/2022] +92 300 4570193: Sorry mistake ho gi hai.
+No Sir lhekna tha.
+[11:19 AM, 3/16/2022] Pervaiz Bhai: 🥰🥰
+[11:21 AM, 3/16/2022] Farzeel Software House: Bala gg code bai is ka zara mujy
+[11:21 AM, 3/16/2022] Pervaiz Bhai: Oky BHAi Jan
+[11:25 AM, 3/16/2022] Pervaiz Bhai: Oky BHAi Jan
+[11:26 AM, 3/16/2022] Farzeel Software House: Body ma bi bj kya lagya ha
+[11:26 AM, 3/16/2022] Pervaiz Bhai: Personal msg BHAi
+[11:39 AM, 3/16/2022] Pervaiz Bhai: ہم سب دوستوں نے ایک کام کا آغاز کیا ہے جس میں آپ کی مدد کی ضرورت ہے ہم چاہتے ہیں کہ رمضان المبارک میں عید سے پہلے ہم سب مل کر (نبی کریم صلی اللہ علیہ وآلہ وسلم) کو 5 عرب درود کا تحفہ پیش کرے* ۔ہم نے آغاز کر دیا ہے
+*آپ بھی 3 بار درود شریف پڑھ کر باقی دوستوں کو send کریں اس میسیج کو اتنا پہلا دے کہ یہ 30 رمضان تک forwad ہوتا رہے اور دنیا *کہ ہر ایک مسلمان تک پہنچے
+مہربانی کرکے رکھنا مت اپنا فرض ادا کرنا ایک مسلمان ہوکے۔*
+[11:43 AM, 3/16/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: Ws no sir
+[7:37 PM, 3/16/2022] Pervaiz Bhai: ☆••┅┈•※ ͜✤ 💎💎💎 ✤͜※•┄┅••☆
+
+☘️🔖 قـــرآن مجیـــد کـــی تلاوت کـــو ضـــرور سنیں اور دوســـروں کـــو بھـــی زیادہ سے زیادہ شیئـــر کـــریں...!!!جـــزاک اللہ خیـــرا🔖☘️
+
+
+✧═✧═✧═✧═✧═✧═✧═✧═✧═✧
+    
+
+🔷🔹پـیـــــــــشکشـــــــں🔹🔷
+
+
+جـہاں ظلـمـت وہـاں دعـــــوت💖
+[3:12 AM, 3/17/2022] +92 311 7998429: 🙂😒
+[3:12 AM, 3/17/2022] +92 300 4570193: Rahka hoa ha.. Sir g
+AlHamduliallh
+[3:13 AM, 3/17/2022] +92 311 7998429: Good
+[3:14 AM, 3/17/2022] Sir Khurram GamicaCloud: ❤️
+[6:04 AM, 3/17/2022] +92 309 7848256: Sir g Jo template banana hai wo share kr dey group may
+[7:49 AM, 3/17/2022] Jaunam💫: Sir g sath mein code b kr dijiye ga
+[7:50 AM, 3/17/2022] +92 330 6146540: by using flex-box
+[8:26 AM, 3/17/2022] Sir Khurram GamicaCloud: Dear friends, class timing is 5.00pm sharp
+[8:27 AM, 3/17/2022] Sir Khurram GamicaCloud: Kindly be on time
+[8:27 AM, 3/17/2022] Sir Khurram GamicaCloud: Tomorrows class will be started inshallah on time
+[9:41 AM, 3/17/2022] +92 300 4570193: Nice bro
+[9:41 AM, 3/17/2022] +92 300 4570193: In Shaa Allah Sir
+[9:43 AM, 3/17/2022] +92 322 6059407: Inshallah
+[2:09 PM, 3/17/2022] Farzeel Software House: Confused....
+[5:32 PM, 3/17/2022] +92 342 5450050: Sir na link send kia ha ? Wo website jo. Bana raha ha?
+[8:11 PM, 3/17/2022] +92 342 5450050: https://www.templatemonsterpreview.com/demo/52190.html?_ga=2.127438734.2003684244.1647520376-182370363.1647520376&_gl=1*fpvdpz*_ga*MTgyMzcwMzYzLjE2NDc1MjAzNzY.*_ga_FTPYEGT5LY*MTY0NzU3MjU2Ny4yLjAuMTY0NzU3MjU3Ny41MA..
+[10:06 PM, 3/17/2022] Sir Khurram GamicaCloud: dear friends
+[10:07 PM, 3/17/2022] +92 330 6146540: G sir
+[10:07 PM, 3/17/2022] Sir Khurram GamicaCloud: Due to shab-Barat, class will be started at 4:00pm and finish at 6:00pm
+[10:07 PM, 3/17/2022] Sir Khurram GamicaCloud: kindly be on tme
+[10:07 PM, 3/17/2022] +92 330 6146540: Okay sir ji
+[10:08 PM, 3/17/2022] Bilal Software hOuse: Ok sir
+[10:11 PM, 3/17/2022] M Usman: Ok sir
+[10:14 PM, 3/17/2022] +92 322 6059407: Ok done
+[10:15 PM, 3/17/2022] +92 300 4570193: Okay Sir G
+[10:18 PM, 3/17/2022] +92 300 4570193: Bhai jis k pas Slides (Google drive) ka link ha wo send kr dy.. Link group me.
+[10:37 PM, 3/17/2022] +92 330 6146540: https://drive.google.com/drive/folders/15l47kalDYhRygZFth_a1HTPz0ZJmrZFG
+[12:44 AM, 3/18/2022] Pervaiz Bhai: 🥰
+[12:45 AM, 3/18/2022] Pervaiz Bhai: 😛😛😛😛😅😄
+[12:50 AM, 3/18/2022] Pervaiz Bhai: 😄👆
+[1:07 AM, 3/18/2022] Pervaiz Bhai: ┏━━━━ ﷽ ━━━━┓
+💕 ᴊᴜᴍᴍᴀ ᴍᴜʙᴀʀᴀᴋ 🕋
+┗━━━━ ﷽ ━━━━┛
+
+نمــــازِ جمــــعہ کی ادائیگی کی تیــــــاری فرمـــا لیجئــے
+
+💙💙💙💙💙💙💙💙💙💙💙
+
+رسول اللہ صلی اللہ علیہ وآلہٖ وسلم نے ارشاد فرمایا
+
+جـــو شخص جمــعہ کے دن سورۃ کہـــف کی تلاوت کـــرے تو دونوں جمعوں کے درمیـــــــان اس کے لئے ایک نــور روشـــن کر دیا جاتا ہے
+
+(متفق علیہ)
+[3:09 AM, 3/18/2022] Asad jani: 💫
+[5:02 AM, 3/18/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+
+
+        nav > ol{
+            display: flex;
+            list-style-type: none;
+            width: 50%;
+            background: #84eaeb;
+            padding: 0;
+            text-align: center;
+        }
+
+        ol li:hover{
+            background-color: #11fdff;
+            cursor: pointer;
+        }
+
+        ol li{
+            flex-grow: 1;
+            padding: 12px 0;
+            position: relative;
+        }
+
+        #child-menu,
+        #sub-child-menu{
+            list-style-type: none;
+            text-align: le…
+[6:06 AM, 3/19/2022] Asad jani: Is topic ka name kiYa thA btna...?
+[6:14 AM, 3/19/2022] +92 348 9900653: Flex
+[6:15 AM, 3/19/2022] Asad jani: Flex bOx thek H thnKs bhi 😊
+[6:16 AM, 3/19/2022] +92 348 9900653: Asad bhai most welcome
+[10:59 AM, 3/20/2022] Pervaiz Bhai: 👍
+[10:59 AM, 3/20/2022] Bilal Software hOuse: 😇
+[5:33 AM, 3/21/2022] Sir Khurram GamicaCloud: <style>
+
+  #parent{
+    width:600px;
+    height: 600px;
+    gap:5px;
+    display: grid;
+    grid-template:
+        "b1 b2 b3"
+        "b4 b5 b5"
+        "b6 b5 b5"
+  }
+
+  .item:nth-child(1){
+    grid-area: b1;
+    background-color: aquamarine;
+  }
+
+  .item:nth-child(2){
+    grid-area: b2;
+    background-color: brown;
+  }
+
+  .item:nth-child(3){
+    grid-area: b3;
+    background-color: burlywood;
+  }
+  .item:nth-child(4){
+    grid-area: b4;
+    background-color: yellowgreen;
+  }
+  .item:nth-child(5){
+    grid-area: b5;
+    background-color: magenta;
+  }
+  .item:nth-child(6){
+    grid-area: b6;
+    background-color: darkslategrey;
+  }
+
+
+
+</style>
+
+
+<div id="parent">
+
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+
+
+</div>
+[5:58 AM, 3/21/2022] Sir Khurram GamicaCloud: <style>
+
+  #parent{
+    width:600px;
+    height: 600px;
+    gap:5px;
+    display: grid;
+    grid-template:
+        "b1 b2 b3"
+        "b4 b5 b5"
+        "b6 b5 b5"
+  }
+
+  .item:nth-child(1){
+    grid-area: b1;
+    background-color: aquamarine;
+  }
+
+  .item:nth-child(2){
+    grid-area: b2;
+    background-color: brown;
+  }
+
+  .item:nth-child(3){
+    grid-area: b3;
+    background-color: burlywood;
+  }
+  .item:nth-child(4){
+    grid-area: b4;
+    background-color: yellowgreen;
+  }
+  .item:nth-child(5){
+    grid-area: b5;
+    background-color: magenta;
+  }
+  .item:nth-child(6){
+    grid-area: b6;
+    background-color: darkslategrey;
+  }
+
+
+
+</style>
+
+
+<div id="parent">
+
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+  <div class="item"></div>
+
+
+</div>
+[6:28 AM, 3/21/2022] Sir Khurram GamicaCloud: <style>
+
+  #parent{
+    width:600px;
+    height: 600px;
+    gap:5px;
+    display: grid;
+    /* grid: height of rows / width of columns; */
+    grid:100px 200px 100px / 200px 300px
+  }
+
+  .item:nth-child(1){
+  border:1px solid red;
+    background-color: aquamarine;
+  }
+
+  .item:nth-child(2){
+  border:1px solid red;
+   
+    background-color: brown;
+  }
+
+  .item:nth-child(3){
+    border:1px solid red;
+
+    background-color: burlywood;
+  }
+  .item:nth-child(4){
+  border:1px solid red;
+    
+    background-color: yellowgreen;
+  }
+ 
+  .item:nth-child(5){
+  border:1px solid red;
+    
+    background-color: orange;
+  }
+ 
+  .item:nth-child(6){
+  border:1px solid red;
+    
+    background-color: indianred;
+  }
+ 
+
+
+</style>
+
+
+<div id="parent">
+
+  <div class="item"></div>
+…
+[7:51 AM, 3/21/2022] Sir Khurram GamicaCloud: 🥰 mashallah
+[7:51 AM, 3/21/2022] +92 315 7042606: Nice❤️
+[5:55 AM, 3/22/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        header > div{
+            
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 19px 0px;
+
+        }
+
+        nav ol{            
+            display: flex;
+            list-style-type: none;
+
+        }
+
+        
+
+        nav li{
+            flex-grow: 1;
+    line-height: 55px;
+    color: white;
+        }
+
+        *{
+            margin:0;
+        }
+
+        nav li:first-child{
+             flex-grow:8;
+        }
+
+        nav li:first-child img{
+            vertical-align: middle;
+        …
+[7:51 AM, 3/22/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        header > div{
+            
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 19px 0px;
+
+        }
+
+        nav ol{            
+            display: flex;
+            list-style-type: none;
+
+        }
+
+        
+
+        nav li{
+            flex-grow: 1;
+    line-height: 55px;
+    color: white;
+        }
+
+        *{
+            margin:0;
+        }
+
+        nav li:first-child{
+             flex-grow:8;
+        }
+
+        nav li:first-child img{
+            vertical-align: middle;
+        …
+[10:54 PM, 3/22/2022] Bilal Software hOuse: 10k+ template
+
+https://nicepage.com/templates
+[6:40 AM, 3/23/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <style>
+
+
+    #myCar{
+        transform: scale(-1,1);
+        /* margin-left: 10px; */
+        opacity: 0;
+        transition: margin-left 5s linear 0s,
+        opacity 5s linear 0s
+        ;
+        /* margin-left: 300px; */
+    }
+
+    #myCar:hover{
+        opacity: 1;
+        margin-left: 600px;
+  
+    }
+
+    </style>
+
+    <img id="myCar" src="car.jpg" alt="">
+
+    <!-- <div class="box"></div>
+    -->
+</body>
+</html>
+[12:20 PM, 3/23/2022] +92 306 5231395: 🤣😂🤣😂🤪🤪🤪🤪 raat 12 bjy ye transition dakhy 😂
+[7:10 PM, 3/23/2022] +92 342 5450050: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans&family=Six+Caps&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<style>
+  *{
+    border-radius: 20px;
+    text-align: center;
+    
+  }
+  
+  .box{
+      width: 100px;
+      height: 240px;
+      border:solid 3px black;
+      background-color: black;
+  }
+  .punjab{
+    width: 100px;
+    height: 32px;
+    border: solid 3px red;
+    margin-top: 25px;
+    ma…
+[9:33 PM, 3/23/2022] +92 322 6059407: BOX EXAMPLE
+[9:33 PM, 3/23/2022] +92 322 6059407: <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #main {
+        margin: auto;
+      }
+      #iblock {
+        display: flex;
+        /* margin-left: 15%; */
+        gap: 10px;
+      }
+      .box {
+        background-color: black;
+        height: 300px;
+        width: 250px;
+        position: relative;
+      }
+      #circle {
+        /* background-color: black; */
+        border: 4px solid white;
+        height: 70px;
+        width: 70px;
+        border-radius: 70px;
+        position: absolute;
+        top: 240px;
+        left: 200px;
+      }
+      #square …
+[6:01 AM, 3/24/2022] Sir Khurram GamicaCloud: <style>
+
+
+@keyframes wheels {
+    0%{
+        transform: rotate(0deg);
+    }
+
+    100%{
+        transform: rotate(720deg);
+    }
+}
+
+    @keyframes carKiAnimation {
+
+        0%{
+            left:0%;
+        }
+
+        100%{
+            left:70vw;
+            animation-fill-mode: forwards;
+        }
+        
+    }
+
+    #car{
+        position: absolute;
+        top:50%;
+        width: 250px;        
+        animation: carKiAnimation 5s linear 0s;
+    }
+
+    #left-wheel{
+        position: absolute;
+        top: 58px;
+        width: 31px;
+        left: 42px;
+        animation:wheels 5s linear 0s;
+    }
+
+    #right-wheel{
+        position: absolute;
+        top: 58px;
+        width: 31px;
+        left: 184px;
+        animation:wheels 5s linear 0s;
+    }
+
+
+#road{
+ …
+[8:05 AM, 3/24/2022] Sir Khurram GamicaCloud: <div id="hamara3dCube">
+
+    <div id="one" style="
+    top: -38px;
+    height: 39px;
+    transform: skewX(-50deg);
+    left: 24px;
+    width: 198px;
+"></div>
+    <div id="two" style="
+    left: 199px;
+    width: 44px;
+    transform: skewY(-41deg);
+    top: -18px;
+"></div>
+    <div id="three"></div>
+    <!-- <div id="four"></div>
+    <div  id="five"></div>
+    <div id="six"></div> -->
+
+</div>
+[6:22 AM, 3/25/2022] Sir Khurram GamicaCloud: <style>
+
+
+  
+
+    #parent{
+        display: flex;
+        flex-wrap: wrap;
+        /* gap:5px;     */
+    }
+
+
+    .box{
+        
+        width: 200px;
+        height: 200px;    
+    }
+
+    .box:first-child{
+        background-color: orange;
+    }
+
+
+    .box:nth-child(2){
+        background-color: red;
+    }
+
+    .box:last-child{
+        background-color: green;
+    }
+
+
+
+
+
+    @media screen and (min-width:700px) and (max-width:800px) {
+        
+
+        .box:last-child{
+            background-color: yellow;
+                /* display: none;         */
+        }
+        
+    }
+
+</style>
+
+<div id="parent">
+
+    <div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
+    
+</div>
+
+
+
+<!-- <style>
+
+@keyframes fanRotation {
+
+    from{
+       …
+[3:41 AM, 3/28/2022] Sir Khurram GamicaCloud: aoa
+
+Dear students, please signup on 
+
+https://github.com/
+[8:19 AM, 3/28/2022] Sir Khurram GamicaCloud: https://github.com/khurramraheel/tiger.git
+[1:34 AM, 4/1/2022] Pervaiz Bhai: 💓💓
+[6:22 AM, 4/1/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <!-- -inpage scripting -->
+    <script>
+
+// Data hold krne ke 2 methods
+// variable
+// vary-able
+
+
+//constants
+// const PI = 3.142;
+
+let marks = 33;
+
+if(90 > 20){
+
+    console.log("passed");
+
+}else{
+    console.log("afsos");
+}
+
+
+
+    //  let a = 20;
+    //      a= 25;
+
+    //  let b = 40;
+
+    //  let c = a + b;
+
+
+    </script>
+
+</body>
+</html>
+[7:32 AM, 4/1/2022] Sir Khurram GamicaCloud: https://demo.firepad.io/#vZRMJLGcej
+[8:01 AM, 4/1/2022] Sir Khurram GamicaCloud: https://edabit.com/challenges/javascript
+[11:38 PM, 4/1/2022] +92 309 7848256: JavaScript
+Conditional structure (If-Else ) (ternary operators)and first six chapters of book(Smatter way to learn JavaScript).
+[5:12 AM, 4/2/2022] Sir Khurram GamicaCloud: Assignment
+
+take input from user and check of if is even or odd number
+
+hint:
+
+% module will be used for this
+[4:07 AM, 4/4/2022] Sir Khurram GamicaCloud: <script>
+
+
+    let marks = 55;
+
+    switch(true){
+
+        case marks >=70 && marks < 80:
+            console.log('grade A')
+            break;
+
+        case marks >=60 && marks < 70:
+            console.log('grade B')
+            break;
+
+        case marks >=50 && marks < 60:
+            console.log('grade C')
+            break;
+
+        default:
+            console.log("afsos")
+
+    }
+
+//  let city = prompt();
+
+//  switch(city){
+
+//     case "lhr":
+//          console.log("lahore");
+//         break;
+
+//     case "fsd":
+//         console.log("faisalabad");
+//         break;
+
+//     case "khi":
+//         console.log("karachi");
+//         break;
+
+//     default:
+//         console.log("welcome new city")
+//         break;
+
+
+//  }
+
+
+
+    // marks > 90 ? 
+ …
+[4:10 AM, 4/4/2022] +92 332 5961773: <script>
+
+
+    let marks = 55;
+
+    switch(true){
+
+        case marks >=70 && marks < 80:
+            console.log('grade A')
+            break;
+
+        case marks >=60 && marks < 70:
+            console.log('grade B')
+            break;
+
+        case marks >=50 && marks < 60:
+            console.log('grade C')
+            break;
+
+        default:
+            console.log("afsos")
+
+    }
+
+//  let city = prompt();
+
+//  switch(city){
+
+//     case "lhr":
+//          console.log("lahore");
+//         break;
+
+//     case "fsd":
+//         console.log("faisalabad");
+//         break;
+
+//     case "khi":
+//         console.log("karachi");
+//         break;
+
+//     default:
+//         console.log("welcome new city")
+//         break;
+
+
+//  }
+
+
+
+    // marks > 90 ? 
+ …
+[9:05 AM, 4/5/2022] +92 309 7848256: Data types, concatenation,IsNAN and Math functions.
+Assignment find factorial.
+[5:07 AM, 4/6/2022] Sir Khurram GamicaCloud: good work
+[5:45 AM, 4/6/2022] Sir Khurram GamicaCloud: // ***
+// **
+// *
+// **
+// *
+// *
+// **
+// *
+// **
+// ***
+[2:45 PM, 4/6/2022] +92 300 4570193: https://saqibweb-e016c.web.app
+
+Js Math 
+
+👆🏻👆🏻👆🏻👆🏻👆🏻👆🏻
+[2:17 AM, 4/7/2022] +92 315 7042606: Done❣️
+[3:47 AM, 4/7/2022] Sir Khurram GamicaCloud: let myCounter = 1;
+
+for(let i=5;i>0;i--){
+
+    let str = "";
+
+    for(let k=i;k>0;k--){
+        str+=" ";
+    }
+
+    for(let j = 0;j<myCounter;j++){
+        str += "*";
+    }
+
+    myCounter += 2;
+
+
+    console.log(str);
+
+}
+[4:40 AM, 4/7/2022] +92 311 7998429: https://www.tutorialstonight.com/js/javascript-star-pattern.php#:~:text=Create%20a%20variable%20to%20store,line%20and%20space%20in%20between
+[5:46 AM, 4/7/2022] Sir Khurram GamicaCloud: *
+    *
+   *
+  *
+   *
+    * 
+     *
+[6:07 AM, 4/7/2022] Sir Khurram GamicaCloud: <script>
+
+let fullName = "Khurram";
+
+// sum_numers
+// snake-case
+
+// getboundingclientrect
+
+// getBoundingClientRect
+// // camel case
+
+sumNumbers()
+
+ function sumNumbers(){
+
+    let a = +prompt("1st value btyen");
+    let b = +prompt("2nd value btyen");
+
+    let c = a + b;
+
+    console.log(c);
+
+ }
+
+
+
+
+
+
+//      *
+//     *
+//    ***
+//   ***
+
+// @***
+// @@***
+// @@@*
+// @@@@*
+
+     
+// let counter = 7;
+
+// for(let i = 1;i<5;i++){
+    
+//     let str = "";
+
+//     for(let j = 0;j<i;j++){
+//         str +=" ";
+//     }
+    
+//     for(let k=0;k<counter;k++){
+//         str += "*"
+//     }
+//     counter -= 2;    
+//     console.log(str);
+
+// }
+
+// let myCounter = 1;
+
+// for(let i=5;i>0;i--){
+
+//     let str = "";
+
+//     for(let k=i;k>0;k--){
+//         str+=" …
+[3:36 AM, 4/8/2022] +92 345 1469507: Sir g Fans Lagva den please
+[4:02 AM, 4/8/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        // SRP
+        // single responsibility principle
+
+        // pure and impure functions
+
+  
+    function sumNumbers(){
+
+        let num1 = 10;
+        let num2 = 30;
+
+        let result = num1+ num2;
+    
+        return;
+
+        console.log("m chla tha")
+        
+    }
+    
+    let total = sumNumbers();
+    console.log(total);
+
+ 
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+[5:08 AM, 4/8/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        // SRP
+        // single responsibility principle
+
+        // pure and impure functions
+
+  
+
+  
+    function sumNumbers(a,b,c=0){
+      
+        let result = a + b+ c;
+    
+        return result;
+
+        console.log("m chla tha")
+        
+    }
+
+    let a1 = +prompt("1st value enter karen");
+    let b1 = +prompt("2nd value enter karen");
+    
+    let total = sumNumbers(a1,b1);
+    console.log(total);
+
+ 
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
+[6:06 AM, 4/8/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+
+let total = a(5) * b(2);
+
+generateTable(6);
+generateTable(7);
+
+
+function generateTable(num){
+    
+
+
+}
+
+function b(a){
+    return c(a);
+}
+
+function c(){
+    return 1;
+}
+
+        // SRP
+        // single responsibility principle
+
+        // pure and impure functions
+
+  
+
+  
+    // function sumNumbers(a,b,c=0){
+      
+    //     let result = a + b+ c;
+    
+    //     return result;
+
+    //     console.log("m chla tha")
+        
+    // }
+
+    // let a1 = +prompt("1st value enter karen");
+    // let b1 = +prompt("2nd value e…
+[8:37 AM, 4/8/2022] +92 309 7848256: Wailum Salam
+Functions, function with return statement, functions with parameters and use of prompt with function with parameters.
+[9:23 AM, 4/8/2022] +92 309 7848256: Yeh aisy krna ya Kuch or bi krna table using function to ho gaya
+[1:09 PM, 4/8/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: Table through parameter
+[7:32 AM, 4/9/2022] +92 342 5450050: <script>
+let number = +prompt("enter a number")
+        if (isNaN(number)) {
+            alert("enter only numbers")
+        }
+        else {
+            function tableGenrator(a) {
+
+                let mycount = 0;
+                for (let i = 1; i <= 10; i++) {
+                    let d = i * a;
+
+                    let c = a + "X" + i + "=" + d + " \n";
+
+                    mycount += c;
+                }
+                return mycount;
+            }
+
+            let total = tableGenrator(number);
+            console.log(total);
+        }
+    </script>
+[7:32 AM, 4/9/2022] +92 342 5450050: Calculator using functions
+[8:46 AM, 4/11/2022] Sir Khurram GamicaCloud: dear friends, this week, we need to read functions related chapters of our book "Smarter way to learn Javascript"
+[6:01 AM, 4/17/2022] Sir Khurram GamicaCloud: https://edabit.com/challenges/javascript
+
+2500+ small and medium excercises
+[6:01 AM, 4/17/2022] Sir Khurram GamicaCloud: Friends, give it a try
+[4:20 AM, 4/18/2022] Sir Khurram GamicaCloud: let data = ["Faisalbad", "Gojra", "Toba", "Khanewal", "saangla"];
+
+for(let i = 0;i<data.length;i++){
+    
+    console.log(data[i]);
+
+}
+[5:21 AM, 4/18/2022] Sir Khurram GamicaCloud: let meriArray = [];
+// let programBandHojye = false;
+
+while(true){
+
+    let userInput = prompt("option ente rkaren");
+    
+    let data = prompt("data enter karen");
+
+    if(userInput == "p"){
+
+        meriArray.push(data);
+
+    }else if(userInput == "u"){
+
+        meriArray.unshift(data);
+
+    }else if(userInput == "o"){
+
+        console.log(meriArray);
+    }else if(userInput == "q"){
+        break;
+        // programBandHojye = true;
+    }
+
+
+}
+[4:24 AM, 4/19/2022] Sir Khurram GamicaCloud: let data = [10,20,30,40,50,60,70,80,90];
+
+        // declarative, functional programming
+        // non-declarative
+
+        let userInput = prompt("number btyen");
+        let newData = data.filter(abc=>abc>userInput);
+        console.log(newData);
+
+        // let newData = data.filter(function(myNum){
+
+        //     if(myNum > 50){
+        //         return true;
+        //     }
+
+        //     // console.log(myNum);
+
+        // });
+
+        // let newArray = [];
+
+        // for(let i =0;i<data.length;i++){
+
+        //     if(data[i] > 50){
+        //         newArray.push(data[i]);
+        //     }
+
+        // }
+[5:44 AM, 4/19/2022] Sir Khurram GamicaCloud: https://fb.watch/cuopitcit_/
+[6:05 AM, 4/19/2022] Sir Khurram GamicaCloud: // filter ka task
+        let student = ["Faisalabad", "Lahore", "Farooqueabad", "larkana"];
+
+// map, har fruit kay character ki taadad chahyiye
+let fruits = ['apple', 'banana', 'carrot', 'dates'];
+[6:05 AM, 4/19/2022] Sir Khurram GamicaCloud: // forEach
+        // every
+        // some
+        // reduce
+        // filter
+    
+
+        // student.forEach(function(meraNum){
+
+        //     console.log(meraNum)
+
+        // });
+
+
+        // let total = student.reduce( (n,p) => n+p );
+
+        // let total = 0;
+
+        // for(let i =0;i<student.length;i++){
+            
+        //      student[i];
+
+        // }
+
+        // console.log(total);
+
+        
+        // let passedH = student.some(function(marks){
+
+        //     if(marks > 33){
+        //         return true;
+        //     }
+
+        // });
+
+        // let passedH = student.every(function(marks){
+
+        //     if(marks > 33){
+        //         return true;
+        //     }
+
+        // });
+
+        // let passedH = false;
+
+        // for…
+[3:39 PM, 4/19/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: Good
+[6:21 PM, 4/19/2022] +92 342 5450050: ===========
+[6:21 PM, 4/19/2022] +92 342 5450050: let array = ["banana", "apple", "cheary", "cocount", "Jamun"]
+        console.log(array);
+        let newArray = array.map(function (abc) {
+
+            return abc.length;
+
+        })
+        console.log(newArray)
+[6:21 PM, 4/19/2022] +92 342 5450050: ===========
+[7:19 PM, 4/19/2022] +92 342 5450050: let array = ["faisalabad", "lahor", "karachi", "farooqabad", "skardu", "gilgit"]
+        console.log(array)
+        let newArray = array.filter(function (abc) {
+            if (abc.startsWith("f")) {
+                return true;
+            }
+        }
+        );
+        console.log(newArray);
+[5:26 AM, 4/20/2022] Sir Khurram GamicaCloud: let value = prompt("enter value to remove")
+  
+  let nums = [2, 21, 3, 8, 37, 38, 27, 4,5,6,7,8,9,10,11,12,13];
+
+
+
+
+  for(let i = 0;i<nums.length;i++){
+
+      if(nums[i] % 2  == 1){
+          nums.splice(i, 1); 
+          i--;          
+          
+      }
+
+      
+
+
+      
+  }
+
+  console.log(nums);
+[6:20 AM, 4/20/2022] Sir Khurram GamicaCloud: let value = +prompt("enter value to remove")
+  
+  let nums = [2, 21, 3, 8, 37, 38, 27, 4,5,6,7,8,9,10,11,12,13];
+
+
+  for(let i = 0;i<nums.length;i++){
+
+
+    if(nums[i] == value){
+
+      for(let j=i;j<nums.length-1;j++){
+
+        nums[j] = nums[j+1];
+
+      }
+
+    }
+
+  }
+[11:30 AM, 4/20/2022] Fadiii👻: ni
+[12:30 PM, 4/20/2022] Asad Bhai Software Engineer: This will not remove duplicate numbers
+[12:31 PM, 4/20/2022] Asad Bhai Software Engineer: This will remove duplicates as well
+[5:19 AM, 4/21/2022] Sir Khurram GamicaCloud: let letter = prompt("enter letter");
+      let dir = prompt("ente direction");
+
+      // h
+      // flrx
+
+      let data = [   
+                   ['a','b','c','d','e'],
+                   ['f','g','h','i','j'],
+                   ['k','l','m','n','o'],
+                   ['p','q','r','s','t'],
+                   ['u','v','w','x','y']
+       ]
+
+       let str = "";
+
+       let itemMilgya = false;
+       let itemKaIndex;
+
+       for(let i=0;i<data.length;i++){
+
+        if(data[i].includes(letter)){
+          // letter milgya tha
+          itemMilgya = true
+          str += letter;
+          itemKaIndex = data[i].indexOf(letter);        
+          
+        }else if(itemMilgya && data[i][itemKaIndex - (dir == "right" ? 0 : 1) ]){        
+         
+          if(…
+[5:21 AM, 4/21/2022] Sir Khurram GamicaCloud: // let a = capitalize("cat")
+// // Cat
+
+// let b = capitalize("hello");
+// // Hello
+
+// function capitalize(word){
+
+//   return word.charAt(0).toUpperCase()  + word.slice(1)
+
+// }
+
+// let a = [10,20,30,40,50,60,70,80,90];
+
+// let cities =["FSD", "farooqabad", "Faizabad ", "Lahore", "Toba", "Taxila"];
+
+//  let fWalaCity = cities.filter((city)=>{
+
+//   if(city[0].toUpperCase() == "F"){
+//     return true;
+//   }
+
+// });
+
+
+
+
+// homogenious
+// let a = [10,20,30,40,50,60]
+
+// heterogenious
+// let a = [true, "Khurram", [], undefined]
+
+// let [2,10,40,20,30,40,50]
+
+
+  //           //0  1   2  3   4   5   6
+  // let value = +prompt("enter value to remove")
+  
+  // let nums = [2,10,40,20,30,40,50];
+  
+
+
+  // let targetindex = nums.indexOf(value);
+
+  //     for(let j=…
+[6:14 AM, 4/21/2022] Sir Khurram GamicaCloud: let sortedCities = [ ["Faislaabad"]  ];
+
+ 
+
+  let newData = [
+    "Faisalabad",
+    "Lahore",
+    "Farooqabad",
+    "Larkana",
+    "Gojra",
+    "Gilgit",
+    "Karachi"
+  ];
+ 
+for(let i = 0;i<newData.length;i++){
+
+  let city = newData[i];
+
+   let itemMilgya;
+
+    for(let j=0;j<sortedCities.length;j++){
+
+      if(sortedCities[j][0][0]== city[0]){
+        
+        itemMilgya = sortedCities[j];
+      }
+
+    }
+    if(itemMilgya){
+      console.log("item mila?")
+      itemMilgya.push(city)
+    }else{
+
+      sortedCities.push( [city] );
+
+    }
+
+
+
+}
+[12:31 AM, 4/22/2022] Asad Bhai Software Engineer: Put -1 instead of 0 in else if condition to avoid undefined with right dir.
+[4:08 AM, 4/22/2022] Jaunam💫: Sir g code resend krdyn
+[4:18 AM, 4/22/2022] +92 342 5450050: kal ka task reverse left
+[4:18 AM, 4/22/2022] +92 342 5450050: <script>
+
+        let letter = prompt("enter letter");
+        let data = [
+            ['a', 'b', 'c', 'd', 'e'],
+            ['f', 'g', 'h', 'i', 'j'],
+            ['k', 'l', 'm', 'n', 'o'],
+            ['p', 'q', 'r', 's', 't'],
+            ['u', 'v', 'w', 'x', 'y']
+        ]
+        let str = "";
+        let itemMilgya = false;
+        let itemKaIndex;
+
+let startingArray;
+
+        for (let i=0; i <data.length; i++) {
+                  if(data[i].includes(letter)){
+                    startingArray = i;
+                  }
+        }
+
+
+        for (let i=startingArray; i >= 0; i--) {
+
+            if (data[i].includes(letter)) {
+
+                itemMilgya = true
+                str += letter;
+                itemKaIndex = data[i].indexOf(letter)
+
+         …
+[6:13 AM, 4/22/2022] Sir Khurram GamicaCloud: let num = +prompt("enter karen number");
+
+let data = [
+       [10,20,30,40,50],
+       [60,70,80,90,100],
+       [110,120,130,140,150],
+       [160,170,180,190,200],
+       [210,220,230,240,250]
+];
+
+let itemMilaKya = false;
+
+let index;
+let str = num+"";
+
+for(let  i = 0;i<data.length;i++){
+  
+  let currentArray = data[i];
+
+  if(currentArray.includes(num)){
+    
+    itemMilaKya = true;
+    index = currentArray.indexOf(num);
+    console.log(currentArray)
+
+  }else if(itemMilaKya && data[i][index+1]){
+    index++;
+
+    str += data[i][index];
+
+  }
+
+
+}
+[8:22 PM, 4/22/2022] Sir Khurram GamicaCloud: https://chat.whatsapp.com/FZUSESIXyk5HAmafFCS9Q2
+[10:13 AM, 4/23/2022] Sir Khurram GamicaCloud: https://www.instagram.com/gamicacloud_official/
+[1:14 PM, 4/23/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: zig zag ...up to down
+[3:19 AM, 4/24/2022] +92 300 4570193: JS ARRAYS☺️
+[4:18 AM, 4/25/2022] Sir Khurram GamicaCloud: let vowels = ['a','o','u','e','i'];
+
+  
+
+  let words = [
+    'apple',
+    'banana',
+    'mango',
+    'orange',
+    'grapes',
+    'onion',
+    'cherry',
+    'icecream'
+  ];
+ 
+
+  function vowelCheckKaro(myWord){
+
+    let ch = myWord[0];
+
+    if(vowels.includes(ch)){
+      return true;
+    }
+
+  }
+
+  let data = [10,30,40,50,60,70]
+
+  for(let i=0;i<words.length;i++){
+    let word = words[i];
+    let result = vowelCheckKaro(word);
+    if(result == undefined){
+      words.splice(i, 1);
+      i--;
+    }
+  }
+[6:15 AM, 4/25/2022] Sir Khurram GamicaCloud: function calculateFactorial(num) {
+        
+        if(num == 1){
+          return num;
+        }else{
+          return calculateFactorial(num-1) * num
+        }
+      
+      }
+
+      let res =  calculateFactorial(3)
+      console.log(res);
+[6:15 AM, 4/25/2022] Sir Khurram GamicaCloud: let s1 = numberREadyKaro(10)
+      let result = s1(2);
+      console.log(result)
+
+      function numberREadyKaro(num){
+        return function some(a){
+          return a * num;
+        }
+      }
+[4:06 AM, 4/26/2022] Sir Khurram GamicaCloud: let count = 0;
+
+      function some(){
+        count++;
+        console.log("I am chaling "+count)
+      }
+
+      let myKey = setInterval(some, 10);
+  // clearInterval(myKey)
+[11:12 PM, 4/26/2022] Sir Khurram GamicaCloud: let colors = [
+        'red', 
+      'blue',
+       'pink', 
+       'limegreen',
+       'magenta',
+       'purple'
+      ];
+          
+
+        
+
+      let a = "apple";
+      let b = "banana";
+
+      let c = a + b;
+
+      let count = 0;
+      let green = 255;
+
+      function some(){      
+        myDiv.style.backgroundColor = 'rgb('+ count +','+green+',255)'
+        // myDiv.style.backgroundColor = colors[count];      
+        green--;
+
+
+        if(count <255){
+          count++;                
+        }else{
+          clearInterval(myKey)
+        }
+      }
+
+      let myKey = setInterval(some, 0);
+[4:59 AM, 4/27/2022] Sir Khurram GamicaCloud: let products = [
+        {
+        name:"HP 567",
+        price:"15000"
+      },
+      {
+        name:"OPPO H7",
+        price:"10000"
+      },
+      {
+        name:"VIVO K9",
+        price:"7000"
+      }
+    ]
+
+    let productNames = products.map((product)=>{
+
+      if(product.price > 8000){
+        return product;
+      }
+
+      // return product.name;
+
+    })
+
+    let alagProducts = products.filter((product)=>{
+
+      if(product.price < 8000){
+        return true;
+      }
+
+    })
+
+  //  students.forEach((student)=>{
+
+    // console.log(student.name)
+
+  //  })
+[5:31 AM, 4/27/2022] Jaunam💫: Sir g code snd kr dyn phly wala
+[6:26 AM, 4/27/2022] Sir Khurram GamicaCloud: // let data  = [
+      //   ['apple', 'orange', 'cat'],
+      //   ['banana', 'owl', 'crow'],
+      //   ['apricot', 'omlet', 'carrot']
+      // ]
+
+      // let name = prompt("enter letter");
+      // let newArray = [];
+
+      // data.filter((chotiArray)=>{
+
+      //   chotiArray.filter((word)=>{
+
+      //     if(word[0] == name){
+      //       newArray.push(word);
+      //     }
+
+      //   });
+
+      // })
+[6:26 AM, 4/27/2022] Sir Khurram GamicaCloud: let fruits = [
+      'apple',
+      'banana',
+      'cherry',
+      'dates'
+    ];
+
+      
+for(let i = 0;i<4;i++){
+
+  let tag = document.createElement('h1');
+  tag.innerHTML = fruits[i];
+  tag.className = "gGox";
+// tag.style.color = "green";
+
+
+myDiv.appendChild(tag);
+
+}
+[8:39 AM, 4/27/2022] Sir Khurram GamicaCloud: .
+[4:11 AM, 4/28/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+
+  .gGox{
+    color:green;
+    border:1px solid orange;
+  }
+
+  #myDiv{
+    width: 200px;
+    height: 200px;
+    border:1px solid red;
+  }
+
+  #myCar{
+    position: absolute;
+    width: 100px;
+    transform: scale(-1, 1);
+  }
+
+</style>
+
+<body>
+
+  <img id="myCar" src="car.jpg" alt="">
+  
+  <script>
+
+    let index = 0;
+    let limit = 800;
+    let dir = "left";
+
+    setInterval(()=>{
+
+      myCar.style.left = index + "px";
+      
+      if(dir == "left"){
+          index++;
+
+          if(index == 800){
+            dir = "right"
+  …
+[6:29 AM, 4/28/2022] Sir Khurram GamicaCloud: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+
+  .gGox{
+    color:green;
+    border:1px solid orange;
+  }
+
+  #myDiv{
+    width: 200px;
+    height: 200px;
+    border:1px solid red;
+  }
+
+  .baloon{
+    width: 100px;
+    position: absolute;
+    /* top:90%; */
+  }
+
+  #myCar{
+    position: absolute;
+    width: 100px;
+    transform: scale(-1, 1);
+  }
+
+  #baloonContainer{
+    overflow: hidden;
+    width:500px;
+    height: 500px;
+    border:1px solid red;
+    margin:auto;
+    position:relative;
+  }
+
+</style>
+
+<body>
+
+  <div id="baloonContainer">
+    
+  </div>
+
+  
+  <script>
+
+   …
+[2:18 AM, 5/2/2022] ❤️ⒽⒶⒻⒾⓏ❤️ Saqib: https://tamooriqbal.github.io/Stringmethods/

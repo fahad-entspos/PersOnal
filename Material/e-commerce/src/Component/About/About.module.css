@@ -1,0 +1,9 @@
+.main{
+    background-image: url("/public/pic (3).jpg");
+    background-size: cover;
+    background-position: center;
+}
+.icons{
+    font-size: 3rem;
+    color: rgb(59, 70, 224);
+}

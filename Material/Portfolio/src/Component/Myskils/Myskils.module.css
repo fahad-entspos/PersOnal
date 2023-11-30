@@ -1,0 +1,8 @@
+.main{
+    /* background-image: url("/public/767.jp"); */
+    background-color: rgb(4, 1, 27);
+    /* box-shadow: 0px 80px 220px 0px rgb(0, 0, 0); */
+    width: 100%;
+    background-size: cover;
+    height: 100%;
+}

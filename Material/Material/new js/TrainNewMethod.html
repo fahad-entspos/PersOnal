@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        .coach{
+            width:200px;
+            height: 200px;
+            border:1px solid red
+        }
+
+        #coachesContainer{
+            display: flex;
+        }
+
+        .seat{
+            width: 25px;
+            height: 25px;
+            background-color: blue;
+        }
+
+        .coach{
+            column-gap: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+    </style>
+</head>
+<body>
+
+    <select onchange="showCoaches()" id="citySelector">
+        <option>Select City</option>
+    </select>
+
+    <div id="coachesContainer"></div>
+
+    <script>
+
+let cities = [
+        "Hyderabad",
+        "Sukkur",
+        "Rohri",
+        "Sadiqabad",
+        "Multan",
+        "Toba",
+        "Gojra",
+        "Faisalabad",
+        "Saangla",
+        "Hafizabad",
+        "Wazirabad",
+        "Rawalpindi"
+       ];
+
+
+       function makeCoaches(coachesKiArray, myIndex){
+
+        coachesKiArray.forEach(function(bogie, index){
+
+            let coachLabel  = document.createElement('span');
+            coachLabel.innerText = index+myIndex;
+
+            let coachUI = document.createElement('div');
+            coachUI.className = "coach";
+            coachUI.appendChild(coachLabel);
+
+            coachesContainer.appendChild(coachUI)
+
+    for(let i = 1;i<=bogie.seats;i++){
+
+        let seatUI = document.createElement('div');
+
+        seatUI.onclick= function(){
+
+            if(seatUI.alreadyBooked == undefined){
+                seatUI.alreadyBooked = true                
+                bogie.booked++;
+                seatUI.style.background = "yellow";
+            }
+
+        }
+
+        seatUI.className = 'seat';
+        coachUI.appendChild(seatUI)
+
+    }
+
+
+            })
+
+       }
+
+
+       function showCoaches(){
+
+        coachesContainer.innerHTML = '';
+
+            
+            let cityIndex = cities.indexOf(citySelector.value);
+
+
+            if(cityIndex > 7){
+
+                let nextBogies = coaches.slice(4);
+
+                makeCoaches (nextBogies, 5);
+
+
+            }else{
+
+                let previousBogies = coaches.slice(0,4);
+                makeCoaches(previousBogies, 1);
+
+
+
+            }
+
+
+       }
+
+
+       cities.forEach(function(city){
+
+        citySelector.innerHTML += '<option>'+city+'</option>';
+
+
+       })
+
+        let coaches = [
+            {
+                id:1,
+                seats:10,
+                booked:0
+            },
+            {
+                id:2,
+                seats:10,
+                booked:0
+            },
+            {
+                id:3,
+                seats:10,
+                booked:0
+            },
+            {
+                id:4,
+                seats:10,
+                booked:0
+            },
+            {
+                id:5,
+                seats:10,
+                booked:0
+            },
+            {
+                id:6,
+                seats:10,
+                booked:0
+            },
+            {
+                id:7,
+                seats:10,
+                booked:0
+            },
+            {
+                id:8,
+                seats:10,
+                booked:0
+            },
+            {
+                id:9,
+                seats:10,
+                booked:0
+            },
+            {
+                id:10,
+                seats:10,
+                booked:0
+            }
+        ]
+    
+
+
+            // if(cityIndex > 7){
+
+            //     let nextBogies = coaches.slice(4);
+
+            //     for(let coach of nextBogies){
+            
+            //         let dastiabSeats = coach.seats - coach.booked; 
+
+            //         if(seats < dastiabSeats){
+            //             coach.booked += seats; 
+            //             break;
+            //         }else{
+            //             coach.booked += dastiabSeats;
+            //             seats-=dastiabSeats;
+            //         }
+
+            //     }
+
+            // }else{
+
+            //     let previousBogies = coaches.slice(0,4);
+            //     for(let coach of previousBogies){
+            
+            //         let dastiabSeats = coach.seats - coach.booked;
+
+            //         if(seats < dastiabSeats){
+            //             coach.booked += seats; 
+            //             break;
+            //         }else{
+            //             coach.booked += dastiabSeats;
+            //             seats-=dastiabSeats;
+            //         }
+
+            //     }
+            // }
+    </script>
+</body>
+</html>

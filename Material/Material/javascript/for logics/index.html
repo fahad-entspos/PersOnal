@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #parentDiv{
+            display: felx;
+            /* border: 1px solid red; */
+            width: 1000px;
+            height: 600px;
+            position: relative;
+            margin: auto;
+            
+        }
+        .same{
+            width: 300px;
+            height: 300px;
+            border: 1px solid black;
+            /* display: inline-block; */
+        }
+        #fristDiv{
+            margin-left: 200px;
+            background-color: gray;
+            /* position: relative; */
+            position: absolute;
+            right: 616px;
+             top: 61px;
+
+        }
+        #secondDiv{
+            background-color: rgb(99, 3, 51);
+            position: absolute;
+            right: 543px;
+            top: 130px
+        }
+        #thirdDiv{
+            background-color: rgb(5, 141, 165);
+            position: absolute;
+            right: 474px;
+            top: 188px
+
+        }
+        #fourthDiv{
+            background-color: indigo;
+            position: absolute;
+            
+            right: 400px;
+            top: 255px;
+
+
+            
+        }
+        #fifthDiv{
+            background-color: rgb(228, 15, 192);
+            position: absolute;
+            left: 378px;
+            top: 320px
+        }
+
+
+
+    </style>
+
+</head>
+<body>
+    
+    <div id="parentDiv">
+    <div id="fristDiv" class="same" onclick="changeclr()"></div>
+    <div id="secondDiv" class="same" onclick="changeclr()"></div>
+    <div id="thirdDiv" class="same" onclick="changeclr()"></div>
+    <div id="fourthDiv" class="same" onclick="changeclr()"></div>
+    <div id="fifthDiv" class="same" onclick="changeclr()"></div>
+</div>
+</body>
+<script>
+   
+    let allDivs = document.querySelectorAll('.same') 
+        function changeclr() {
+
+            let currentIndex = 0;
+            let itemIndex = 0;
+
+
+            let clrDiv = document.getElementById(event.target.id)
+
+             let getColor =getComputedStyle(clrDiv).backgroundColor
+           
+            let allDivs= document.querySelectorAll('.same')
+            
+            allDivs.forEach(function(item){
+            if (item == clrDiv) {
+                    currentIndex = itemIndex
+                    console.log(itemIndex);
+                }
+                itemIndex++;
+
+        })
+
+
+
+            if (currentIndex == 0) {
+
+                allDivs[currentIndex + 1].style.backgroundColor = getColor
+                
+                } else if (currentIndex == allDivs.length-1) {
+
+                allDivs[currentIndex - 1].style.backgroundColor = getColor
+            } else {
+                allDivs[currentIndex - 1].style.backgroundColor = getColor
+
+                allDivs[currentIndex + 1].style.backgroundColor = getColor
+            }
+ }
+       
+
+    
+
+
+</script>
+</html>

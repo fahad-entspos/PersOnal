@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+
+<style>
+
+/* Bt tag */
+/* li */
+
+/* by class */
+/* .red-box */
+
+/* by id */
+/* #red-box1,
+#red-box2{
+color:orange;
+} */
+
+
+article[class]#some .span #data{
+
+color:red;
+}
+
+
+
+article div{
+
+}
+
+.hide{
+display: none;
+}
+
+.deposit{
+background-color: rgb(222, 251, 179);
+}
+
+.withdraw{
+background-color: rgb(255, 227, 227);
+}
+
+</style>
+
+</head>
+<body>
+
+<script>
+
+// document.getElementsByClassName
+// document.getElementsByTagName
+// document.getElementsByName
+// document.querySelector()
+
+</script>
+
+<h1>Meezan Bank of Faisalabad</h1>
+<button onclick="showSignupForm()">New User</button>
+<button onclick="showLoginForm()">Already a user</button>
+<button onclick="logout()">Logout</button>
+
+<form id="loginBox" class="hide">
+<input type="text" id="login_user_name"> <br/>
+<input type="text" id="login_user_password"> <br/>
+<button onclick="loginUser()">Login</button>
+</form>
+
+<div id="signupBOx" class="hide">
+
+<input type="text" id="signup_user_name"> <br/>
+<input type="text" id="signup_user_password"> <br/>
+<input type="number" id="signup_user_balance"> <br/>
+
+<button onclick="createUser()">Signup</button>
+
+</div>
+
+<div id="dashboard" class="hide">
+<h1>Welcome to dashboard</h1>
+<table border="1">
+<tr>
+<td>Name</td>
+<td id="tUserName"></td>
+<td>Balance</td>
+<td id="tUserBalance"></td>
+<td><button onclick="makeTransaction('deposit')">Deposit Money</button></td>
+<td><button onclick="makeTransaction('withdraw')">Withdraw Money</button></td>
+</tr>
+</table>
+<table border="1">
+<tr>
+<td colspan="2">My Transactions</td>
+</tr>
+<tr>
+<th>Date</th>
+<th>Description</th>
+<th>Amount</th>
+</tr>
+<tbody id="transactionsBox">
+
+</tbody>
+</table>
+</div>
+
+<script>
+
+let currentUser;
+let userAccounts = [];
+let withdrawalamount = 0;
+let today;
+
+
+
+function makeTransaction(type){
+
+let amount = +prompt("Enter amount");
+let description = prompt("Enter payment purpose");
+
+let nyiTransaction = {
+amount:amount,
+description:description,
+type:type,
+date:(new Date)
+};
+
+
+today=nyiTransaction.date
+if(type == "deposit"){
+currentUser.balance += amount;
+}else{
+withdrawalamount += amount ;
+if(amount > currentUser.balance){
+return alert("balance nahi h itna!");
+}
+if (withdrawalamount > 10000 || amount > 10000){
+    withdrawalamount -= amount;
+    delete nyiTransaction ;
+    return alert("limit exceeded !")
+}
+
+currentUser.balance -= amount;
+
+
+}
+currentUser.transactions.push(nyiTransaction);
+
+showDashboard();
+
+}
+
+function logout(){
+
+loginBox.reset();
+currentUser = null;
+loginBox.classList.remove('hide')
+dashboard.classList.add('hide')
+
+
+
+}
+
+function showDashboard(){
+
+tUserName.innerText =currentUser.name;
+tUserBalance.innerText =currentUser.balance;
+
+loginBox.classList.add('hide')
+signupBOx.classList.add('hide')
+dashboard.classList.remove('hide')
+
+transactionsBox.innerHTML = '';
+
+currentUser.transactions.forEach((transaction)=>{
+
+let sign = transaction.type == "deposit" ? '+' :'-';
+
+transactionsBox.innerHTML += '<tr class="'+transaction.type+'"><td>'+transaction.date+'</td><td>'+transaction.description+'</td><td>'+sign + transaction.amount+'</td></tr>';
+
+})
+}
+
+function showLoginForm(){
+
+loginBox.classList.remove('hide')
+signupBOx.classList.add('hide')
+
+}
+
+function showSignupForm(){
+
+loginBox.classList.add('hide')
+signupBOx.classList.remove('hide')
+
+
+}
+
+function createUser(){
+
+let userIndex = userAccounts.findIndex(function(asd){
+
+if(asd.name == signup_user_name.value){
+return true;
+}
+
+})
+
+if(userIndex > -1){
+return alert("user already registered");
+}
+
+
+let nyaUser = {
+transactions:[],
+name:signup_user_name.value,
+password:signup_user_password.value,
+balance:+signup_user_balance.value,
+}
+
+userAccounts.push(nyaUser);
+
+}
+
+
+function loginUser(){
+
+event.preventDefault();
+
+let name = login_user_name.value;
+let password = login_user_password.value;
+
+let user = userAccounts.find((user)=>{
+
+if(user.name == name && user.password == password){
+return true;
+}
+
+})
+
+if(user){
+currentUser = user;
+alert("milgya ")
+showDashboard();
+}else{
+alert("nahi milgya ")
+}
+
+
+}
+
+
+</script>
+
+</body>
+</html>

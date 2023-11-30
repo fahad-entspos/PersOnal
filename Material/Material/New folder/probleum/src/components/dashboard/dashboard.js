@@ -1,0 +1,30 @@
+
+import { useSelector } from "react-redux"
+import { Link, useParams } from "react-router-dom"
+export default (props)=>{
+
+    let users = useSelector(function(store){
+        return store.userReducer.users;
+    });
+
+    // let myParams = useParams();
+    // myParams.user
+
+    return <div>
+            <table>
+                {
+                    users.map((user)=>{
+                        return <tr>
+                            <td>{user.name}</td>
+                            <td>{user.email}</td>
+                            <td>{user.password}</td>
+                            <td>
+                                <Link to={"/edit/"+user.name}>Edit</Link>
+                            </td>
+                        </tr>
+                    })
+                }
+                </table>
+        </div>
+
+}

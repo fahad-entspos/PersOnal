@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <Button onclick="book()">Click</Button>
+    <script>
+
+       let cities = [
+        "Hyderabad",
+        "Sukkur",
+        "Rohri",
+        "Sadiqabad",
+        "Multan",
+        "Toba",
+        "Gojra",
+        "Faisalabad",
+        "Saangla",
+        "Hafizabad",
+        "Wazirabad",
+        "Rawalpindi"
+       ];
+
+
+    
+        let coaches = [
+            {
+                id:1,
+                seats:10,
+                booked:0
+            },
+            {
+                id:2,
+                seats:10,
+                booked:0
+            },
+            {
+                id:3,
+                seats:10,
+                booked:0
+            },
+            {
+                id:4,
+                seats:10,
+                booked:0
+            },
+            {
+                id:5,
+                seats:10,
+                booked:0
+            },
+            {
+                id:6,
+                seats:10,
+                booked:0
+            },
+            {
+                id:7,
+                seats:10,
+                booked:0
+            },
+            {
+                id:8,
+                seats:10,
+                booked:0
+            },
+            {
+                id:9,
+                seats:10,
+                booked:0
+            },
+            {
+                id:10,
+                seats:10,
+                booked:0
+            }
+        ]
+    
+        function book(){
+
+        let city = prompt("Enter City");
+  
+        let seats = +prompt("Enter seats");
+
+            let cityIndex = cities.indexOf(city);
+
+            if(cityIndex > 7){
+
+                let nextBogies = coaches.slice(4);
+                for(let coach of nextBogies){
+                    let dastiabSeats = coach.seats - coach.booked
+                    if(seats <= dastiabSeats){
+                        coach.booked += seats
+                        break;
+                    }else{
+                        coach.booked += dastiabSeats;
+                        seats -= dastiabSeats
+                    }
+
+                }
+
+            }else{
+
+                let nextBogies = coaches.slice(0,4);
+                for(let coach of nextBogies){
+                    let dastiabSeats = coach.seats - coach.booked
+                    if(seats <= dastiabSeats){
+                        coach.booked += seats
+                        break;
+                    }else{
+                        coach.booked += dastiabSeats;
+                        seats -= coach.booked
+                    }
+
+                }
+            }
+
+
+        }
+        console.log(coaches);
+
+    </script>
+    
+</body>
+</html>

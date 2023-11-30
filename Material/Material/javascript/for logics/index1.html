@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <select id="left">
+        <option value="gojra">gojra</option>
+        <option value="faislabad">faislabad</option>
+        <option value="Lahore">Lahore</option>
+        <option value="Sargodha">Sargodha</option>
+    </select>
+
+         <button id="btn" onclick="leftValue()">></button>
+         <button onclick="rightValue()"><</button>
+
+         <select id="right">
+         </select>
+    <script>
+      
+    function leftValue(){
+    let a= left.selectedOptions[0];
+    right.appendChild(a)
+    console.log(right)
+      }
+
+      function rightValue(){
+    var b= right.selectedOptions[0];
+    left.appendChild(b)
+    console.log(left)
+      }
+
+
+       
+
+     
+
+    </script>
+</body>
+</html>

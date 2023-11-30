@@ -1,0 +1,6507 @@
+Aneeb, Asad, Asad, Asim, Bilal, Farzeel, M, Mohsin, Pervaiz, ❤️ⒽⒶⒻⒾⓏ❤️ Saqib, Sir, +92 303 5777248, +92 306 5231395, +92 308 5630574, +92 309 7848256, +92 313 7688995, +92 314 3571138, +92 315 7042606, +92 316 2352208, +92 316 7058873, +92 321 9300028, +92 322 6059407, +92 322 8795467, +92 330 6146540, +92 330 6913747, +92 335 6366515, +92 340 7062568, +92 342 1698492, +92 342 5450050, +92 344 1919904, +92 345 1469507, +92 345 2767310, +92 348 9099301, +92 349 6064149, You
+Sir Khurram GamicaCloud created group “Gamicacloud Eve 22 March”
+You added +92 320 7452186
+5/9/2022
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    
+    #box{
+        width: 600px;
+        height: 600px;
+        border:2px solid red;
+        margin:auto;
+    }
+
+    #circle{
+        position: absolute;
+        top:0;
+        bottom:0;
+        margin:auto;
+        border-radius: 100px;
+        width: 100px;
+        height: 100px;
+        background-color: orange;
+        left:0;
+    }
+    </style>
+
+</head>
+<body>
+
+    <div id="box">
+
+        <div id="circle"></div>
+
+    </div>
+
+    <script>
+
+        let meriDirection = "left";
+
+            setInterval(()=>{
+           … Read more
+6:03 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    
+    #box{
+        width: 600px;
+        height: 600px;
+        border:2px solid red;
+        margin:auto;
+    }
+
+    #circle{
+        position: absolute;
+        top:0;
+        bottom:0;
+        margin:auto;
+        border-radius: 100px;
+        width: 100px;
+        height: 100px;
+        background-color: orange;
+        left:0;
+    }
+    </style>
+
+</head>
+<body>
+
+    <div id="box">
+
+        <div id="circle"></div>
+
+    </div>
+
+    <script>
+
+        let meriDirection = "left";
+
+            setInterval(()=>{
+           … Read more
+7:28 PM
++92 345 1469507
+.
+
+0:10
+7:45 PM
++92 300 2952257
+Usama Badar Chattha
++92 345 1469507
+.
+0:10 Video
+Noicee
+7:58 PM
+Sir Khurram GamicaCloud added +92 314 3571138
++92 342 5450050
+Rehman
++92 345 1469507
+.
+0:10 Video
+👏
+👏
+9:07 PM
++92 303 5777248
+Nouman 😊
+
+25 kB
+@923497672117  sir ya knsi freelancing hai??😅😅
+@Sir Khurram GamicaCloud  sir ya knsi freelancing hai??😅😅
+9:54 PM
+Sir Khurram GamicaCloud
++92 303 5777248
+Nouman 😊
+@Sir Khurram GamicaCloud  sir ya knsi freelancing hai??😅😅
+yeh chwalat freelancers Pakistani m hi milte mostly 🤦‍♂️
+9:57 PM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+yeh chwalat freelancers Pakistani m hi milte mostly 🤦‍♂️
+😅😅 isi liya pakistan badnam
+9:57 PM
+Sir Khurram GamicaCloud
++92 303 5777248
+Nouman 😊
+😅😅 isi liya pakistan badnam
+kaam jo aesy hn
+9:57 PM
++92 303 5777248
+Nouman 😊
+😅
+😅
+9:57 PM
+5/10/2022
++92 344 1919904
+Eش@
+
+0:03
+8:20 AM
+Sir Khurram GamicaCloud
++92 344 1919904
+Eش@
+0:03 Video
+nice work
+8:20 AM
++92 344 1919904
+Eش@
+Sir Khurram GamicaCloud
+nice work
+Thanks sir
+8:21 AM
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    #myTag{
+        width:1000px;
+        height: 1000px;
+        border: 1px solid red;
+    }
+
+</style>
+
+</head>
+<body>
+
+    <canvas width="600" height="600" id="myTag"></canvas>
+
+<video controls src="video.mp4" width="600"></video>
+
+    <script>
+
+        let myPen = myTag.getContext('2d');
+        
+        myPen.beginPath();
+        myPen.fillStyle = "red";
+        myPen.arc(100,200,100,0,360);
+        myPen.closePath();
+        myPen.fill();
+        myPen.stroke();
+
+        myPen.beginPath();
+        myPen.fillStyle = "blu… Read more
+6:36 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    #myTag{
+        width:1000px;
+        height: 1000px;
+        border: 1px solid red;
+    }
+
+</style>
+
+</head>
+<body>
+
+    <img id="aryLogo" src="logo.jpg" alt="">
+
+    <canvas width="600" height="600" id="myTag"></canvas>
+
+<video id="myVideo" controls src="video.mp4" width="600"></video>
+
+    <script>
+
+
+let ctx = myTag.getContext('2d');
+
+
+        setInterval(()=>{
+            ctx.drawImage(myVideo,0,0, 600, 600);
+            ctx.drawImage(aryLogo,480,480,100, 100);
+        }, 25);
+
+
+// myVideo.ontimeupdate = function(){
+
+… Read more
+6:57 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    #myTag{
+        width:1000px;
+        height: 1000px;
+        border: 1px solid red;
+    }
+
+</style>
+
+</head>
+<body>
+
+    <!-- <img id="aryLogo" src="logo.jpg" alt=""> -->
+
+    <canvas width="600" height="600" id="myTag"></canvas>
+
+<video id="myVideo" controls src="video.mp4" width="600"></video>
+
+    <script>
+
+
+let ctx = myTag.getContext('2d');
+
+let logoImg = new Image();
+logoImg.src = "logo.jpg";
+
+
+        setInterval(()=>{
+            ctx.drawImage(myVideo,0,0, 600, 600);
+            ctx.drawImage(logoImg,480,480,100, … Read more
+6:59 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    #myTag{
+        width:1000px;
+        height: 1000px;
+        border: 1px solid red;
+    }
+
+</style>
+
+</head>
+<body>
+
+    <!-- <img id="aryLogo" src="logo.jpg" alt=""> -->
+
+    <canvas width="600" height="600" id="myTag"></canvas>
+
+<video id="myVideo" controls src="video.mp4" width="600"></video>
+
+    <script>
+
+
+let ctx = myTag.getContext('2d');
+
+let logoImg = new Image();
+logoImg.src = "logo.jpg";
+
+let newsTick = "Aaj bohat acha mosam h, maza araha h";
+
+        let index = 500;
+
+        setInterval(()=>{
+            ctx.… Read more
+7:52 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+
+    #myTag{
+        width:1000px;
+        height: 1000px;
+        border: 1px solid red;
+    }
+
+</style>
+
+</head>
+<body>
+
+    <!-- <img id="aryLogo" src="logo.jpg" alt=""> -->
+
+    <canvas width="600" height="600" id="myTag"></canvas>
+
+<video id="myVideo" controls src="video.mp4" width="600"></video>
+
+    <script>
+
+
+let ctx = myTag.getContext('2d');
+
+let logoImg = new Image();
+logoImg.src = "logo.jpg";
+
+let newsTick = "Aaj bohat acha mosam h, maza araha h";
+
+        let index = 500;
+
+        setInterval(()=>{
+            ctx.… Read more
+7:53 PM
+5/11/2022
+Pervaiz Bhai
+
+21 kB
+
+11:10 AM
+Sir Khurram GamicaCloud
+Pervaiz Bhai
+Photo
+good work
+11:14 AM
++92 315 7042606
+MecoMaan
+Pervaiz Bhai
+Photo
+Wah g wah❤️
+11:15 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+good work
+❣️
+11:15 AM
++92 315 7042606
+MecoMaan
+
+34 javascript basic easy topic from maan....pdf
+34 pages•PDF•54 MB
+11:23 AM
+
++92 315 7042606
+MecoMaan
++92 315 7042606
+MecoMaan
+34 javascript basic easy topic from maan....pdf • 34 pages
+Continue...
+11:35 AM
+Asad Bhai Software Engineer
+
+0:10
+Repeating the news
+11:37 AM
++92 315 7042606
+MecoMaan
+Asad Bhai Software Engineer
+Repeating the news
+Marquee tag?
+11:50 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:19
+11:56 AM
+Sir Khurram GamicaCloud
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:19 Video
+😅 excellent
+12:06 PM
+
+❤️
+Pervaiz Bhai
+
+0:06
+7:00 PM
++92 308 5630574
+꧁•⊹٭عبداللہ طیب٭⊹•꧂
+This message was deleted
+7:02 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:06
+7:22 PM
++92 300 4570193
+Rana Saqib
+
+0:07
+7:22 PM
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+0:07 Video
+
+7:45 PM
++92 315 7042606
+MecoMaan
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:06 Video
+
+7:46 PM
++92 300 4570193
+Rana Saqib
++92 315 7042606
+MecoMaan
+
+8:23 PM
+Mohsin Bhi Software HOuse
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #myball{
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 50vh;
+            width: 100px;
+            height: 100px;
+        
+            margin: auto;
+
+        }
+    </style>
+</head>
+
+<body>
+    <img id="myball" src="foo.jpg" alt="">
+<script>
+
+    // function mosi(){
+    //     limit=10;
+    // }
+    let limit=10;
+    let dir="top";
+    let pos=myball.offsetTop;
+
+    // let limt=60;
+
+  let d =   setInterval(() => {
+        if(dir=="top"){
+            myball.style.top=(myb… Read more
+8:32 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+32 kB
+
+8:36 PM
+Sir Khurram GamicaCloud
+Dear friends,
+9:31 PM
+Yeh movement ball wala thora tricky h but logical and interesting bhi h
+9:31 PM
+Koshish kren, iski all logics fully clear ho jyen
+9:31 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+G sir InshaAllah
+9:32 PM
+Jaunam💫
+Sir Khurram GamicaCloud
+Koshish kren, iski all logics fully clear ho jyen
+Insha Allah
+9:33 PM
+Bilal Software hOuse
+Sir Khurram GamicaCloud
+Koshish kren, iski all logics fully clear ho jyen
+Inshallah
+9:47 PM
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Yeh movement ball wala thora tricky h but logical and interesting bhi h
+G sir ho gya clear❤️
+9:57 PM
+S.S
+Sir Khurram GamicaCloud
+Koshish kren, iski all logics fully clear ho jyen
+In Shaa Allah
+Sir ho gia ha
+11:52 PM
+5/12/2022
+Farzeel Software House
+
+129 kB
+Yr gg Koey guide ker dy code kea ha but samaj nahi a rHi mistake kidr ki ha
+Yr gg Koey guide ker dy code kea ha but samaj nahi a rHi mistake kidr ki ha
+1:57 AM
++92 342 5450050
+Rehman
+Farzeel Software House
+Yr gg Koey guide ker dy code kea ha but samaj nahi a rHi mistake kidr ki ha
+Console dek lo waha sa error ka pata laga ga
+1:59 AM
+Farzeel Software House
+
+0:01
+1:59 AM
++92 342 5450050
+Rehman
+This message was deleted
+2:00 AM
++92 342 5450050
+Rehman
+Farzeel Software House
+0:01 Video
+Inbox kr lo sara code
+2:01 AM
+Farzeel Software House
++92 342 5450050
+Rehman
+Inbox kr lo sara code
+Kn sa code ya jo kea ha
+2:01 AM
+Ap k9 karo send ?
+2:01 AM
++92 342 5450050
+Rehman
+Farzeel Software House
+Kn sa code ya jo kea ha
+Html
+2:01 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Farzeel Software House
+Yr gg Koey guide ker dy code kea ha but samaj nahi a rHi mistake kidr ki ha
+Jo first if lagi hui ha usko else sy pehly band kro
+2:18 AM
+Farzeel Software House
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Jo first if lagi hui ha usko else sy pehly band kro
+Bahi ruk gaya ha ab up down nahi ho raha
+2:19 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+No problem
+2:19 AM
+Krty hain
+2:19 AM
+Farzeel Software House
+Gg
+2:19 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+2nd or 3rd direction di ha usko assign krna ha comparison nae krna double == ki jaga single = kro
+2:21 AM
+Farzeel Software House
+Dono ma
+2:22 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+G
+2:22 AM
+Farzeel Software House
+
+108 kB
+Ki ha
+Ki ha
+2:22 AM
+Asy hi
+2:22 AM
+Bro nahi chala
+2:23 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Farzeel Software House
+Ki ha
+Ab else ko bahir likho if ky
+2:24 AM
+Pervaiz Bhai
+
+56 kB
+Assalam o alaikum Bhai Jan BHAi yaa per variable ka name Doo Jo oper Dia ha g  or nachy 50 do name lik ker
+Assalam o alaikum Bhai Jan BHAi yaa per variable ka name Doo Jo oper Dia ha g  or nachy 50 do name lik ker
+3:00 AM
+Farzeel Software House
+
+89 kB
+
+3:00 AM
+Pervaiz Bhai
+
+0:28
+😜
+3:04 AM
+Pervaiz Bhai
+This message was deleted
+3:05 AM
+Pervaiz Bhai
+This message was deleted
+3:05 AM
++92 315 7042606
+MecoMaan
+Pervaiz Bhai
+😜
+❤️
+5:23 AM
+Pervaiz Bhai
++92 315 7042606
+MecoMaan
+❤️
+❣️
+6:47 AM
+S.S
+Farzeel Software House
+Yr gg Koey guide ker dy code kea ha but samaj nahi a rHi mistake kidr ki ha
+Aaj jaldi a jana class me phir a k samj lna muj sy.
+11:09 AM
+S.S
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+2nd or 3rd direction di ha usko assign krna ha comparison nae krna double == ki jaga single = kro
+Good bro
+11:10 AM
+Pervaiz Bhai
+Assalam o alaikum sir
+4:03 PM
+Pervaiz Bhai
+This message was deleted
+4:03 PM
+Pervaiz Bhai
+This message was deleted
+4:03 PM
++92 345 1469507
+.
+Sir g Fans lgva den please 🙏🏼
+5:17 PM
+
+👍
+😂
+3
++92 311 7998429
+Fazi Shah
++92 345 1469507
+.
+Sir g Fans lgva den please 🙏🏼
+
+5:21 PM
++92 311 7998429
+Fazi Shah
+🥹
+5:21 PM
+Sir Khurram GamicaCloud
++92 345 1469507
+.
+Sir g Fans lgva den please 🙏🏼
+g brother, order dedia h, shop per paren hen
+5:41 PM
++92 345 1469507
+.
+Sir Khurram GamicaCloud
+g brother, order dedia h, shop per paren hen
+❤️
+🤝🏻
+5:48 PM
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    video{
+      position: absolute;
+    top: -60px;
+    margin: auto;
+    bottom: 0;
+    width: 356px;
+    height: 305px;
+    left: -27px;
+    right: 0;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <h1>VLC PLAYER</h1>
+
+  <input id="fileSelector" type="file">
+
+  <button onclick="loadVideo()">Load</button>
+<img src="player.JPG" alt="">
+  <video controls id="meraPlayer" src="some.mp3"></video>
+
+  <script>
+
+     function loadVideo(){
+
+      meraPlayer.src = URL.createObjectURL(fileSelector.files[0]);
+
+     }
+
+
+  </script>
+
+
+</body>
+</html>
+6:08 PM
+Sir Khurram GamicaCloud added +92 340 7062568
+Sir Khurram GamicaCloud
+g brother, order dedia h, shop per paren hen
+🫶🏻
+6:11 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:12
+7:00 PM
+5/13/2022
++92 342 5450050
+Rehman
+
+63 kB
+
+11:19 AM
+
+😂
+❤️
+3
+M Usman
+Fantastic😯
+12:33 PM
+Pervaiz Bhai
+
+0:19
+🥰
+12:53 PM
+
+❤️
+👍
+2
+Mano Mano
+Pervaiz Bhai
+🥰
+Good work bro
+12:57 PM
+Asad jani
+Pervaiz Bhai
+🥰
+
+1:10 PM
+Pervaiz Bhai
+Asad jani
+💞
+1:11 PM
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+🥰
+Congratulations Sir Bala Sb
+2:26 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Congratulations Sir Bala Sb
+🥰
+3:06 PM
+Sir Khurram GamicaCloud
+Pervaiz Bhai
+💞
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    video{
+      position: absolute;
+    top: -60px;
+    margin: auto;
+    bottom: 0;
+    width: 356px;
+    height: 305px;
+    left: -27px;
+    right: 0;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <h1>VLC PLAYER</h1>
+
+  <input multiple="multiple"   id="fileSelector" type="file">
+
+  <button onclick="loadVideo()">Load</button>
+<img src="player.JPG" alt="">
+  <video  id="meraPlayer" src="some.mp3"></video>
+
+  <div id="thumbnailBox">
+
+  </div>
+
+  <script>
+
+     function loadVideo(){
+
+
+      for(let file of fileSelector.files){
+
+
+        let… Read more
+5:32 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    video{
+      position: absolute;
+    top: -60px;
+    margin: auto;
+    bottom: 0;
+    width: 356px;
+    height: 305px;
+    left: -27px;
+    right: 0;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <h1>VLC PLAYER</h1>
+
+  <input multiple="multiple"   id="fileSelector" type="file">
+
+  <button onclick="loadVideo()">Load</button>
+<img src="player.JPG" alt="">
+  <video  id="meraPlayer" src="some.mp3"></video>
+
+  <div id="thumbnailBox">
+
+  </div>
+
+  <script>
+
+     function loadVideo(){
+
+
+      for(let file of fileSelector.files){
+
+
+        let… Read more
+5:59 PM
+
+😂
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    video{
+      position: absolute;
+    top: -60px;
+    margin: auto;
+    bottom: 0;
+    width: 356px;
+    height: 305px;
+    left: -27px;
+    right: 0;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <h1>VLC PLAYER</h1>
+
+  <input multiple="multiple"   id="fileSelector" type="file">
+
+  <button onclick="loadVideo()">Load</button>
+<img src="player.JPG" alt="">
+  <video  id="meraPlayer" src="some.mp3"></video>
+
+  <div id="thumbnailBox">
+
+  </div>
+
+  <script>
+
+     function loadVideo(){
+
+
+      for(let file of fileSelector.files){
+
+
+        let… Read more
+6:55 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+
+    video{
+      position: absolute;
+    top: -60px;
+    margin: auto;
+    bottom: 0;
+    width: 356px;
+    height: 305px;
+    left: -27px;
+    right: 0;
+    }
+
+    #playBtn{
+      position: absolute;
+    top: 80%;
+    left: 34%;
+
+    }
+
+  </style>
+</head>
+<body>
+  
+  <h1>VLC PLAYER</h1>
+
+  <input multiple="multiple"   id="fileSelector" type="file">
+
+  <button onclick="loadVideo()">Load</button>
+  <img src="player.JPG" alt="">
+  <video   id="meraPlayer" src=""></video>
+<img onclick="playVideo()" src="play.JPG" id="playBtn" alt="">
+… Read more
+7:49 PM
+Sir Khurram GamicaCloud added +92 302 1161781
+Sir Khurram GamicaCloud removed +92 321 3998213
+Sir Khurram GamicaCloud removed Jaunam💫
+Sir Khurram GamicaCloud added +92 321 3998213
+5/14/2022
+Mano Mano
+
+0:16
+🤭🤞🤞
+12:08 AM
+
+❤️
+😮
+2
++92 311 7998429
+Fazi Shah
+Mano Mano
+🤭🤞🤞
+🤦‍♂️
+🤣
+12:09 AM
+Pervaiz Bhai
+Mano Mano
+🤭🤞🤞
+☺️
+12:10 AM
+Asad jani
+Pervaiz Bhai
+☺️
+
+12:40 AM
+Pervaiz Bhai
+Asad jani
+
+12:40 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+1:00
+2:52 AM
+
+❤️
+👍
+2
+Sir Khurram GamicaCloud
+Dear students, class monday ko inshallah
+5:01 AM
+
+❤️
+😢
+3
++92 315 7042606
+MecoMaan
+In sha Allah
+5:05 AM
+M Usman
+Ok sir g insha allah
+5:09 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Dear students, class monday ko inshallah
+Oky sir in shaa Allah ☺️
+5:26 AM
+Asim Bro Software HOuse
+Sir Khurram GamicaCloud
+Dear students, class monday ko inshallah
+Sir g tusi great ho😍
+7:57 AM
+Pervaiz Bhai
+Asim Bro Software HOuse
+Sir g tusi great ho😍
+🥰
+🥰
+7:58 AM
+Sir Khurram GamicaCloud
+dear students
+4:38 PM
+Mano Mano
+Sir Khurram GamicaCloud
+dear students
+G sir
+4:38 PM
+Sir Khurram GamicaCloud
+lab open for practise and discussions
+4:38 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+G sir
+4:58 PM
++92 344 1919904
+Eش@
+
+0:26
+5:27 PM
+
+👍
+Pervaiz Bhai
++92 344 1919904
+Eش@
+0:26 Video
+Good ☺️
+5:28 PM
+
+😂
+5/15/2022
++92 344 1919904
+Eش@
+
+0:16
+9:08 AM
+
+❤️
+2
+M Usman
++92 344 1919904
+Eش@
+0:16 Video
+
+9:18 AM
+S.S
++92 344 1919904
+Eش@
+0:16 Video
+
+9:51 AM
+Sir Khurram GamicaCloud
++92 344 1919904
+Eش@
+0:16 Video
+mahsallah excellent
+10:33 AM
+
+❤️
+Pervaiz Bhai
++92 344 1919904
+Eش@
+0:16 Video
+❣️
+10:38 AM
++92 315 7042606
+MecoMaan
++92 344 1919904
+Eش@
+0:16 Video
+Bhtreen boss❣️
+11:28 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:27
+4:57 PM
+
+👍
+❤️
+2
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+Welldone Bro
+5:06 PM
+
+❤️
+S.S
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+
+5:30 PM
+
+❤️
+Pervaiz Bhai
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+💓
+5:36 PM
+
+❤️
++92 344 1919904
+Eش@
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+Good job🫡
+5:50 PM
+
+❤️
+5/16/2022
+Asad jani
+
+0:12
+Bubble shOoter 🙂✌🏻
+6:28 PM
+
+😮
+😂
+❤️
+4
+Pervaiz Bhai
+Asad jani
+Bubble shOoter 🙂✌🏻
+🖤
+7:05 PM
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        /* Bt tag  */
+        /* li */
+
+        /* by class */
+        /* .red-box */
+
+        /* by id */
+        /* #red-box1,
+        #red-box2{
+            color:orange;
+        } */
+
+        
+        article[class]#some .span #data{
+
+        color:red;
+        }
+
+
+
+        article div{
+
+        }
+
+        .hide{
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <script>
+
+        // document.getElementsByClassName
+        // document.getElementsByTagName
+        // document.getElementsByName
+   … Read more
+8:13 PM
+
+😢
+5/17/2022
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:46
+3:31 PM
+
+❤️
+Pervaiz Bhai
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:46 Video
+Good 👍
+3:35 PM
+S.S
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:46 Video
+❤️
+3:37 PM
+Asad jani
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:46 Video
+Hafiz ❤️❤️
+3:42 PM
+Bilal Software hOuse
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:46 Video
+Zabardast bro 😊
+4:19 PM
++92 315 7042606
+MecoMaan
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:46 Video
+Excellent
+4:24 PM
+❤️
+4:24 PM
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        /* Bt tag  */
+        /* li */
+
+        /* by class */
+        /* .red-box */
+
+        /* by id */
+        /* #red-box1,
+        #red-box2{
+            color:orange;
+        } */
+
+        
+        article[class]#some .span #data{
+
+        color:red;
+        }
+
+
+
+        article div{
+
+        }
+
+        .hide{
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <script>
+
+        // document.getElementsByClassName
+        // document.getElementsByTagName
+        // document.getElementsByName
+   … Read more
+7:44 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        /* Bt tag  */
+        /* li */
+
+        /* by class */
+        /* .red-box */
+
+        /* by id */
+        /* #red-box1,
+        #red-box2{
+            color:orange;
+        } */
+
+        
+        article[class]#some .span #data{
+
+        color:red;
+        }
+
+
+
+        article div{
+
+        }
+
+        .hide{
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <script>
+
+        // document.getElementsByClassName
+        // document.getElementsByTagName
+        // document.getElementsByName
+   … Read more
+8:32 PM
+5/18/2022
+Sir Khurram GamicaCloud
+
+69 kB
+new type of freelancing
+new type of freelancing
+6:48 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        /* Bt tag  */
+        /* li */
+
+        /* by class */
+        /* .red-box */
+
+        /* by id */
+        /* #red-box1,
+        #red-box2{
+            color:orange;
+        } */
+
+        
+        article[class]#some .span #data{
+
+        color:red;
+        }
+
+
+
+        article div{
+
+        }
+
+        .hide{
+            display: none;
+        }
+
+        .deposit{
+            background-color: rgb(222, 251, 179);
+        }
+
+        .withdraw{
+            background-color: rgb(255, 227, 227);
+        }
+
+    </styl… Read more
+6:48 PM
++92 311 7998429
+Fazi Shah
+Sir Khurram GamicaCloud
+new type of freelancing
+i'm willing to pay 5$🤣
+6:48 PM
++92 302 1161781
+Jaunam
+Sir Khurram GamicaCloud
+new type of freelancing
+This Is Good Way 😅😂
+6:49 PM
+5/19/2022
+Asad Bhai Software Engineer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+
+<style>
+
+/* Bt tag */
+/* li */
+
+/* by class */
+/* .red-box */
+
+/* by id */
+/* #red-box1,
+#red-box2{
+color:orange;
+} */
+
+
+article[class]#some .span #data{
+
+color:red;
+}
+
+
+
+article div{
+
+}
+
+.hide{
+display: none;
+}
+
+.deposit{
+background-color: rgb(222, 251, 179);
+}
+
+.withdraw{
+background-color: rgb(255, 227, 227);
+}
+
+</style>
+
+</head>
+<body>
+
+<script>
+
+// document.getElementsByClassName
+// document.getElementsByTagName
+// document.getElementsByName
+// document.querySelector()
+
+</script>
+
+<h1>Meezan Bank of Faisalabad</h1>
+<button onclick="showSignupFor… Read more
+12:25 AM
++92 309 7848256
+مُقدس
+
+0:33
+7:18 PM
+
+👍
+❤️
+3
+Mano Mano
++92 309 7848256
+مُقدس
+0:33 Video
+Great work ❤️😊
+7:32 PM
++92 300 4570193
+Rana Saqib
++92 309 7848256
+مُقدس
+0:33 Video
+Ma Shaa Allah
+7:39 PM
+Pervaiz Bhai
+This message was deleted
+7:41 PM
++92 315 7042606
+MecoMaan
++92 309 7848256
+مُقدس
+0:33 Video
+Good👍🏻
+7:59 PM
+Asim Bro Software HOuse
+This message was deleted
+8:00 PM
++92 315 7042606
+MecoMaan
+Asim Bro Software HOuse
+Me v tera hi wait kr rya si k mann da msg nai aya😂
+🤔
+8:00 PM
+😂
+😂
+😂
+8:00 PM
++92 315 7042606
+MecoMaan
+Asim Bro Software HOuse
+Me v tera hi wait kr rya si k mann da msg nai aya😂
+Beta kaam krny walo pr he ana
+8:01 PM
+🤗
+8:01 PM
+Pervaiz Bhai
++92 315 7042606
+MecoMaan
+Beta kaam krny walo pr he ana
+Waa g waa 😅
+8:17 PM
+Asad jani
+Pervaiz Bhai
+Waa g waa 😅
+
+10:05 PM
+
+😂
+5/20/2022
+Sir Khurram GamicaCloud
+Dear students
+12:56 PM
+Class timing is 5 pm
+12:57 PM
+
+👍
+Will b started sharply on time
+12:57 PM
++92 322 6059407
+Muhammad Tayyab
+Sir Khurram GamicaCloud
+Will b started sharply on time
+Yes sir
+12:58 PM
+
+👍
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Will b started sharply on time
+Ok boss🌹
+1:42 PM
+S.S
+Sir Khurram GamicaCloud
+Class timing is 5 pm
+In Shaa Allah Sir
+3:37 PM
++92 322 8795467
+HS 7
+Sir Khurram GamicaCloud
+Will b started sharply on time
+Literally😁
+3:50 PM
+Sir Khurram GamicaCloud
++92 322 8795467
+HS 7
+Literally😁
+accuraetly
+6:58 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+
+       
+
+
+        let data = [
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            },
+            {
+                orange:30,
+                banana:30,
+                mango:30
+            },
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            }
+        ]
+
+
+        let fruitName = prompt("konsa frui chahiye?");
+        let fruitQty = +prompt("kitna fruit cahhiye");
+        
+        // let data1 = [2,4… Read more
+6:58 PM
+there will be an extra class tomorrow
+7:06 PM
+Rabiya666
+Sir Khurram GamicaCloud
+there will be an extra class tomorrow
+😐
+7:08 PM
+Mano Mano
+Sir Khurram GamicaCloud
+there will be an extra class tomorrow
+Sir g colg jana huta hai
+7:08 PM
+S.S
+Sir Khurram GamicaCloud
+there will be an extra class tomorrow
+In Shaa Allah Sir
+7:10 PM
+Sir Khurram GamicaCloud
+Mano Mano
+Sir g colg jana huta hai
+evening time hi class honi
+7:11 PM
+Mano Mano
+Sir Khurram GamicaCloud
+evening time hi class honi
+Ok sir g
+7:22 PM
+Asim Bro Software HOuse
+This message was deleted
+7:37 PM
+Insha Allah sir g mushkil ha🫡
+7:37 PM
+Asad jani
+Asim Bro Software HOuse
+Insha Allah sir g mushkil ha🫡
+
+7:39 PM
++92 315 7042606
+MecoMaan
+Asim Bro Software HOuse
+Insha Allah sir g mushkil ha🫡
+Wah wah kia khny...salute duniya he bdl gai🫣
+7:39 PM
+Sir Khurram GamicaCloud
+todays task
+
+Add a fruit button which will ask for a fruit and then will add into each petty
+8:19 PM
+5/21/2022
+
+0:10
+kOai bta skty Yeah asy Q ho rhy ?
+12:41 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Event.preventDefault() ya lagao show waly function mein
+12:43 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Event.preventDefault() ya lagao show waly function mein
+event.preventDefault()
+12:55 AM
+
+71 kB
+WelldOne Bro Thnks You sO MUch😘😘😘
+WelldOne Bro Thnks You sO MUch😘😘😘
+12:57 AM
+
+👍
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+You
+kOai bta skty Yeah asy Q ho rhy ?
+Itna balance tu Nawaz shareef ky account mein b nae ho ga
+12:57 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Itna balance tu Nawaz shareef ky account mein b nae ho ga
+😅🥹🥹🥹🥹
+12:58 AM
+M Usman
+Forwarded
+
+0:18
+12:45 PM
+Pervaiz Bhai
+M Usman
+0:18 Video
+In shaa Allah ❣️
+12:45 PM
+M Usman
+Pervaiz Bhai
+In shaa Allah ❣️
+In shaa Allah
+12:46 PM
+Asad jani
+M Usman
+0:18 Video
+Ye b hogA ✨
+12:51 PM
+Pervaiz Bhai
+Asad jani
+Ye b hogA ✨
+Ni iss ke jaka Tum ho kyy😅
+12:51 PM
+Asad jani
+Pervaiz Bhai
+In shaa Allah ❣️
+Ap tO abi b spiderman hO bruh😂
+12:51 PM
+Pervaiz Bhai
+Asad jani
+Ap tO abi b spiderman hO bruh😂
+🙏
+12:51 PM
+Asad jani
+Pervaiz Bhai
+🙏
+
+12:52 PM
+Sir Khurram GamicaCloud
+Extra class cancelled
+3:30 PM
+
+❤️
+😢
+3
+Monday lo dekte hn
+3:30 PM
+
+❤️
+😮
+2
+Pervaiz Bhai
+This message was deleted
+3:30 PM
+Asim Bro Software HOuse
+Sir Khurram GamicaCloud
+Extra class cancelled
+Sir g ab tu me soya b nai k class leny jana🤭
+3:35 PM
+
+😂
+5
+Pervaiz Bhai
+
+0:14
+اب ہماری باری ہے سر کی دعا سے ہم نے بھی بنانا ہے انشاء اللہ ❣️
+3:36 PM
+Pervaiz Bhai
+Asim Bro Software HOuse
+Sir g ab tu me soya b nai k class leny jana🤭
+Chal Hun so ja
+3:36 PM
+Mano Mano
+Sir Khurram GamicaCloud
+Extra class cancelled
+🥳
+3:50 PM
+
+😂
+2
+Pervaiz Bhai
+Mano Mano
+🥳
+Bhot khushi ho RI ha sb ko ☺️
+3:51 PM
+
+😂
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Extra class cancelled
+
+3:51 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+Extra class cancelled
+🥲
+5:56 PM
+5/22/2022
+Sir Khurram GamicaCloud
+You
+😅🥹🥹🥹🥹
+😅
+10:06 AM
+The lab will remain open for coding practise
+10:41 AM
+(today)
+10:41 AM
+S.S
+Sir Khurram GamicaCloud
+The lab will remain open for coding practise
+Sir timing bata dy plz
+10:59 AM
+Sir ap be hon gy. Lab me
+11:00 AM
+Sir Khurram GamicaCloud
+2 se 8
+11:02 AM
+Sir Khurram GamicaCloud
+S.S
+Sir ap be hon gy. Lab me
+han g almost
+11:03 AM
+S.S
+Okay Sir g
+11:03 AM
+Sir Khurram GamicaCloud
+
+32 kB
+
+8:24 PM
+
+😮
++92 335 6366515
+Ahsan Aqueel
+Sir Khurram GamicaCloud
+Photo
+Sir development chor k ye kaam na start krdyn?🤣
+8:30 PM
+Pervaiz Bhai
++92 335 6366515
+Ahsan Aqueel
+Sir development chor k ye kaam na start krdyn?🤣
+Ma to paly he krta ho 😅😅
+8:31 PM
+
+😂
+Bilal Software hOuse
+Sir Khurram GamicaCloud
+Photo
+Level 1 😂😂
+8:31 PM
+
+😂
+M Usman
++92 335 6366515
+Ahsan Aqueel
+Sir development chor k ye kaam na start krdyn?🤣
+😅
+😅
+😅
+8:32 PM
++92 342 1698492
+Muhammad Faizan
+Sir Khurram GamicaCloud
+Photo
+😅
+8:37 PM
+Asad jani
+Pervaiz Bhai
+Ma to paly he krta ho 😅😅
+
+8:38 PM
+Pervaiz Bhai
+Asad jani
+Allhumduallahh 🥰 
+میں زمیندار ہو 🥰
+8:39 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+57 kB
+
+8:57 PM
++92 300 4570193
+Rana Saqib
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Photo
+Yr wo add ho gi object me value
+9:46 PM
+5/23/2022
++92 342 5450050
+Rehman
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="add" onclick="addFruits()">Add Fruit</button>
+    <button id="order" onclick="orderFurit()">Order furit</button>
+
+    <script>
+
+
+
+        let data = [
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            },
+            {
+                orange:30,
+                banana:30,
+                mango:30
+            },
+            {
+                orange:30,
+                apple:30,
+                mango:30
+            }
+        ]
+
+     
+
+        function ad… Read more
+1:48 PM
+
+❤️
+2
+Sir Khurram GamicaCloud
+<table border="1">
+    <tr>
+        <td>Biryani</td>
+        <td>150</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+    </tr>
+    <tr>
+        <td>Kabab</td>
+        <td>240</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+    </tr>
+    <tr>
+        <td>Russian Salad</td>
+        <td>200</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+    </tr>
+    <tr>
+        <td>Chicken Karahi</td>
+        <td>1000</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+    </tr>
+    <tr>
+        <td>Daal Channa</td>
+        <td>140</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+    </tr>
+    <tr>
+        <td>Raita</… Read more
+6:20 PM
+dear students, 25 May wali class Saturday ko hogi
+7:24 PM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+dear students, 25 May wali class Saturday ko hogi
+25 ko off hoga??
+7:51 PM
+Sir Khurram GamicaCloud
+g
+8:01 PM
+<table border="1">
+    <tr>
+        <td>Biryani</td>
+        <td>150</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Kabab</td>
+        <td>240</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Russian Salad</td>
+        <td>200</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+        <td>
+            <input type="number">
+        </td>
+    </tr>
+    <tr>
+        <td>Chicken Karahi</td>
+        <td>1000</td>
+        <td>
+            <input class="dish" type="checkbox">
+        </td>
+… Read more
+8:27 PM
++92 322 8795467
+HS 7
+doc
+9:12 PM
+Sir Khurram GamicaCloud
+
+120 kB
+Monday to Thursday classes 😅 (Possibility)
+Monday to Thursday classes 😅 (Possibility)
+10:42 PM
++92 313 7688995
+Hamid Khan
+Sir Khurram GamicaCloud
+Monday to Thursday classes 😅 (Possibility)
+🤣
+10:43 PM
+Asad jani
+Sir Khurram GamicaCloud
+Monday to Thursday classes 😅 (Possibility)
+😅
+10:57 PM
+5/24/2022
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:22
+4:13 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:22 Video
+if (dishName == 'Biryani' || dishName == 'Chicken karahi') {
+                let  totalquantity=0
+                ratia.checked = true;
+                salad.checked = true;
+/////Biryani And Chicken is ID
+                let biryaniQuantity = +Biryani.parentNode.nextElementSibling.children[0].value;
+                console.log(biryaniQuantity);
+                let karahiQuantity = +Chicken.parentNode.nextElementSibling.children[0].value;
+                    console.log(karahiQuantity);
+
+                 totalquantity= biryaniQuantity+karahiQuantity
+                console.log(totalquantity);
+                ratia.parentNode.nextElementSibling.children[0].value = totalquantity;
+                salad.parentNode.nextElementSibling.children[0].value = totalquantity;
+
+            }
+4:13 AM
+Sir Khurram GamicaCloud
+dear students, please clear your 3rd installments  before this weekend
+7:54 AM
+Rabiya666
+Okay sir
+7:54 AM
++92 300 4570193
+Rana Saqib
+OkaySir
+10:35 AM
+Pervaiz Bhai
+This message was deleted
+10:41 AM
+Pervaiz Bhai
+This message was deleted
+10:42 AM
++92 342 5450050
+Rehman
+This message was deleted
+10:43 AM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Ok sir g
+11:27 AM
+Sir Khurram GamicaCloud
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+
+
+  #parent{
+     width:100px;
+     height: 100px;
+     background-color: limegreen;
+  }
+
+  </style>
+
+</head>
+<body>
+
+  <button onclick="addUser()">Add User</button>
+
+  <table border="1" id="parent1">
+
+    
+
+
+  </table>
+  
+
+<script>
+
+  let users = JSON.parse(localStorage.getItem('data') ||'[]');
+
+  updateUI();
+
+  
+  function saveToDB(){
+
+    localStorage.setItem("data", JSON.stringify(users));
+
+  }
+
+  function addUser(){
+
+    let name = prompt("Name btyen");
+    let password = prompt("Name btyen");
+    let email = prompt("Name btye… Read more
+5:56 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+This message was deleted
+6:45 PM
+5/25/2022
+Sir Khurram GamicaCloud
+function getVideo(){
+
+
+  return new Promise(function(success, error){
+
+
+    setTimeout(()=>{
+
+      success(44);
+
+    }, 5000);
+
+       
+  });
+
+}
+
+  async function load(){
+
+    let some = await getVideo();
+    console.log(some);
+
+  }
+
+  load();
+8:17 AM
++92 330 6146540
+I Am UMair💫ŤhÉ ŘŰŁęŘ⚜️
+Sir ji dosra method wala bhi send kr dn
+9:53 AM
+Jo sb sa phly kiya tha
+9:54 AM
+Sir Khurram GamicaCloud
+Dear students
+10:21 AM
+Today's class has been resumed, kindly be on time today at 5.00pm
+10:21 AM
+
+❤️
+👍
+2
++92 309 7848256
+مُقدس
+Sir Khurram GamicaCloud
+Dear students
+Yes Sir.
+10:21 AM
++92 309 7848256
+مُقدس
+Sir Khurram GamicaCloud
+Today's class has been resumed, kindly be on time today at 5.00pm
+Ok Sir 😇
+10:21 AM
+S.S
+Sir Khurram GamicaCloud
+Today's class has been resumed, kindly be on time today at 5.00pm
+In Shaa Allah
+Sir G
+1:24 PM
+Sir Khurram GamicaCloud
+<button onclick="addStudent()">Add Student</button>
+
+<script>
+
+    let num = 20;
+    num = "khurram"
+    num = true
+
+
+    let students = [];
+
+    function addStudent(){
+
+        let name = prompt("Enter student");
+        let age = prompt("Enter name");
+
+        let nyaStudent = new Student;
+
+        nyaStudent.name= name;
+        nyaStudent.age= age;
+
+        students.push(nyaStudent);
+
+    }
+
+    class Student{
+
+        name = ""
+        email = ""
+        age = ""
+        address = ""
+        contact = ""
+        cnic = ""
+        gender = ""
+
+    
+        study = ()=>{
+
+            console.log(this.name + ' is parhing');
+
+        }
+
+        play = ()=>{
+
+            console.log(this.name + " is playing");
+
+        }
+
+
+    }
+
+    let s1 = new Student;
+   … Read more
+6:57 PM
+<button onclick="addStudent()">Add Student</button>
+
+<script>
+
+// encapsulation
+    class Student{
+
+        firstName = ""
+        lastName = ""
+        email = ""
+        _age =""
+
+        set name(newName){
+            
+            this.firstName = newName.split(' ')[0];
+            this.lastName = newName.split(' ')[1];
+
+        }
+
+        get name(){
+            return this.firstName+ " "+this.lastName
+        }
+
+        get age(){
+
+            return this._age;
+
+        }
+
+        set age(newData){
+
+            if(!isNaN(newData)){
+                this._age = newData
+            }
+        }
+
+    }
+
+    let s1 = new Student;
+
+    // s1.age = 54;
+    // console.log(s1.age);
+    
+    // s1.age ="hello g";
+
+    // let num = 20;
+    // num = "khurram"
+    //… Read more
+8:09 PM
+5/26/2022
+Sir Khurram GamicaCloud
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<img id="weatherICON" src="" alt="">
+
+<select onchange="getWeather(placeSelector.value)" id="placeSelector">
+    <option>Faisalabad</option>
+    <option>Karachi</option>
+    <option>Quetta</option>
+    <option>Peshawar</option>
+    <option>Gilgit</option>
+</select>
+
+<script>
+
+    async function getWeather(city){
+
+        let resp = await axios.get("http://api.weatherapi.com/v1/current.json?key=6129828d27af415ca8f141622221801&q="+city+"&aqi=no");
+        weatherICON.src =  'http:'+resp.data.current.condition.icon… Read more
+6:05 PM
+let users = [
+        {
+            name:"ali",
+            city:"FSD"
+        },
+        {
+            name:"rameez",
+            city:"LHR"
+        },
+        {
+            name:"noor",
+            city:"ISD"
+        },
+        {
+            name:"hamid",
+            city:"ISD"
+        },
+        {
+            name:"farhan",
+            city:"FSD"
+        },
+        {
+            name:"faiza",
+            city:"FSD"
+        }
+    ]
+
+
+    function getCities(someArray){
+
+        let finalCities = [];
+
+        someArray.forEach((user)=>{
+
+            if(!finalCities.includes(user.city)){
+
+               finalCities.push(user.city);
+            }
+
+
+        });
+
+        return finalCities;
+
+    }
+7:47 PM
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<img id="weatherICON" src="" alt="">
+
+
+<style>
+
+
+#some{
+    width:500px;
+    height: 400px;
+}
+
+</style>
+
+
+
+
+<!-- <select onchange="getWeather(placeSelector.value)" id="placeSelector">
+    <option>Faisalabad</option>
+    <option>Karachi</option>
+    <option>Quetta</option>
+    <option>Peshawar</option>
+    <option>Gilgit</option>
+</select> -->
+
+
+
+<style>
+
+    #blueBox{
+        width:500px;
+        height: 500px;
+        background-color: blue;
+    }
+
+    #purpleCircle{
+        width: 50px;
+        height: 50px;
+ … Read more
+8:33 PM
+Assignment:
+
+Implement any other feature of Jquery UI
+8:44 PM
+5/27/2022
+Pervaiz Bhai
+
+0:10
+☺️
+4:30 PM
+Pervaiz Bhai
+☺️
+🤣
+4:31 PM
+Pervaiz Bhai
+🥰
+4:31 PM
+S.S
+Pervaiz Bhai
+☺️
+Sir temperate be bato apna 🤣
+4:33 PM
+Corna test is sy kr laty
+4:33 PM
+Pervaiz Bhai
+S.S
+Sir temperate be bato apna 🤣
+2.0003 😜
+4:34 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+
+0:27
+5:15 PM
+
+❤️
+Pervaiz Bhai
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+Excellent ☺️
+5:16 PM
++92 300 4570193
+Rana Saqib
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+0:27 Video
+
+7:17 PM
+Sir Khurram GamicaCloud
+
+spaceship.zip
+ZIP•1 MB
+7:32 PM
+
+5/28/2022
++92 303 5777248
+Nouman 😊
+aj class hai k nai?
+10:37 AM
++92 322 6059407
+Muhammad Tayyab
++92 303 5777248
+Nouman 😊
+aj class hai k nai?
+NH
+10:38 AM
++92 309 7848256
+مُقدس
+
+hotel mehran.zip
+ZIP•561 kB
+4:38 PM
+
++92 309 7848256
+مُقدس
++92 309 7848256
+مُقدس
+hotel mehran.zip
+Anyone can connect with database by using C#?
+4:39 PM
+S.S
++92 309 7848256
+مُقدس
+Anyone can connect with database by using C#?
+Firebase sy me tri kro ga. Agr ho gi to ap ko bata do ga. Sir
+6:02 PM
++92 309 7848256
+مُقدس
+S.S
+Firebase sy me tri kro ga. Agr ho gi to ap ko bata do ga. Sir
+G yeh paid task agr ata to try kr lay
+6:15 PM
+5/29/2022
+Bilal Software hOuse
+
+0:19
+4:47 PM
+
+❤️
+👍
+2
++92 315 7042606
+MecoMaan
+Bilal Software hOuse
+0:19 Video
+❣️
+4:48 PM
+
+❤️
+Mano Mano
+Bilal Software hOuse
+0:19 Video
+Great work
+5:11 PM
+Pervaiz Bhai
+Bilal Software hOuse
+0:19 Video
+☺️
+5:18 PM
++92 349 6064149
+Usman Saeed
++92 309 7848256
+مُقدس
+Anyone can connect with database by using C#?
+Time Deadline
+5:50 PM
++92 309 7848256
+مُقدس
++92 349 6064149
+Usman Saeed
+Time Deadline
+Yesterday 🙂.
+6:01 PM
++92 349 6064149
+Usman Saeed
++92 309 7848256
+مُقدس
+Yesterday 🙂.
+Phir possible nhi hy
+6:04 PM
+2 Softwares chayie Jo ky heavy Hain kaafi
+6:04 PM
++92 309 7848256
+مُقدس
++92 349 6064149
+Usman Saeed
+Phir possible nhi hy
+G kal ho gai thi.
+6:04 PM
++92 349 6064149
+Usman Saeed
+1. SQL Server
+2. Visual Code
+6:05 PM
++92 309 7848256
+مُقدس
++92 349 6064149
+Usman Saeed
+1. SQL Server
+2. Visual Code
+Hn g
+6:10 PM
+Sir Khurram GamicaCloud
+dear students
+6:52 PM
+please make sure aapke all vouchers portal per uploaded hon
+6:52 PM
+internship test m issue ajana
+6:53 PM
+jo paid hen wo bhi please make sure kay sab uploaded hon wahan
+6:53 PM
+Mano Mano
+Sir Khurram GamicaCloud
+jo paid hen wo bhi please make sure kay sab uploaded hon wahan
+G sir
+6:53 PM
+M Usman
+ok sir
+7:00 PM
+Sir Khurram GamicaCloud
+please make sure, all vouchers are uploaded before tomorrow's class
+7:01 PM
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+please make sure, all vouchers are uploaded before tomorrow's class
+Or they will not be able to attend the classes
+7:02 PM
+5/30/2022
+Sir Khurram GamicaCloud
+create a new folder
+
+open terminal in that folder
+
+press shift key and right click, there will be an option for "Open Command Prompt" in the right click menu
+
+run the following command
+
+npx create-react-app myApp
+2:26 PM
++92 300 4570193
+Rana Saqib
+
+96 kB
+
+6:31 PM
+Sir ye errors a raha ha
+6:32 PM
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+Photo
+Time out...net slow hai bhai....
+6:41 PM
++92 315 7042606
+MecoMaan
+
+98 kB
+
+7:46 PM
+
+0:05
+7:49 PM
++92 300 4570193
+Rana Saqib
+
+70 kB
+
+9:27 PM
+
+79 kB
+
+9:27 PM
+
+75 kB
+
+9:27 PM
+
+66 kB
+
+9:27 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+👍
+👍
+9:31 PM
+6/1/2022
+M Usman
+
+1:04
+12:56 PM
+
+👍
+2
++92 300 4570193
+Rana Saqib
+M Usman
+1:04 Video
+Ma Shaa Allah Sir
+2:08 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+M Usman
+1:04 Video
+👌
+2:12 PM
+Pervaiz Bhai
+
+21 kB
+
+4:23 PM
+Sir Khurram GamicaCloud
+import './App.css'
+
+import { useRef } from 'react';
+
+import M1, {makeBiryani} from './cooking';
+
+import {Header} from './components/header/header'
+
+import {Footer} from './components/footer/footer';
+
+makeBiryani();
+
+console.log(M1);
+
+
+function Dashboard(){
+
+  let meraRef1 = useRef();
+  let meraRef2 = useRef();
+  let meraRef3 = useRef();
+
+  let userName = "Khurram";
+
+  function addProduct(){
+
+
+  }
+
+  function addNumber(){
+
+
+    meraRef3.current.value = +meraRef1.current.value + +meraRef2.current.value;
+
+    // document.getElementById('three').value = +document.getElementById('one').value + +document.getElementById('two').value;
+
+    // three.value = +one.value + +two.value;
+
+    // alert("some code chla");
+
+  }
+
+
+  return <div className='dashboard'>
+    {/* <… Read more
+7:25 PM
+Pervaiz Bhai
+
+0:16
+7:56 PM
+6/2/2022
+M Usman
+Forwarded
+
+50 kB
+
+10:50 AM
+Sir Khurram GamicaCloud
+import {useRef} from 'react';
+
+// alert(20)
+
+export function Child(){
+
+  return <div>
+    <h1>Yeh child component hogya</h1>
+  </div>
+}
+
+export function Parent(){
+
+  let name = "khurram";
+
+  let nameRef = useRef();
+
+  let cities = [
+    'Faislabad',
+    'Lahore',
+    'Gojra',
+    'Jaranwala'
+  ];
+
+  function sayHi(){
+
+    alert("hi "+nameRef.current.value)
+
+  }
+
+  
+  function hello(abc){
+
+    alert(abc)
+
+  }
+
+  return <div>
+    <ol>
+      {
+        cities.map((city)=>{
+            return <li onClick={()=>hello(city)}>{city}</li>  
+        })
+      }
+    </ol>
+    <input ref={nameRef} />
+    <button onClick={sayHi}>Say hi</button>
+            <h1>yeh bhi code chla, {name}</h1>
+  </div>;
+
+
+}
+6:39 PM
++92 330 6146540
+I Am UMair💫ŤhÉ ŘŰŁęŘ⚜️
+
+184 kB
+
+9:18 PM
+
+😂
+2
++92 300 4570193
+Rana Saqib
++92 330 6146540
+I Am UMair💫ŤhÉ ŘŰŁęŘ⚜️
+Photo
+Back End🥲🥲🥲
+9:43 PM
+
+😂
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Back End🥲🥲🥲
+😅
+10:10 PM
++92 300 4570193
+Rana Saqib
+
+92 kB
+Available hai agr kise ko chahia to 😂😂😂😂😂
+Available hai agr kise ko chahia to 😂😂😂😂😂
+10:43 PM
++92 300 4570193
+Rana Saqib
+
+32 kB
+Awam ko phir gifts mil rahy ha patwario sy
+Awam ko phir gifts mil rahy ha patwario sy
+10:44 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Available hai agr kise ko chahia to 😂😂😂😂😂
+
+10:45 PM
+Asad jani
++92 300 4570193
+Rana Saqib
+Available hai agr kise ko chahia to 😂😂😂😂😂
+
+86 kB
+🤧🥲
+🤧🥲
+11:10 PM
+Pervaiz Bhai
+Asad jani
+🤧🥲
+Oo java b ker loo ya bad ma ly lyna 😅😅
+11:11 PM
+Asad jani
+Pervaiz Bhai
+Oo java b ker loo ya bad ma ly lyna 😅😅
+Ma ka ptaa nai aj jldi sogyA 😅
+11:16 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Available hai agr kise ko chahia to 😂😂😂😂😂
+hamare patwari bhaion ko 209 lene den, baaqi bhai cycle lelen, 😅
+11:21 PM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+hamare patwari bhaion ko 209 lene den, baaqi bhai cycle lelen, 😅
+patwari bhaiyo ki to awaz band hogai hoi hai ab🤪🤪 wo shadeed sadmy main hain k ab knsy arguments kr k wo apny leader ko defend kr sakain😛😛
+11:22 PM
+Sir Khurram GamicaCloud
++92 303 5777248
+Nouman 😊
+patwari bhaiyo ki to awaz band hogai hoi hai ab🤪🤪 wo shadeed sadmy main hain k ab knsy arguments kr k wo apny leader ko defend kr sakain😛😛
+😅
+11:22 PM
++92 303 5777248
+Nouman 😊
+shahbaz shref ny to apny kapry bech k atta daina tha wo awam k kapry utarny py tull gaya hai😅😅
+11:24 PM
++92 315 7042606
+MecoMaan
+Kaisa lga purana pakistan
+11:24 PM
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+Awam ko phir gifts mil rahy ha patwario sy
+
+11:24 PM
+Asad jani
++92 315 7042606
+MecoMaan
+Kaisa lga purana pakistan
+Wahi la rha h cycle usi dOoor ma thY 😂
+11:25 PM
++92 315 7042606
+MecoMaan
++92 303 5777248
+Nouman 😊
+patwari bhaiyo ki to awaz band hogai hoi hai ab🤪🤪 wo shadeed sadmy main hain k ab knsy arguments kr k wo apny leader ko defend kr sakain😛😛
+Lgta israel ka dora kamyab ho gya yahodi agent khny walo ka😝
+11:26 PM
++92 315 7042606
+MecoMaan
++92 303 5777248
+Nouman 😊
+shahbaz shref ny to apny kapry bech k atta daina tha wo awam k kapry utarny py tull gaya hai😅😅
+Us ka baap gareeb tha bhai sbr rkh or shoobaz ka baap ml ka malik tha wah yrr sadma🥹😆
+11:26 PM
++92 315 7042606
+MecoMaan
+Asad jani
+Wahi la rha h cycle usi dOoor ma thY 😂
+
+11:27 PM
++92 315 7042606
+MecoMaan
+
+70 kB
+😆😆😝
+😆😆😝
+11:34 PM
+Pervaiz Bhai
++92 315 7042606
+MecoMaan
+😆😆😝
+
+11:35 PM
+Asim Bro Software HOuse
+Sb sy pehly tu ap ny gabrana ni🤭🤭
+11:45 PM
+
+😂
+Pervaiz Bhai
+Asim Bro Software HOuse
+Sb sy pehly tu ap ny gabrana ni🤭🤭
+Ho he ni sakta ky hum or gabra jy 😅😅
+11:46 PM
++92 315 7042606
+MecoMaan
+Pervaiz Bhai
+Ho he ni sakta ky hum or gabra jy 😅😅
+Khota khya hai na is lea😂😂😂😆
+11:51 PM
++92 315 7042606
+MecoMaan
+
+11:51 PM
+Pervaiz Bhai
++92 315 7042606
+MecoMaan
+Sticker with no label
+11:52 PM
+6/3/2022
+Pervaiz Bhai
+
+178 kB
+😅😅 😅
+😅😅 😅
+12:36 AM
+Sir Khurram GamicaCloud
+Dear students, todays class will be started sharply at 4.50pm, kindly b on time
+9:07 AM
++92 342 5450050
+Rehman
+Sir Khurram GamicaCloud
+Dear students, todays class will be started sharply at 4.50pm, kindly b on time
+Ok sir time pa he start kr la
+9:40 AM
++92 309 7848256
+مُقدس
+Sir Khurram GamicaCloud
+Dear students, todays class will be started sharply at 4.50pm, kindly b on time
+Ok Sir
+10:27 AM
+S.S
+Sir Khurram GamicaCloud
+Dear students, todays class will be started sharply at 4.50pm, kindly b on time
+In Shaa Allah Sir
+11:25 AM
++92 322 8795467
+HS 7
+Sir Khurram GamicaCloud
+Dear students, todays class will be started sharply at 4.50pm, kindly b on time
+Literally😁
+11:26 AM
+Sir Khurram GamicaCloud
+apney react waley folder m
+4:56 PM
+CMD open karen
+4:56 PM
+npm install react-rotuer-dom redux react-redux
+4:57 PM
+import {useRef, useEffect} from 'react';
+import { Header } from './components/header/header';
+
+
+// let meraNumber = 50;
+
+export function Parent(){
+
+  let apnaRef = useRef();
+
+
+  // 1st time useEffect tab chlta jab component ki 
+  // html browser m dikhne lagti h, 
+  useEffect(()=>{
+
+    apnaRef.current.innerText = "yeh nya text h";
+
+  });
+
+  
+
+
+  return <div>    
+    <span ref={apnaRef}> yeh purana text h </span>
+        {/* <Header /> */}
+</div>;
+
+}
+
+// function Media(){
+
+//   return <div>
+//       <Media></Media>
+//   </div>
+
+// }
+5:26 PM
+friends, please come into the class
+5:52 PM
+let data = [
+  {
+    name:"ahmed",
+    subjects:[
+      {
+        category:"science",
+        items:["chemistry", "biology"]
+      }
+    ]
+  },
+  {
+    name:"noor",
+    subjects:[
+      {
+        category:"Arts",
+        items:["English", "Urdu"]
+      }
+    ]
+  },
+  {
+    name:"farhan",
+    subjects:[
+      {
+        category:"science",
+        items:["Physics", "Chemistry"]
+      }
+    ]
+  }
+];
+6:08 PM
+Pervaiz Bhai
+This message was deleted
+6:15 PM
+Sir Khurram GamicaCloud
+task
+
+we need to get category name with the prompt, then we should fetch out all the items related with that category from all students in the array
+6:19 PM
++92 342 1698492
+Muhammad Faizan
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Form</title>
+</head>
+
+<body>
+
+    <ol id="output">
+
+    </ol>
+
+    <script>
+
+        function showarray() {
+            book_array.forEach((book)=>{
+                output.innerHTML+="<li>"+book+"</li>"
+            })
+        }
+
+    
+        let books=[];
+            let book_array=[];
+    
+        let alldata = [
+            {
+                name: "ahmed",
+                subjects: [
+                    {
+                        category: "science",
+                        items: ["chemistry", "biology","physics",'Algebra','AI']
+              … Read more
+7:04 PM
+Sir Khurram GamicaCloud
+function Cities(){
+  
+  // let cities = ["FSD", "LHR", "MUL"];
+
+  return <div>
+    <ol>
+      {
+        cities.map((city)=>{
+          return <li>{city}</li>
+        })
+      }
+    </ol>
+  </div>;
+
+}
+7:54 PM
+Asim Bro Software HOuse
+import { useRef } from "react";
+
+
+
+function Cities(asim){
+  
+  
+    return <div>
+        <h1>{asim.name}</h1>
+      <ol>
+        {
+          asim.abc.map((city)=>{
+            return <li>{city}</li>
+          })
+        }
+      </ol>
+    </div>;
+  
+  }
+export function Dashboard(){
+
+
+    // let cities = ["FSD", "LHR", "MUL"];
+
+
+    let userName = "Asim";
+    let meraRefOne = useRef();
+    let meraRefTwo = useRef();
+    let meraRefThree= useRef();
+    let cities = ["Faisalabad", "Lahore", "Tuba", "Jaranwalan"]
+    function addNumber(){
+        meraRefThree.current.value =+meraRefOne.current.value + +meraRefTwo.current.value
+    }
+   return <div>
+    <Cities abc={cities} name="iftikhar"></Cities>
+       <h1> welcome to dashboard {userName}</h1>
+    <img src = "… Read more
+8:08 PM
+Sir Khurram GamicaCloud
+Dear students,
+
+Please informed that co-private groups of any kind from students of this class are strictly discouraged. especially girls, it has happened many times before and in the last, the girls became the victims, so kindly avoid these things, 
+
+jazak allah.
+11:44 PM
+
+❤️
+2
+6/4/2022
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Dear students,
+
+Please informed that co-private groups of any kind from students of this class are strictly discouraged. especially girls, it has happened many times before and in the last, the girls became the victims, so kindly avoid these things, 
+
+jazak allah.
+
+12:17 AM
++92 315 7042606
+MecoMaan
+
+0:10
+Simple animation🌹
+3:53 AM
+
+👍
+❤️
+2
+6/5/2022
++92 315 7042606
+MecoMaan
+
+0:26
+Alhamdulillah💫
+4:12 AM
+
+👍
+M Usman
++92 315 7042606
+MecoMaan
+Alhamdulillah💫
+
+5:30 AM
+Sir Khurram GamicaCloud removed +92 300 2952257
+Sir Khurram GamicaCloud removed +92 345 3282481
+Sir Khurram GamicaCloud removed +92 311 7998429
+Sir Khurram GamicaCloud removed +92 308 5630574
+Sir Khurram GamicaCloud removed +92 332 5961773
+Pervaiz Bhai
+This message was deleted
+7:44 PM
+Pervaiz Bhai
+This message was deleted
+7:44 PM
++92 340 7062568
+abuzar salman
+MYCLOUDMINERS-register to automatically cloud mining, no need to operate, occasionally withdraw cash when you have time*
+*https://mycloudminers.com/9175271997587740
+9:06 PM
+Sir Khurram GamicaCloud
+Pervaiz Bhai
+0:22 Video
+bro yeh patwarion se related cheezain kindly yahan na share kia karen
+9:09 PM
+
+😂
+4
+Asad jani
+Sir Khurram GamicaCloud
+bro yeh patwarion se related cheezain kindly yahan na share kia karen
+
+9:29 PM
+Bilal Software hOuse
+This message was deleted
+10:58 PM
+6/6/2022
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+0:22 Video
+Jo welly ha un ko kia dy rahi hai 🤔
+1:10 AM
+Sir Khurram GamicaCloud added +92 308 5630574
+Sir Khurram GamicaCloud
+assignment
+
+take number from user
+
+suppose user enters 3
+
+print result like
+
+[ 
+  [3]
+ [3][3],
+[3],[3],[3]
+ ]
+6:56 PM
+Sir Khurram GamicaCloud
+This message was deleted
+7:02 PM
+[ 
+  [3]
+[ [3][3] ],
+[ [3],[3],[3] ]
+ ]
+7:09 PM
+To join the video meeting, click this link: https://meet.google.com/jpe-jjvy-bny
+Otherwise, to join by phone, dial +1 470-268-2676 and enter this PIN: 805 218 223#
+8:11 PM
++92 340 7062568
+abuzar salman
+Sir Khurram GamicaCloud
+To join the video meeting, click this link: https://meet.google.com/jpe-jjvy-bny
+Otherwise, to join by phone, dial +1 470-268-2676 and enter this PIN: 805 218 223#
+Sir kis din ya
+8:27 PM
+Sir Khurram GamicaCloud
+import './header.css';
+
+export function Header(){
+
+  function login(){
+
+
+  }
+
+  function signup(){
+
+
+  }
+
+  let style = {
+        flex:{
+          backgroundColor:"magenta"
+        },
+        box:{
+          width:"100px",
+          height:"100px"
+        }
+  }
+  
+//   npm uninstall jquery
+//   npm install react-router-dom@Header
+//   npm uninstall react-router-dom
+//   npm update react-router-dom
+
+//   npm ls react-router-dom
+
+// node package manager
+// library installer h just
+
+
+  let city = "Faisalabad";
+
+    return  <nav style={style.flex}>
+      <h1>{city}</h1>
+      <div onClick={signup}>adsasd</div>
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo">Logo</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a h… Read more
+8:56 PM
+6/7/2022
+Sir Khurram GamicaCloud
+To join the video meeting, click this link: https://meet.google.com/atb-spqj-ddc
+Otherwise, to join by phone, dial +1 612-361-1930 and enter this PIN: 291 400 892#
+6:22 PM
+To join the video meeting, click this link: https://meet.google.com/vbk-zcwz-qzn
+Otherwise, to join by phone, dial +1 484-424-4265 and enter this PIN: 999 797 388#
+7:08 PM
+import {useRef, useState} from 'react';
+
+
+export function Parent(){
+
+  // let num = 20;
+  let [num, setNum] = useState(20)
+
+  return <div> 
+    <h1>{num}</h1>   
+
+  <button onClick={function(){
+
+  num++;
+  setNum(num)
+
+console.log(num);
+
+
+  }}>Update me</button>
+
+</div>;
+
+}
+7:09 PM
+import {useRef, useEffect, useState} from 'react';
+import { Header } from './components/header/header';
+
+// let meraNumber = 50;
+
+
+function Baby(props){
+
+  return <h1>{props.cname.name}</h1>;
+
+}
+
+function Cities(props){
+
+  // let cities = ["FSD", "LHR", "MUL"];
+
+  return <div>
+    <Baby cname={props}></Baby>
+    <ol>
+      {
+        props.b1.map((city)=>{
+          return <li>{city}</li>
+        })
+      }
+    </ol>
+  </div>;
+
+}
+
+export function Parent(){
+
+  let [num, setNum] = useState(20)
+  // let num = 20;
+
+  return <div> 
+    <input type="text" value={num} />
+
+    <h1>{num}</h1>   
+    
+
+  <button onClick={function(){
+
+    num++;
+    setNum(num);
+
+    console.log(num);
+
+  }}>Update me</button>
+
+</div>;
+
+}
+7:35 PM
+dear students
+7:45 PM
+6 baje sharp class start hojain
+7:45 PM
+kindly be on time
+7:45 PM
++92 313 7688995
+Hamid Khan
+Sorry sir nhi a hona
+7:47 PM
+
+😂
++92 303 5777248
+Nouman 😊
+sir main b 9 bj free hota hn day main us sy pehly nai
+7:47 PM
++92 300 4570193
+Rana Saqib
+
+38 kB
+
+8:07 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Photo
+Option number 1 🥰
+8:18 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Pervaiz Bhai
+Option number 1 🥰
+Wah ap ki coding sy mohabbat
+8:27 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Photo
+❤️
+❤️
+8:28 PM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+❤️❤️
+sir timing ka kuch sochain.. timing 6 bj wali suitable nai hai mj😅
+8:31 PM
+Sir Khurram GamicaCloud
+nomi but 1 2 din yar
+8:34 PM
+*bus
+8:34 PM
+Sir Khurram GamicaCloud
+6 baje sharp class start hojain
+sir yeah 1 mahina yehi rkh lain😅
+8:36 PM
+Sir Khurram GamicaCloud
+😅
+8:36 PM
+Really😁
+8:37 PM
+Pervaiz Bhai
+You
+sir yeah 1 mahina yehi rkh lain😅
+Tum ny kon saa. Ana ha ☺️
+8:38 PM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+nomi but 1 2 din yar
+sir office sy 9 bj nikalna hota main ny😅 chalin main koshish kru ga k subha jaldi nikal aou
+8:40 PM
+Pervaiz Bhai
+Tum ny kon saa. Ana ha ☺️
+🙄
+8:49 PM
+6/8/2022
+Pervaiz Bhai
+Assalam o alaikum sir
+5:47 AM
+Sir open the door 🚪🚪🚪🚪🥰
+5:47 AM
+
+😂
+Pervaiz Bhai
+Sir open the door 🚪🚪🚪🚪🥰
+😂
+🤣
+5:47 AM
+DOor Khul gya ka Nahi😂🥹
+6:00 AM
+Sir Khurram GamicaCloud
+You
+DOor Khul gya ka Nahi😂🥹
+bhai, class start hone lagi
+6:04 AM
+M Usman
+g khul gaya ha
+6:04 AM
+hang
+6:04 AM
+Mohsin Bhi Software HOuse
+This message was deleted
+6:08 AM
+Sir Khurram GamicaCloud
+import {useRef, useEffect, useState} from 'react';
+import { Header } from './components/header/header';
+
+// let meraNumber = 50;
+
+
+function Baby(props){
+
+  return <h1>{props.cname.name}</h1>;
+
+}
+
+function Cities(props){
+
+  // let cities = ["FSD", "LHR", "MUL"];
+
+  return <div>
+    <Baby cname={props}></Baby>
+    <ol>
+      {
+        props.b1.map((city)=>{
+          return <li>{city}</li>
+        })
+      }
+    </ol>
+  </div>;
+
+}
+
+// programming patterns
+// / MVVM
+// MODEL VIEW VIEW MODEL
+// MVC
+// MoDEL VIEW CONTROLLER
+// SHadow DOM
+export function Parent(){
+
+  let [fruits, setFruits] = useState(["apple", "banana", "carrot", "dates"]);
+
+  return <div>
+<oL>
+  {
+    fruits.map((myFruit, myindex)=>{
+      return <li>{myFruit} <button  onClick={()=>{
+
+        fr… Read more
+6:41 AM
+export function Parent(){
+
+  let [users, setUsers] = useState([]);
+
+  let name = useRef();
+  let email = useRef();
+  let city = useRef();
+
+  function saveUser(event){
+    
+    event.preventDefault();
+    
+    let user = {
+      name:name.current.value,
+      city:city.current.value,
+      email:email.current.value,
+    }
+    
+    event.target.reset();
+
+    setUsers([...users, user]);
+
+  }
+
+  return <div>
+
+    <form onSubmit={saveUser}>
+      <div>
+        <input ref={name} className='name' />
+      </div>
+      <div>
+        <input ref={email} className='email' />
+      </div>
+      <div>
+        <select ref={city}>
+          <option> Faisalabad   </option>
+          <option> Lahore   </option>
+          <option> Islamabad   </option>
+        </select>
+     … Read more
+7:53 AM
+Sir Khurram GamicaCloud
+
+34 kB
+
+8:58 AM
+M Usman
+Sir Khurram GamicaCloud
+Photo
+
+9:01 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Photo
+Hum Kuch kama to ly sir phr in ko b Dy ly ky 😅😅
+9:01 AM
++92 303 5777248
+Nouman 😊
+
+83 kB
+
+10:13 AM
+
+😂
+Sir Khurram GamicaCloud
+let a = 10;
+        let b = a++;
+10:34 AM
++92 303 5777248
+Nouman 😊
+subha 6 bj class???
+9:53 PM
++92 303 5777248
+Nouman 😊
+subha 6 bj class???
+Yes
+9:55 PM
++92 303 5777248
+Nouman 😊
+You
+Yes
+acha
+9:56 PM
+S.S
++92 303 5777248
+Nouman 😊
+subha 6 bj class???
+In Shaa Allah
+11:08 PM
+6/9/2022
+Sir Khurram GamicaCloud
+From: Dr. Attaur-Rehman <i**e_**a@hotmail.com>
+Sent: Thursday, April 14, 2022 12:19 AM
+To: Pervez Hoodbhoy; **bhoy@lns.mit.edu
+Cc: ‘Dr. Atta’ <aurah****2@gmail.com>;
+Subject: Congeniality
+Dear Dr. Hoodbhoy
+Salam
+It has been almost 2 decades that we have had differences with one another. It is normal in the civilised world to have opposite points of view but still be civil. On occasions our interactions have crossed these limits.
+I am now almost 80 years old and not keeping too well. I would like to mend all bridges before I go. I would like to express my sincere regrets if I have hurt you in any manner through our exchanges and hope that we can let bygones be bygones.
+Yours Sincerely
+Kind regards
+Atta
+Prof. Atta-ur-Rahman
+====================================… Read more
+6:04 AM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•8 kB
+6:36 AM
+
+To join the video meeting, click this link: https://meet.google.com/toq-qpwe-ivc
+Otherwise, to join by phone, dial +1 336-618-7293 and enter this PIN: 145 135 826#
+7:52 AM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•9 kB
+8:07 AM
+
+Asim Bro Software HOuse
+Sir g kl ki kya timing ha?
+5:25 PM
+Sir Khurram GamicaCloud
+same
+5:26 PM
+S.S
+Sir Khurram GamicaCloud
+same
+Suba 6 bajy
+6:21 PM
+Pervaiz Bhai
+S.S
+Suba 6 bajy
+Yes
+6:24 PM
+S.S
+Pervaiz Bhai
+Yes
+In Shaa Allah
+6:33 PM
+Asim Bro Software HOuse
+Sir Khurram GamicaCloud
+same
+Sir g bht mushkil ho jata ha
+6:34 PM
+Sham ka hi reakh ly
+6:34 PM
+Pervaiz Bhai
+This message was deleted
+6:40 PM
+Pervaiz Bhai
+S.S
+In Shaa Allah
+In shaa Allah
+6:40 PM
+S.S
+This message was deleted
+6:43 PM
+S.S
+Asim Bro Software HOuse
+Sir g bht mushkil ho jata ha
+Asim kitna muskil ha.
+6:44 PM
+Pervaiz Bhai
+This message was deleted
+6:44 PM
+Asad jani
+This message was deleted
+6:47 PM
+Asim Bro Software HOuse
+S.S
+Asim kitna muskil ha.
+Jitna Kashmir ko azad krwana🧐
+6:59 PM
++92 322 6059407
+Muhammad Tayyab
+Asim Bro Software HOuse
+Jitna Kashmir ko azad krwana🧐
+Yes bro
+6:59 PM
++92 313 7688995
+Hamid Khan
+Yehi time sahi hai
+6:59 PM
+
+👍
+Bilal Software hOuse
+Yes sir, 6 Wala time best hai
+7:00 PM
+
+👍
+3
+Voting hOni Chaiya🙂
+7:00 PM
+Asim Bro Software HOuse
++92 313 7688995
+Hamid Khan
+Yehi time sahi hai
+Hafiz g Allah kry tuwady subah no akh na khuly🙁
+7:01 PM
+
+😮
+Asad jani
+You
+Voting hOni Chaiya🙂
+Rehnye dy election hr bar hm he haar tY h....😥
+7:01 PM
+
+😂
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Asad jani
+Rehnye dy election hr bar hm he haar tY h....😥
+Pti ko vote dena is dafa InshaAllah jeet jao gy
+7:02 PM
+
+❤️
++92 313 7688995
+Hamid Khan
+Asim Bro Software HOuse
+Hafiz g Allah kry tuwady subah no akh na khuly🙁
+Iski jaga apni khulnay ke dua kar lay apko b faida day gi 😊😅
+7:02 PM
+
+😂
+Asim Bro Software HOuse
++92 313 7688995
+Hamid Khan
+Iski jaga apni khulnay ke dua kar lay apko b faida day gi 😊😅
+Me ty uth hi jana😂
+7:02 PM
+Asad jani
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+Pti ko vote dena is dafa InshaAllah jeet jao gy
+Hafiz sb apki dua lgni imran khan ko dua kra krO ❤️
+7:03 PM
++92 321 3998213
+Abdullah
+6 wala best time ha
+7:03 PM
+
+👍
++92 313 7688995
+Hamid Khan
+Asim Bro Software HOuse
+Me ty uth hi jana😂
+To phir niyat ke درستگی ke dua kar lay 😉
+7:03 PM
++92 313 7688995
+Hamid Khan
+Asad jani
+Hafiz sb apki dua lgni imran khan ko dua kra krO ❤️
+Q wo b nhi othta.
+7:04 PM
++92 322 6059407
+Muhammad Tayyab
+6 bjy Wala time Sirf iss week hi ha
+7:04 PM
+Asim Bro Software HOuse
++92 313 7688995
+Hamid Khan
+To phir niyat ke درستگی ke dua kar lay 😉
+A bht mushkil ha🧐
+7:04 PM
+
+😂
++92 322 6059407
+Muhammad Tayyab
+Next week wohi timing ha
+7:04 PM
+Asad jani
++92 313 7688995
+Hamid Khan
+Q wo b nhi othta.
+
+7:05 PM
+Asad jani
++92 322 6059407
+Muhammad Tayyab
+Next week wohi timing ha
+YeS
+7:05 PM
+Asim Bro Software HOuse
+Chalo un koi msg na kry sir ko btany do🫢
+7:09 PM
++92 313 7688995
+Hamid Khan
+Sir say arz kartay hai kay 6 bajay ka he Time continue رکھے  kuch din reh gae hai axhay guzar jae gay
+7:11 PM
+
+❤️
+Asim Bro Software HOuse
++92 313 7688995
+Hamid Khan
+Sir say arz kartay hai kay 6 bajay ka he Time continue رکھے  kuch din reh gae hai axhay guzar jae gay
+Yah ap si nai kah rahy😂
+7:12 PM
++92 313 7688995
+Hamid Khan
+Asim Bro Software HOuse
+Yah ap si nai kah rahy😂
+😅
+7:13 PM
++92 349 6064149
+Usman Saeed
++92 313 7688995
+Hamid Khan
+Sir say arz kartay hai kay 6 bajay ka he Time continue رکھے  kuch din reh gae hai axhay guzar jae gay
+
+7:15 PM
+
+😂
++92 335 6366515
+Ahsan Aqueel
++92 313 7688995
+Hamid Khan
+Sir say arz kartay hai kay 6 bajay ka he Time continue رکھے  kuch din reh gae hai axhay guzar jae gay
+
+7:39 PM
+
+❤️
+2
+6/10/2022
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•9 kB
+6:36 AM
+
+import {useRef, useEffect, useState} from 'react';
+import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
+function Frame(props){
+
+  return <div className='frame-box'>
+    <img src="frame.png" alt="" />    
+    {props.children}
+    </div>
+
+}
+
+function Dashboard(){
+
+  return <div>
+    <h1>yeh dashboard h</h1>
+    </div>;
+
+}
+
+function Login(){
+
+  return <div>
+    <h1>yeh login h</h1>
+    </div>;
+
+}
+
+function Home(){
+
+  return <div>
+    yeh home h
+    </div>
+
+}
+
+export function Parent(){
+
+  return <div>
+    <BrowserRouter>
+    
+      <Routes>
+
+        <Route path='/' element={<Home />} />
+        <Route path='/dashboard' element={<Dashboard />} />
+        <Route path='/login' element={<Login />} />
+
+      </Routes>
+
+    
+    </Brow… Read more
+7:52 AM
+6 to 9
+8:38 AM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•9 kB
+8:38 AM
+
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+6 to 9
+kal ki class timing
+8:39 AM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+kal ki class timing
+evening??
+8:42 AM
+Sir Khurram GamicaCloud
+morning m h
+8:47 AM
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+morning m h
+sir morning main bilkul nai possible mara.. ya ap morning main.class rakh lain or mj sham ko bula liya karain main ajaya kru ga sham ko😌
+9:01 AM
++92 322 6059407
+Muhammad Tayyab
+Sir Khurram GamicaCloud
+6 to 9
+Sir g 6 to 8 hi thk ha
+9:07 AM
+Sir Khurram GamicaCloud
++92 322 6059407
+Muhammad Tayyab
+Sir g 6 to 8 hi thk ha
+ok phir shaam ko hi rakh lete hen
+9:13 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+ok phir shaam ko hi rakh lete hen
+Assalam o alaikum sir 4 sy 7 rak ly sham ko
+9:21 AM
+Mano Mano
+Sir Khurram GamicaCloud
+ok phir shaam ko hi rakh lete hen
+Sir g morning ki timing hi good hai  evening mai projector nai chlta and garmi bi bohat hute hai
+9:21 AM
+
+👍
+2
+Asim Bro Software HOuse
+Morning me kafi bacho sy aya ni jata🙁
+9:24 AM
+
+🙏
++92 313 7688995
+Hamid Khan
+Na kar asim
+9:24 AM
+Sir Khurram GamicaCloud
+Asim Bro Software HOuse
+Morning me kafi bacho sy aya ni jata🙁
+han g yeh 2022 ka zamane kay bache hen 😅
+9:25 AM
+
+😂
+2
+Pervaiz Bhai
+Asim Bro Software HOuse
+Morning me kafi bacho sy aya ni jata🙁
+Bilkul Yar ma b 30 kg safer krna hota ha late ho jatee ha 4.30 py oto to Kam banta ha 😞
+9:25 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+han g yeh 2022 ka zamane kay bache hen 😅
+☺️
+9:25 AM
++92 313 7688995
+Hamid Khan
+Pervaiz Bhai
+Bilkul Yar ma b 30 kg safer krna hota ha late ho jatee ha 4.30 py oto to Kam banta ha 😞
+Axha hai na perfect time hai ye othmay ka
+9:26 AM
+Othnay*
+9:26 AM
+Asim Bro Software HOuse
+Sir Khurram GamicaCloud
+han g yeh 2022 ka zamane kay bache hen 😅
+Yes sir🫡
+9:27 AM
+Pervaiz Bhai
++92 313 7688995
+Hamid Khan
+Axha hai na perfect time hai ye othmay ka
+O B's ker BHAi 😅
+9:27 AM
+
+❤️
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+ok phir shaam ko hi rakh lete hen
+g sir  sham ka thk haii sb ajaty hain tb easily
+9:30 AM
+
+👍
++92 322 6059407
+Muhammad Tayyab
+Sir g next week b morning main ana ha ya phr evening main
+9:32 AM
+Pervaiz Bhai
++92 322 6059407
+Muhammad Tayyab
+Sir g next week b morning main ana ha ya phr evening main
+Evening ma 4 sy 7 Kal sir my Kya tha
+9:33 AM
+Bilal Software hOuse
+Sir evening k 3hours me wo kam ni hota Jo idhr 2h me easily ho jata h, ik to us waqt garmi bht hoti h or projector b bnd ho jata h or asar or magrib ka time b include hony ki waja se fr 2h hi reh jaty hn , jis hisab se morning k 2h enough hn
+9:46 AM
+
+👍
+2
++92 335 6366515
+Ahsan Aqueel
+Bilal Software hOuse
+Sir evening k 3hours me wo kam ni hota Jo idhr 2h me easily ho jata h, ik to us waqt garmi bht hoti h or projector b bnd ho jata h or asar or magrib ka time b include hony ki waja se fr 2h hi reh jaty hn , jis hisab se morning k 2h enough hn
+Yes sir
+9:46 AM
+
+❤️
++92 313 7688995
+Hamid Khan
+Bilal Software hOuse
+Sir evening k 3hours me wo kam ni hota Jo idhr 2h me easily ho jata h, ik to us waqt garmi bht hoti h or projector b bnd ho jata h or asar or magrib ka time b include hony ki waja se fr 2h hi reh jaty hn , jis hisab se morning k 2h enough hn
+Yes sir
+9:46 AM
+
+❤️
+Asim Bro Software HOuse
+Bilal Software hOuse
+Sir evening k 3hours me wo kam ni hota Jo idhr 2h me easily ho jata h, ik to us waqt garmi bht hoti h or projector b bnd ho jata h or asar or magrib ka time b include hony ki waja se fr 2h hi reh jaty hn , jis hisab se morning k 2h enough hn
+Bhai projector thk ho gya ap ko pta ni kya
+9:47 AM
+Pervaiz Bhai
+Asim Bro Software HOuse
+Bhai projector thk ho gya ap ko pta ni kya
+G BHAi ho Kya
+9:48 AM
+Asim Bro Software HOuse
+Pervaiz Bhai
+G BHAi ho Kya
+Peyji jo kehta sai kehta🤭
+9:48 AM
++92 313 7688995
+Hamid Khan
+Pervaiz Bhai
+G BHAi ho Kya
+Gsrmi and theek karao
+9:48 AM
++92 335 6366515
+Ahsan Aqueel
+Asim Bro Software HOuse
+Bhai projector thk ho gya ap ko pta ni kya
+Asr maghrib or garmi b thk krwa do🤣
+9:49 AM
+
+👍
+Pervaiz Bhai
+This message was deleted
+9:49 AM
++92 303 5777248
+Nouman 😊
++92 335 6366515
+Ahsan Aqueel
+Asr maghrib or garmi b thk krwa do🤣
+sir knsa mana krty k nai jana namaz perhny.. baki sb b jaty e hain perhny
+9:49 AM
+
+❤️
+Asim Bro Software HOuse
++92 335 6366515
+Ahsan Aqueel
+Asr maghrib or garmi b thk krwa do🤣
+Bhai wo subah ko b utni hi hoti
+9:49 AM
+Pervaiz Bhai
++92 335 6366515
+Ahsan Aqueel
+Asr maghrib or garmi b thk krwa do🤣
+Ho jy ke jald jb test oo ka internship ka 😅😅 tension na lo
+9:50 AM
++92 335 6366515
+Ahsan Aqueel
++92 303 5777248
+Nouman 😊
+sir knsa mana krty k nai jana namaz perhny.. baki sb b jaty e hain perhny
+Time tw lgta hi hai
+9:50 AM
+Bilal Software hOuse
++92 335 6366515
+Ahsan Aqueel
+Asr maghrib or garmi b thk krwa do🤣
+Han yr yehi bat to keh rha hun me, btw yr agr ap dedication dety hn to we appreciate to you, otherwise sb ko majborn ana prta evening me Jo k agreed nh h.
+9:50 AM
+
+👍
++92 313 7688995
+Hamid Khan
++92 303 5777248
+Nouman 😊
+sir knsa mana krty k nai jana namaz perhny.. baki sb b jaty e hain perhny
+Bat smjo pehlay hoi kya hai phir comment kya karo
+9:50 AM
+
+❤️
+Asar magrib kavtime lag jata hai
+9:51 AM
+Asim Bro Software HOuse
+Koi na bhai isy behany jamat k sath pri jati namaz
+9:52 AM
++92 335 6366515
+Ahsan Aqueel
+Asim Bro Software HOuse
+Koi na bhai isy behany jamat k sath pri jati namaz
+Koshish kro wesy b prhny ki
+9:53 AM
+
+😂
+2
+Asim Bro Software HOuse
++92 335 6366515
+Ahsan Aqueel
+Koshish kro wesy b prhny ki
+Gg wo kry gy
+9:53 AM
+
+👍
+At the end evening timing best ha😂
+9:54 AM
+
+👍
+3
++92 335 6366515
+Ahsan Aqueel
+Asim Bro Software HOuse
+At the end evening timing best ha😂
+Mazak acha kr lety ho🤣
+10:06 AM
+
+😂
++92 313 7688995
+Hamid Khan
+Asim Bro Software HOuse
+At the end evening timing best ha😂
+Ap kay is comment say mujhay on logo ki jhalak a rahi hai jo kehtay hai petrol 1000 da v ho jae vote sheer da 😄
+10:07 AM
+
+😂
+2
+Asim Bro Software HOuse
++92 335 6366515
+Ahsan Aqueel
+Mazak acha kr lety ho🤣
+Acha g
+10:09 AM
+Asim Bro Software HOuse
++92 313 7688995
+Hamid Khan
+Ap kay is comment say mujhay on logo ki jhalak a rahi hai jo kehtay hai petrol 1000 da v ho jae vote sheer da 😄
+Vote ty sheer da hi
+10:10 AM
+
+😢
+😂
+2
+😂
+😂
+😂
+10:12 AM
+Sir Khurram GamicaCloud
++92 313 7688995
+Hamid Khan
+Ap kay is comment say mujhay on logo ki jhalak a rahi hai jo kehtay hai petrol 1000 da v ho jae vote sheer da 😄
+
+37 kB
+
+11:53 AM
+
+😂
+4
++92 322 6059407
+Muhammad Tayyab
+Sir Khurram GamicaCloud
+Photo
+پرانا پاکستان 😂😂😂
+11:54 AM
+Sir Khurram GamicaCloud
+Extra class cancelled, monday ko inshallah
+2:54 PM
++92 313 7688995
+Hamid Khan
+Sir Khurram GamicaCloud
+Extra class cancelled, monday ko inshallah
+Okay
+2:54 PM
+Extra class hamaray naseeb may nhi
+2:54 PM
+
+😂
++92 303 5777248
+Nouman 😊
+Sir Khurram GamicaCloud
+Extra class cancelled, monday ko inshallah
+sir g monday ko evening main e hogi na??
+2:55 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Extra class cancelled, monday ko inshallah
+Oky sir 🥰
+2:55 PM
+Pervaiz Bhai
++92 303 5777248
+Nouman 😊
+sir g monday ko evening main e hogi na??
+G sir ny Kya ha ky 4 sy 7 sham ko
+2:56 PM
++92 303 5777248
+Nouman 😊
+Pervaiz Bhai
+G sir ny Kya ha ky 4 sy 7 sham ko
+ok
+2:56 PM
+Pervaiz Bhai
++92 303 5777248
+Nouman 😊
+ok
+Phr b confirm sir he Kary ky Kya tha phr sir ny ☺️
+2:56 PM
+Sir Khurram GamicaCloud
+g g evening m
+2:58 PM
+
+👍
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+g g evening m
+Time sir
+2:59 PM
+Pervaiz Bhai
+Time sir
+🤥
+🙄
+2:59 PM
+Pervaiz Bhai
+Time sir
+5 to 8
+2:59 PM
+Pervaiz Bhai
+
+94 kB
+ایک بار درود شریف پڑھیں ❤️
+ایک بار درود شریف پڑھیں ❤️
+2:59 PM
+Pervaiz Bhai
+You
+5 to 8
+Ni change ho Kya ha sir ny 4 sy 7 ka Kya ha
+3:00 PM
+Pervaiz Bhai
+Ni change ho Kya ha sir ny 4 sy 7 ka Kya ha
+chlo sir keha gy to man ly gy hum
+3:00 PM
+
+👍
+Sir Khurram GamicaCloud
+You
+chlo sir keha gy to man ly gy hum
+g 4 sw 7
+3:12 PM
+
+😢
+❤️
+3
+Asad jani
+Sir Khurram GamicaCloud
+g g evening m
+Purane din wapis agye @Pervaiz Bhai 😌🥲
+3:13 PM
+
+😢
+Pervaiz Bhai
+Asad jani
+Purane din wapis agye @Pervaiz Bhai 😌🥲
+🥰
+3:14 PM
+
+😢
+Asad jani
+Pervaiz Bhai
+🥰
+😏
+😂
+3:17 PM
+Sir Khurram GamicaCloud
+
+296 kB
+
+11:50 PM
+
+❤️
+6/11/2022
+Sir Khurram GamicaCloud
+Forwarded
+السلام علیکم!
+آج تک ہم سب سنتے آرہے ہیں کہ فلاں ڈگری کرلو یہ نوکری مل جائیگی. لیکن میں سمجھتا ہوں کہ یہ ہمارے سسٹم کی سب سے بڑی ناکامی ہے ک ہم بچوں کو ENTREPRENEURSHIP نہیں سکھا سکے. اب سوال ہے کہ ENTREPRENEURSHIP کیا ہے؟ ENTREPRENEURSHIP ایسے بزنس کو کہتے ہیں جس میں مالک اکیلا پیسہ نہیں کماتا بلکہ ایک ٹیم سے کام لیکر بہت سے لوگوں کا روزگار چلاتا ہے.GOOGLE
+,YOU TUBE, FACEBOOK INSTAGRAM جیسی بڑی کمپنیاں اسی بزنس ماڈل کو فولو کرتی ہیں. اسی لیے آج دنیا کو وہ چلا رہی ہیں جس کی وجہ ان کا پراڈکٹ اور بزنس ماڈل ہے. لیکن ہمارے سسٹم نے بزنس بھی ایسا سکھایا کہ کسی کا نہ سوچو. BUSINESS MANAGEMENT, ACCOUNTS MANAGEMENT تو سکھائی لیکن TEAM MANAGEMENT, TEAM LEADER SHIP اور TEAM MAKING نہیں سکھائی. اور اس دنیا کا سب سے بڑا سکِل  COMMUNICATION SKILL بھی نہیں سکھایا جس کی وجہ س…
+Read more
+8:54 AM
+
+❤️
+👍
+7
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+السلام علیکم!
+آج تک ہم سب سنتے آرہے ہیں کہ فلاں ڈگری کرلو یہ نوکری مل جائیگی. لیکن میں سمجھتا ہوں کہ یہ ہمارے سسٹم کی سب سے بڑی ناکامی ہے ک ہم بچوں کو ENTREPRENEURSHIP نہیں سکھا سکے. اب سوال ہے کہ ENTREPRENEURSHIP کیا ہے؟ ENTREPRENEURSHIP ایسے بزنس کو کہتے ہیں جس میں مالک اکیلا پیسہ نہیں کماتا بلکہ ایک ٹیم سے کام لیکر بہت سے لوگوں کا روزگار چلاتا ہے.GOOGLE,YOU TUBE, FACEBOOK INSTAGRAM جیسی بڑی کمپنیاں اسی بزنس ماڈل کو فولو کرتی ہیں. اسی لیے آج دنیا کو وہ چلا رہی ہیں جس کی وجہ ان کا پراڈکٹ اور بزنس ماڈل ہے. لیکن ہمارے سسٹم نے بزنس بھی ایسا سکھایا کہ کسی کا نہ سوچو. BUSINESS MANAGEMENT, ACCOUNTS MANAGEMENT تو سکھائی لیکن TEAM MANAGEMENT, TEAM LEADER SHIP اور TEAM MAKING نہیں سکھائی. اور اس دنیا کا سب سے بڑا سکِل  COMMUNICATION SKILL بھی نہیں سکھایا جس کی وجہ س
+Right Sir G ❤️
+9:41 AM
++92 300 4570193
+Rana Saqib
+
+105 kB
+
+7:31 PM
+
+😂
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+Photo
+Haha😆
+7:32 PM
++92 342 1698492
+Muhammad Faizan
+
+0:19
+9:25 PM
+
+❤️
+2
++92 300 4570193
+Rana Saqib
++92 342 1698492
+Muhammad Faizan
+0:19 Video
+Ye original news ha kia🤔
+11:38 PM
++92 300 4570193
+Rana Saqib
++92 315 7042606
+MecoMaan
+Haha😆
+Bro asy he ha
+11:38 PM
++92 342 1698492
+Muhammad Faizan
+0:19 Video
+Yes Bro
+11:38 PM
++92 300 4570193
+Rana Saqib
+
+12 kB
+
+11:39 PM
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+Photo
+
+11:40 PM
+6/12/2022
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+7:43 AM
+
+❤️
+5
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+asad
+7:43 AM
+Mano Mano
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+Sir g ye kia hai ?
+7:46 AM
+Sir Khurram GamicaCloud
+Mano Mano
+Sir g ye kia hai ?
+Most hard-working studens
+7:47 AM
+
+❤️
+Mano Mano
+Sir Khurram GamicaCloud
+Most hard-working studens
+MashaAllah good
+7:48 AM
+Asad jani
+Sir Khurram GamicaCloud
+asad
+
+8:08 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+Mashallah ❣️
+8:19 AM
+M Usman
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+Sir g maray khayal sy bhai tayyab bhi ???
+8:49 AM
+Or usman bhai ??
+8:49 AM
+Sir Khurram GamicaCloud
+M Usman
+Sir g maray khayal sy bhai tayyab bhi ???
+wo nice working m hn abhi
+8:50 AM
+
+❤️
+M Usman
+Ok sir g
+8:51 AM
+S.S
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+
+10:36 AM
++92 348 9099301
+K K
+Sir Khurram GamicaCloud
+Students of the week
+
+Faizan
+Umair
+Ahsan
+Abdullah
+Esha
+Taimoor
+Saqib
+Noman
+Mohsin
+Abdul Rehman
+Kamran
+
+12:29 PM
+Sir Khurram GamicaCloud
+timing 4 se 7 h
+8:51 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+timing 4 se 7 h
+in shaa Allah sir
+8:59 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+timing 4 se 7 h
+In Shaa Allah Sir g
+10:22 PM
+6/13/2022
++92 342 5450050
+Rehman
+Sir Khurram GamicaCloud
+timing 4 se 7 h
+💝
+12:13 AM
+Sir Khurram GamicaCloud
+yar, please consult any patwari regarding this, earning money via this way is much easier than Freelancng.yar, please consult any patwari regarding this, earning money via this way is much easier than Freelancng.
+yar, please consult any patwari regarding this, earning money via this way is much easier than Freelancng.
+7:04 AM
+
+
+😂
+3
++92 342 1698492
+Muhammad Faizan
+😀
+7:23 AM
++92 300 4570193
+Rana Saqib
+10K Complete AlHamduliallh 😍🇵🇰🌴10K Complete AlHamduliallh 😍🇵🇰🌴
+10K Complete AlHamduliallh 😍🇵🇰🌴
+12:43 PM
+
+
+❤️
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+yar, please consult any patwari regarding this, earning money via this way is much easier than Freelancng.
+12:47 PM
+Sir Khurram GamicaCloud
+Timing 5 se 8
+12:52 PM
+Asim Bro Software HOuse
+Sir Khurram GamicaCloud
+Timing 5 se 8
+Okay sir g ☺️
+12:52 PM
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Timing 5 se 8
+💘
+12:57 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+Timing 5 se 8
+Okay Sir in Shaa Allah
+1:21 PM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•10 kB
+7:01 PM
+
+https://react-hook-form.com/get-started
+8:34 PM
+npm i react-hook-form
+8:36 PM
+Sir Khurram GamicaCloud
+
+signup.js
+JS•1 kB
+8:36 PM
+
+6/14/2022
+Sir Khurram GamicaCloud
+import { useRef } from "react";
+import {useForm} from 'react-hook-form'
+
+
+export default (props)=>{
+
+    
+    let data = useForm();
+    
+    
+    function saveUser(meraData){
+
+
+        console.log(meraData);
+
+        // let nyaUser = {
+        //     name:nameRef.current.value,
+        //     email:emailRef.current.value,
+        //     password:passwordRef.current.value,
+        // }
+
+        props.setUsers([...props.users, meraData]);
+
+    }
+
+    return <div>
+        <form onSubmit={data.handleSubmit( saveUser  )}>
+            <div>
+                <input {...data.register('name', {required:true})} />
+            </div>
+            {data.formState.errors.name && <div className="error">name btyen</div>}
+            
+            <div>
+                <input … Read more
+6:23 PM
+npm i react-hook-form
+6:23 PM
+Sir Khurram GamicaCloud
+
+6:34 PM
+
++92 335 6366515
+Ahsan Aqueel
+Sir Khurram GamicaCloud
+Photo
+@Hamid Khan
+6:35 PM
++92 313 7688995
+Hamid Khan
++92 335 6366515
+Ahsan Aqueel
+@Hamid Khan
+Apko mana b kya tha
+6:35 PM
+Daikh lo kya bana
+6:35 PM
++92 335 6366515
+Ahsan Aqueel
+Aap k hi guru thy ye 
+Many tw aapko roka b tha🤣🤣
+6:36 PM
+
+😂
++92 313 7688995
+Hamid Khan
++92 335 6366515
+Ahsan Aqueel
+Aap k hi guru thy ye 
+Many tw aapko roka b tha🤣🤣
+Abhi itnay boray din nhi ae
+😅
+6:39 PM
++92 321 9300028
+Mian Amy♥️
+This message was deleted
+6:41 PM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•12 kB
+8:36 PM
+
+6/15/2022
++92 300 4570193
+Rana Saqib
+
+0:13
+jb kuch na krny ko dill kry.😜😜⛈️⛈️⛈️⛈️⛈️
+ to asy kam krty ha😂😂😂 🌩️🌩️🌩️⛈️⛈️⛈️
+12:15 PM
+
+😂
+2
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
++92 300 4570193
+Rana Saqib
+jb kuch na krny ko dill kry.😜😜⛈️⛈️⛈️⛈️⛈️
+ to asy kam krty ha😂😂😂 🌩️🌩️🌩️⛈️⛈️⛈️
+👌
+👌
+12:16 PM
+M Usman
++92 300 4570193
+Rana Saqib
+jb kuch na krny ko dill kry.😜😜⛈️⛈️⛈️⛈️⛈️
+ to asy kam krty ha😂😂😂 🌩️🌩️🌩️⛈️⛈️⛈️
+😊
+12:35 PM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•14 kB
+8:33 PM
+
+6/16/2022
++92 308 5630574
+꧁•⊹٭عبداللہ طیب٭⊹•꧂
+sir g air for share ka link send kar dain
+7:05 PM
++92 330 6146540
+I Am UMair💫ŤhÉ ŘŰŁęŘ⚜️
+https://drive.google.com/file/d/1ZfNLnUbJIMg-xgZcbwasq0vhKhHFOqYE/view?usp=sharing
+7:07 PM
++92 342 1698492
+Muhammad Faizan
+
+redux code.rar
+RAR•11 kB
+7:08 PM
+
++92 330 6146540
+I Am UMair💫ŤhÉ ŘŰŁęŘ⚜️
+
+src.zip
+ZIP•15 kB
+7:08 PM
+
++92 308 5630574
+꧁•⊹٭عبداللہ طیب٭⊹•꧂
+
+src.zip
+ZIP•15 kB
+8:28 PM
+
+6/17/2022
+Pervaiz Bhai
+
+10:06 AM
+
+Sir Khurram GamicaCloud
+
+10:26 AM
+
+
+😢
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Photo
+Be active friends, we should not waste our time at all. the upcoming time seems to be so tough
+10:26 AM
+
+👍
+😢
+5
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Photo
+10:28 AM
+
+😂
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+Be active friends, we should not waste our time at all. the upcoming time seems to be so tough
+Right Sir. Mery lia to abi be bhot tough time ha sir.
+11:39 AM
+
+❤️
+Sir Khurram GamicaCloud
+dear students, class will be started on 5.00pm sharp
+12:49 PM
+
+❤️
+👍
+2
+kindly be on time
+12:49 PM
++92 322 6059407
+Muhammad Tayyab
+Yes Sir
+12:50 PM
++92 342 1698492
+Muhammad Faizan
+Ok Sir
+1:39 PM
+Pervaiz Bhai
+Assalam o alaikum friends
+3:09 PM
+Light ni ha too sb BHAi APNA APNA laptop charger ker ky hyy
+3:09 PM
+Light 🚨🚨🚨 ni ha laptop 💻🤪 charger ☺️ ker ky lynaa 😜
+3:11 PM
++92 308 5630574
+꧁•⊹٭عبداللہ طیب٭⊹•꧂
+Laptop kaha sy charge karain. Hmry hostel main b light nai hai.
+3:21 PM
+Pervaiz Bhai
+This message was deleted
+3:27 PM
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+Light 🚨🚨🚨 ni ha laptop 💻🤪 charger ☺️ ker ky lynaa 😜
+Battery ni ha bro directly chalta ha😍
+3:46 PM
+Kb ki light off ha @Pervaiz Bhai
+3:47 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Kb ki light off ha @Pervaiz Bhai
+Suba ke Jani 🥰
+4:03 PM
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+Suba ke Jani 🥰
+To na ay phir ab
+4:06 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+To na ay phir ab
+Dakh lo g suba ka ups chal ra ha ab off ker dia ha only class shaid ho 2 ghanty ke laptop ni charger ho ka B's class Baki ap dakh loo sir Soo ry ha 🥰
+4:07 PM
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+Dakh lo g suba ka ups chal ra ha ab off ker dia ha only class shaid ho 2 ghanty ke laptop ni charger ho ka B's class Baki ap dakh loo sir Soo ry ha 🥰
+Agr aaj phir me na ao 😍
+4:08 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Agr aaj phir me na ao 😍
+Sir ko sms ker loo
+4:09 PM
+Bilal Software hOuse
+Pervaiz Bhai
+Sir ko sms ker loo
+Light Abi b off h?
+4:32 PM
+Pervaiz Bhai
+Bilal Software hOuse
+Light Abi b off h?
+G BHAi
+4:36 PM
+Bilal Software hOuse
+Pervaiz Bhai
+G BHAi
+And UPS?
+4:36 PM
+Pervaiz Bhai
+Bilal Software hOuse
+And UPS?
+Ups chal ra ha g
+4:38 PM
+Pervaiz Bhai
+Ups chal ra ha g
+uh kdr ho ?
+4:38 PM
+Gamica ?
+4:39 PM
+Pervaiz Bhai
+You
+uh kdr ho ?
+Gamica cloud 😜
+4:39 PM
+Pervaiz Bhai
+Gamica cloud 😜
+ok
+4:39 PM
+Pervaiz Bhai
+This message was deleted
+4:39 PM
+Sir Khurram GamicaCloud removed +92 323 7627918
+Sir Khurram GamicaCloud removed +92 349 6064149
+Sir Khurram GamicaCloud
+
+ads-src.zip
+ZIP•17 kB
+7:21 PM
+
+Sir Khurram GamicaCloud
+
+simple-src.zip
+ZIP•15 kB
+7:21 PM
+
+Asim Bro Software HOuse
+This message was deleted
+8:34 PM
++92 322 6059407
+Muhammad Tayyab
+Asim Bro Software HOuse
+Still waiting🧐
+Enjoy
+8:35 PM
+Pervaiz Bhai
+Asim Bro Software HOuse
+Still waiting🧐
+Sticker with no label
+8:36 PM
+6/18/2022
+Pervaiz Bhai
+If u want to success in your Life So Believe in Your Self👆🏻🥼🩺🧑🏻‍⚕️💕💕If u want to success in your Life So Believe in Your Self👆🏻🥼🩺🧑🏻‍⚕️💕💕
+If u want to success in your Life So Believe in Your Self👆🏻🥼🩺🧑🏻‍⚕️💕💕
+11:36 AM
+
+
+❤️
+👍
+2
+Sir Khurram GamicaCloud removed Rabiya666
+6/20/2022
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•920 B
+8:31 PM
+
+6/21/2022
+Sir Khurram GamicaCloud
+
+12:29 PM
+
+
+😂
++92 342 1698492
+Muhammad Faizan
+Sir Khurram GamicaCloud
+Photo
+Ab govt. bhi ayye gi
+12:39 PM
+Sir Khurram GamicaCloud added +92 349 6064149
+Sir Khurram GamicaCloud
+let someExpress = require('express');
+
+let myApp = someExpress();
+
+myApp.get('/', (req, res)=>{
+    console.log("m chla");
+    
+    res.sendfile('server/1.jpg')
+    // res.end("hello g")
+    // res.json({
+    //     name:"khurram"
+    // })
+
+})
+
+myApp.get('/login', ()=>{
+    console.log("login chla");
+})
+
+
+myApp.listen(2050, ()=>{
+    console.log("server chal paring");
+})
+
+// REST API
+
+
+
+
+// let some = require("./data");
+
+// some.makeBiryani();
+
+// commonjs format
+
+// let some = [10,20, function(){
+//     alert(20)
+// }, 60];
+
+
+// some[1]
+
+
+
+
+
+
+// let some = require('./data');
+
+// some.makeBiryani();
+
+// console.log("server chaling now");
+6:52 PM
+6/22/2022
+Pervaiz Bhai
+
+server.zip
+ZIP•4 MB
+4:49 PM
+
++92 303 5777248
+Nouman 😊
+Pervaiz Bhai
+server.zip
+aj class jaldi start hogai hai kaya??
+5:04 PM
++92 322 6059407
+Muhammad Tayyab
++92 303 5777248
+Nouman 😊
+aj class jaldi start hogai hai kaya??
+Nh Bhai ye kal Wala code ha
+5:06 PM
++92 303 5777248
+Nouman 😊
++92 322 6059407
+Muhammad Tayyab
+Nh Bhai ye kal Wala code ha
+ok
+5:06 PM
+Sir Khurram GamicaCloud
+import axios from "axios";
+import { useEffect, useState } from "react"
+import { useSelector } from "react-redux"
+import { Link, useParams } from "react-router-dom"
+export default (props)=>{
+
+    let [users, setUsers] = useState([]);
+
+    useEffect(async ()=>{
+
+        let resp = await axios.get('/users-lao');
+        
+
+        console.log(resp.data);
+        setUsers(resp.data);
+
+    }, []);
+
+    useEffect(()=>{
+
+        
+    }, [])
+
+    // let users = useSelector(function(store){
+    //     return store.userReducer.users;
+    // });
+
+    // let myParams = useParams();
+    // myParams.user
+
+    return <div>
+            <table>
+                {
+                    users.map((user, index)=>{
+                        return <tr>
+                            <td>… Read more
+6:18 PM
+let express = require('express');
+
+    let app = express();
+
+    
+    let users = [];
+    
+    app.get('/users-lao', (req, res)=>{
+        
+        res.json(users);
+        
+    })
+    // REST API
+    // axios.get()
+    // axios.put()
+    // axios.delete()
+    
+    app.use(express.json());
+    
+    app.delete('/delete-karo', (req, res)=>{
+      
+        users.splice(  req.query.meraIndex, 1);
+
+        res.json({
+            success:true
+            }
+        )
+
+        console.log("deeted")
+    });
+    
+    app.post('/signup-karo', (req, res)=>{
+        
+        users.push(req.body);
+        
+        console.log(req.body);
+    })
+    
+    // app.get('/', (req, res)=>{
+    //      res.sendfile('server/website/index.html')
+    // });
+//     app.get('/56.jpg', … Read more
+6:18 PM
+import { useRef } from "react";
+import {useForm, } from 'react-hook-form';
+import {useNavigate} from 'react-router-dom';
+import store from '../../store/store';
+import axios from 'axios';
+
+export default (props)=>{
+
+    let navigate = useNavigate();
+    
+    let data = useForm();
+    
+    
+    function saveUser(meraData){
+
+        meraData.id = Math.round(Math.random() * 1000);
+
+        // store.dispatch({
+        //     type:"User_ADDED",
+        //     payload:meraData
+        // });
+
+        console.log(meraData);    
+          
+
+        axios.post('/signup-karo', meraData);
+        // axios.put('/signup-karo', meraData);
+
+        // get aur delete m data nahi jyega
+
+
+        // data.reset();
+        // navigate('/login')
+    
+
+    }
+
+    return <div>
+    … Read more
+6:18 PM
+import { useRef, useEffect, useState } from "react";
+import {useForm} from 'react-hook-form';
+import { useParams } from "react-router-dom";
+import { useSelector } from "react-redux";
+import store from '../../store/store';
+import axios from "axios";
+
+export default (props)=>{
+
+    let [index, setIndex]=useState();
+
+    let params =useParams();
+    let [user, setUser] = useState({});
+    
+    let data = useForm();
+
+    // let users = useSelector(function(store){
+    //     return store.userReducer.users;
+    // });
+
+    useEffect(async function(){
+
+       let resp =  await axios.get('/user-find-karo?name='+params.userKaName);
+
+      
+        if(resp.data){
+            setUser(resp.data);
+            data.reset(resp.data);
+        }
+
+    }, []);
+    
+    
+    f… Read more
+7:20 PM
+let express = require('express');
+
+    let app = express();
+
+    
+    let users = [];
+    
+    app.get('/users-lao', (req, res)=>{
+        
+        res.json(users);
+        
+    })
+    // REST API
+    // axios.get()
+    // axios.put()
+    // axios.delete()
+    
+    app.use(express.json());
+
+    app.get('/user-find-karo', (req, res)=>{
+
+        let userMilgya =  users.find(function(user, index){
+
+            if(user.name == req.query.name){                 
+                 return true;
+             }
+ 
+         });
+
+         res.json(userMilgya);
+
+    })
+
+    app.put('/user-update-karo', (req, res)=>{
+
+        let milgya = users.findIndex(user=>user.id == req.body.id);
+        users[milgya] = req.body;
+
+    })
+    
+    app.delete('/delete-karo', (req, res)=>… Read more
+7:20 PM
+let express = require('express');
+
+    let app = express();
+
+    
+    let users = [];
+    
+    app.get('/users-lao', (req, res)=>{
+        
+        res.json(users);
+        
+    })
+    // REST API
+    // axios.get()
+    // axios.put()
+    // axios.delete()
+    
+    app.use(express.json());
+
+    app.get('/user-find-karo', (req, res)=>{
+
+        let userMilgya =  users.find(function(user, index){
+
+            if(user.name == req.query.name){                 
+                 return true;
+             }
+ 
+         });
+
+         res.json(userMilgya);
+
+    })
+
+    app.put('/user-update-karo', (req, res)=>{
+
+        let milgya = users.findIndex(user=>user.id == req.body.id);
+        users[milgya] = req.body;
+
+    })
+    
+    app.delete('/delete-karo', (req, res)=>… Read more
+7:20 PM
+server waley folder m
+7:46 PM
+CMD open kren
+
+and command
+
+npm install multer
+7:46 PM
+Gamica password
+44332211
+7:50 PM
+6/23/2022
+Sir Khurram GamicaCloud
+dear students
+2:29 PM
+class timing 5 baje sharp
+2:29 PM
+kindly b on time
+2:29 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+class timing 5 baje sharp
+Oky sir 🥰
+2:32 PM
+S.S
+Sir Khurram GamicaCloud
+class timing 5 baje sharp
+In Shaa Allah Sir
+3:04 PM
++92 315 7042606
+MecoMaan
+In sha Allah
+3:28 PM
+Sir Khurram GamicaCloud
+let express = require('express');
+
+    let app = express();
+
+    let fs = require('fs');
+
+    // fs.existsSync()
+
+    // fs.writeFile('server/cat.txt', "mioon", (err)=>{
+    //     console.log(err);
+    // })
+
+    // fs.unlink("server/build.zip", (err)=>{
+    //     console.log(err);
+    // })
+
+// fs.mkdir("server/testing", (err, data)=>{
+//     console.log(err || data);
+
+// });
+
+
+    const multer  = require('multer');
+
+    const storage = multer.diskStorage({
+        destination: function (req, file, cb) {
+
+            let destination  = "server/hello/"+req.body.name;
+
+          let folderH =   fs.existsSync(destination);
+
+            if(folderH){
+
+                cb({message:"User already h"}, null)
+
+            }else{
+
+                fs.mkdir(destination… Read more
+6:06 PM
+import { useRef } from "react";
+import {useForm, } from 'react-hook-form';
+import {useNavigate} from 'react-router-dom';
+import store from '../../store/store';
+import axios from 'axios';
+import {toast} from 'react-toastify'
+
+export default (props)=>{
+
+    let navigate = useNavigate();
+    
+    let data = useForm();
+    
+    
+    async function saveUser(meraData){
+
+        let form = new FormData();
+        form.append("name",meraData.name)
+        form.append("email",meraData.email)
+        form.append("password",meraData.password)
+        form.append("file",meraData.file[0])
+
+        // {
+        //     name:"khurram"
+        // }
+
+        meraData.file = meraData.file[0]
+
+        meraData.id = Math.round(Math.random() * 1000);
+
+        // store.dispatch({
+… Read more
+6:07 PM
+Examiners for Internship test
+
+Mohsin
+Ahsan
+6:09 PM
+heroku per sign kren
+7:49 PM
+*signup
+7:49 PM
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•18 kB
+8:29 PM
+
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•4 MB
+8:42 PM
+
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Examiners for Internship test
+
+Mohsin
+Ahsan
+Congratulations bro❤️
+8:43 PM
+6/24/2022
+Sir Khurram GamicaCloud
+javascritpt revision class honi 4 se 5
+10:15 AM
+
+❤️
+2
+then normal class
+10:16 AM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+javascritpt revision class honi 4 se 5
+In Shaa Allah Sir
+11:07 AM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+javascritpt revision class honi 4 se 5
+In shaa Allah sir
+11:07 AM
+Assalam o alaikum sir
+3:11 PM
+Sir all road closed 🔐
+3:11 PM
+Sir Khurram GamicaCloud
+ws
+3:11 PM
+Pervaiz Bhai
+Ana Kya sy ha g
+3:11 PM
+Sir Khurram GamicaCloud
+kyu bhai?
+3:11 PM
+Pervaiz Bhai
+
+3:11 PM
+
+Sir aj jalsa ha
+3:12 PM
+Kii sy b ni any Dy ry sir
+3:12 PM
+Sir Khurram GamicaCloud
+ok g
+3:13 PM
+Pervaiz Bhai
+Ab sir
+3:13 PM
+Sir Khurram GamicaCloud
+Pervaiz Bhai
+Kii sy b ni any Dy ry sir
+library side, narr wala chowk side se ajyen
+3:14 PM
+baaqi log bhi arahe
+3:14 PM
+Pervaiz Bhai
+Oky sir
+3:14 PM
+Sir Khurram GamicaCloud
+
+3:37 PM
+
+
+😂
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+http://api.weatherapi.com/v1/current.json?key=6129828d27af415ca8f141622221801&q=
+4:51 PM
+Sir Khurram GamicaCloud
+api.weatherapi.com
+http://api.weatherapi.com/v1/current.json?key=6129828d27af415ca8f141622221801&q=
+api.weatherapi.com
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script src="axios.min.js"></script>
+
+
+</head>
+<body>
+
+    <div id="weatherIcon">
+
+    </div>
+
+    <select name="" id="districtBox" onchange="loadTehsil(this.value)">
+        <option value="">Select Country</option>
+    </select>
+    <select name="" id="tehsilBox">
+        <option>Select City</option>
+    </select>
+        <button onclick="getWeather()">Get Weather</button>
+    <script>
+
+// ba0d1ebeb1mshbfc429ea41f9369p104907jsn415cbafaaee2
+
+
+
+
+        async function getWeather(){
+
+            try{
+
+
+                
+            … Read more
+5:01 PM
+
+import GoogleMapReact from 'google-map-react';
+import { useEffect, useState } from 'react';
+
+
+function Baloon(){
+
+    return <img width="40" src="marker.png" />
+
+}
+
+export default ()=>{
+
+
+    let [position, setPosition] = useState({
+        lat:0,
+        lng:0
+    })
+
+    let [data, setData] = useState({
+        loaded:true,
+        center: {
+          lat: 59.95,
+          lng: 30.33
+        },
+        zoom: 11
+      });
+
+
+      useEffect(()=>{
+
+        
+
+        navigator.geolocation.getCurrentPosition((cords)=>{
+
+            // console.log(cords.coords);
+
+            
+        //    setData({
+        //        loaded:true,
+        // })
+
+            setData({
+                loaded:true,
+                center: {
+                    lat: cords.coords.lati… Read more
+6:31 PM
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•786 kB
+8:32 PM
+
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•19 kB
+8:32 PM
+
+6/26/2022
+Sir Khurram GamicaCloud
+Dear students
+1:40 PM
+Asad jani
+Sir Khurram GamicaCloud
+Dear students
+G Sir
+1:41 PM
+❤️ⒽⒶⒻⒾⓏ❤️ Saqib
+G sir
+1:42 PM
+Sir Khurram GamicaCloud
+As due to current economic pandemic, every sector has been seriously damaged, we are oppressed to add 2k charges on internship. 
+
+(This will be applied only on passed candidates)
+1:47 PM
+
+👍
+Farzeel Software House
+To sir agar jis bandy ka test na clear ho vo agar internship ma batna cha raha ho vo kitny ?
+1:53 PM
+Sir Khurram GamicaCloud
+Farzeel Software House
+To sir agar jis bandy ka test na clear ho vo agar internship ma batna cha raha ho vo kitny ?
+Wo as per policy hi rahega
+2:10 PM
+Sir Khurram GamicaCloud
+Farzeel Software House
+To sir agar jis bandy ka test na clear ho vo agar internship ma batna cha raha ho vo kitny ?
+Yeh 1st time attempt waley students keliye hota h
+2:11 PM
+Sir Khurram GamicaCloud
+Situation not good, allah khair kare 👀Situation not good, allah khair kare 👀
+Situation not good, allah khair kare 👀
+2:52 PM
+
+
+😢
+4
+6/27/2022
++92 308 5630574
+꧁•⊹٭عبداللہ طیب٭⊹•꧂
+Sir g aj class ktny bjy hai
+3:39 PM
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•845 kB
+8:47 PM
+
+6/28/2022
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•887 kB
+9:47 PM
+
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•20 kB
+9:47 PM
+
+6/29/2022
++92 303 5777248
+Nouman 😊
+lite araea hai class mIn??
+4:51 PM
+Pervaiz Bhai
++92 303 5777248
+Nouman 😊
+lite araea hai class mIn??
+G ha
+5:13 PM
+6/30/2022
+Sir Kindly Kal Wela COde snd Krdain
+10:13 PM
+Sir Khurram GamicaCloud
+
+server.zip
+ZIP•1 MB
+10:14 PM
+
+Sir Khurram GamicaCloud
+
+src.zip
+ZIP•22 kB
+10:14 PM
+
+Thnks Sir
+11:33 PM
+7/5/2022
+Sir Khurram GamicaCloud
+dear friends, please make sure sab kay vouchers online uplaoded hen
+10:01 AM
+kal inshallah 9 baje test start hojana
+10:01 AM
+agar kisi ka voucher record show na hua to
+10:01 AM
+wo unpaid hi samjha jyega
+10:01 AM
++92 322 6059407
+Muhammad Tayyab
+
+98 kB
+
+12:08 PM
+Pervaiz Bhai
++92 322 6059407
+Muhammad Tayyab
+Photo
+
+12:08 PM
++92 340 7062568
+abuzar salman
+Kal test hy
+4:05 PM
++92 322 6059407
+Muhammad Tayyab
++92 340 7062568
+abuzar salman
+Kal test hy
+G
+4:08 PM
++92 340 7062568
+abuzar salman
+Salman
+4:14 PM
++92 300 4570193
+Rana Saqib
+Asslam o Alaikum Sir
+Sir kal test ha.
+Aaj koe asi  assignment dy ham ko Jasa Kal test ana ha. 
+❤️❤️❤️❤️
+5:32 PM
+
+❤️
+7/6/2022
++92 303 5777248
+Nouman 😊
+
+5:09 AM
+
+Pervaiz Bhai
+
+0:32
+6:10 AM
++92 315 7042606
+MecoMaan
+Assalamulaikum...
+Sir g gate open kr dy....
+8:37 AM
+Sir Khurram GamicaCloud
+ahmed please come in the class, with a piece of paper
+9:22 AM
+Pervaiz Bhai
++92 315 7042606
+MecoMaan
+Assalamulaikum...
+Sir g gate open kr dy....
+🤨
+10:01 AM
+Assalamualaikum friends only 15 minutes ry ky hy task khatm hony ma jaldi ker loo 😀😀
+1:46 PM
+M Usman
+Pervaiz Bhai
+Assalamualaikum friends only 15 minutes ry ky hy task khatm hony ma jaldi ker loo 😀😀
+🤣
+🤣
+2:12 PM
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+5:17 PM
+*Bilal
+5:17 PM
+Abdul Rehman
+5:17 PM
+Two students caught in cheating, so names not mentioned
+5:18 PM
+Asad jani
+Sir Khurram GamicaCloud
+Two students caught in cheating, so names not mentioned
+Asim proud of you ❤️
+5:18 PM
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+Ahmed
+5:18 PM
+Farzeel Software House
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+Ya internship ma hn matlb in ka test clear ha
+5:20 PM
++92 342 5450050
+Rehman
+Sir Khurram GamicaCloud
+Abdul Rehman
+Finally thank u sir jee💝💝💝
+5:31 PM
++92 321 9300028
+Mian Amy♥️
+Waiting for this message. This may take a while. Learn more
+5:34 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+Congratulations 🎉🎉🎉🎉 👏👏👏🎉🎉👏🎉👏🎉🎉🥰🥰🥰
+5:56 PM
+Pervaiz Bhai
+Asad jani
+Asim proud of you ❤️
+🤨
+5:56 PM
++92 349 6064149
+Usman Saeed
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+Congratulations
+6:42 PM
+Sir Khurram GamicaCloud
+Dear internees, please submit your enrollment dues yo get started
+6:55 PM
++92 342 1698492
+Muhammad Faizan
+Sir Khurram GamicaCloud
+Dear internees, please submit your enrollment dues yo get started
+Sir kis trah payment krni.
+6:55 PM
+Sir Khurram GamicaCloud
+Same as regular fees submission
+7:18 PM
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Test results
+
+Umair
+Faizan
+Hamid
+Isha
+Bila
+Tayyab
+7:18 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Tayyab
+Mashalla tayyab Bhai Mubarak ho 🥰🥰
+7:19 PM
++92 322 6059407
+Muhammad Tayyab
+Pervaiz Bhai
+Mashalla tayyab Bhai Mubarak ho 🥰🥰
+Khair Mubarak
+7:25 PM
++92 315 7042606
+MecoMaan
+Sir Khurram GamicaCloud
+Tayyab
+Congratulations jani😍
+7:26 PM
+M Usman
+mashallah🥰🥰
+7:26 PM
+7/7/2022
++92 300 4570193
+Rana Saqib
+
+1:03
+8:30 PM
++92 315 7042606
+MecoMaan
++92 300 4570193
+Rana Saqib
+1:03 Video
+😒
+9:06 PM
+M Usman
++92 315 7042606
+MecoMaan
+😒
+
+9:14 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+1:03 Video
+yeh to copied code nahi h?
+10:12 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+yeh to copied code nahi h?
+No sir
+10:24 PM
+Sir Khurram GamicaCloud
+
+38 kB
+Itney barey hokar apne teachers saath bhi jhoot bolna, its not good at all.
+
+Tabhi Pakistan ki yeh haalat hui pari, insaan kisi per yahan trust nahi kar sakta.
+Itney barey hokar apne teachers saath bhi jhoot bolna, its not good at all.
+
+Tabhi Pakistan ki yeh haalat hui pari, insaan kisi per yahan trust nahi kar sakta.
+11:07 PM
+Pervaiz Bhai
+Sir Khurram GamicaCloud
+Itney barey hokar apne teachers saath bhi jhoot bolna, its not good at all.
+
+Tabhi Pakistan ki yeh haalat hui pari, insaan kisi per yahan trust nahi kar sakta.
+🥲
+11:08 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+No sir
+Bhai Saqib sir syy sorry kro
+11:08 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+Itney barey hokar apne teachers saath bhi jhoot bolna, its not good at all.
+
+Tabhi Pakistan ki yeh haalat hui pari, insaan kisi per yahan trust nahi kar sakta.
+Sir me or Tamoor dono pas he rahty ha. 2no ham 2no ak he jga bhet k same project banty ha
+11:11 PM
+Jhoot ni bula me ny sir
+11:11 PM
+Khod. Bania ha.
+11:11 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir me or Tamoor dono pas he rahty ha. 2no ham 2no ak he jga bhet k same project banty ha
+again phir wohi cheezain?
+11:11 PM
+abhi group m wo message send karoon jab aap us se code maang rahe hen aur usne aapko file send kari h?
+11:12 PM
+Pakistani pata nahi kab sudhrengy
+11:12 PM
+Ryasat-Madina kay khawab dekhte hen hum
+11:12 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+abhi group m wo message send karoon jab aap us se code maang rahe hen aur usne aapko file send kari h?
+G sir kry msg
+11:13 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+Ryasat-Madina kay khawab dekhte hen hum
+AlHamduliallh sir
+11:13 PM
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Itney barey hokar apne teachers saath bhi jhoot bolna, its not good at all.
+
+Tabhi Pakistan ki yeh haalat hui pari, insaan kisi per yahan trust nahi kar sakta.
+g sure,pehly ise clear kren, yeh kisne mention kia aapko?
+11:14 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+g sure,pehly ise clear kren, yeh kisne mention kia aapko?
+Sir muje ni pata ha. Ap no show krwa dy opr
+11:16 PM
+Pervaiz Bhai
+
+0:15
+جنتی پتھر 💯 حـجـرِاسود
+11:19 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir muje ni pata ha. Ap no show krwa dy opr
+aap achey se jaante hen
+11:20 PM
++92 300 4570193
+Rana Saqib
+
+86 kB
+
+11:22 PM
+Sir ye course outline ha. Sir ap ny kaha tha website android ios desktop application ye sb krwy gy is course me
+11:23 PM
+Ap ny serf ak website krwi sir.
+11:24 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir ye course outline ha. Sir ap ny kaha tha website android ios desktop application ye sb krwy gy is course me
+topic change kyu kar rahe ab?
+11:24 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+aap achey se jaante hen
+Sir ap dhaky sir jo ap kahy rahy ha code
+11:24 PM
+Me team viewer k shat apny laptop me her ak cheez open screen dhaka data hon me ny ye coding khod ki ha.
+11:25 PM
+Me  100 plus assignments bani ha sir.
+11:26 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Me team viewer k shat apny laptop me her ak cheez open screen dhaka data hon me ny ye coding khod ki ha.
+aapne is task kay code keliye contact kis se kiya, kindly yeh to btaden
+11:26 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Me  100 plus assignments bani ha sir.
+mashallah
+11:26 PM
++92 300 4570193
+Rana Saqib
+Sir me or Tamoor 2no shat he study ki jo me Bana tha wo. He Tamoor ham 2no mil k study ki.
+11:27 PM
+Sir ap k pas ay ham k future ban jy ga hamra koe. Job mil jy. 4 month lagy ham ny itni mehnat ki.
+Aaj phir use jga a gy.
+11:28 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir ap k pas ay ham k future ban jy ga hamra koe. Job mil jy. 4 month lagy ham ny itni mehnat ki.
+Aaj phir use jga a gy.
+meri kahan galti h, kindly mention kardenyeh bhi
+11:29 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+meri kahan galti h, kindly mention kardenyeh bhi
+Sir ap teacher ha ap. Ki koe galti nhi ha galti to hamri ha sir.
+Sir ap. Ny bula. Tha
+Website 
+Android
+Ios
+Desktop.
+Ye sb krwo gy ap.
+Lqn ap ny serf website krwi ham ko.
+11:31 PM
++92 300 4570193
+Rana Saqib
++92 300 4570193
+Rana Saqib
+Photo
+Sir ye course outline line ha ap. Ko pata ha ap ny kia krwia ha ham ko.
+11:32 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir ap teacher ha ap. Ki koe galti nhi ha galti to hamri ha sir.
+Sir ap. Ny bula. Tha
+Website 
+Android
+Ios
+Desktop.
+Ye sb krwo gy ap.
+Lqn ap ny serf website krwi ham ko.
+us website ka backend bhi aapse cover nahi hua, aapne test waley din kaha sir main nodeJS nahi ki
+
+aap android, ios, desktop kaisy cover karte?
+11:32 PM
++92 300 4570193
+Rana Saqib
+Or. Kia nhi krwia ha ham ko.
+11:32 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+us website ka backend bhi aapse cover nahi hua, aapne test waley din kaha sir main nodeJS nahi ki
+
+aap android, ios, desktop kaisy cover karte?
+Sir ap NY bula tha
+80% Javascript ay gi.
+Me. Javascript ko krta raha.
+Or. Me ny react ki.
+Reduce ki.
+Sir itny time me ye cheez he bari muskil covers ki ha.
+11:34 PM
+Sir Khurram GamicaCloud
++92 300 4570193
+Rana Saqib
+Sir ap NY bula tha
+80% Javascript ay gi.
+Me. Javascript ko krta raha.
+Or. Me ny react ki.
+Reduce ki.
+Sir itny time me ye cheez he bari muskil covers ki ha.
+course outline ki baat kar rahe na, use to clear krlen pehly
+11:35 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Sir ap NY bula tha
+80% Javascript ay gi.
+Me. Javascript ko krta raha.
+Or. Me ny react ki.
+Reduce ki.
+Sir itny time me ye cheez he bari muskil covers ki ha.
+O Bhai yar Tum q bas ker ry ho sir sy Sorry ker lo or repeat ker loo
+11:35 PM
+Sir Khurram GamicaCloud
+nodejs to outline m thi, krwyi bhi to aapse nahi hui,
+11:35 PM
+baqi outline per crirtize bnta h waise?
+11:35 PM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+nodejs to outline m thi, krwyi bhi to aapse nahi hui,
+Sir me ny front-end kia tha me ny is lia ni ki. K intership. Me kr lo ga.
+Is. Ko
+Nodes js itni mushkil cheez ni ha. Muskil to Javascript ki logic bana ha.
+11:37 PM
+Pervaiz Bhai
+Maa NY sir Kya tha sir ma test do ya na sir NY Kya na to repeat kro ma NY Kya oky sir sir NY Kuch daka ha to he Kya ha naa to Tum b yar sorry ker loo or repeat ker Loo sir ke Dua loo badua na loo please
+11:37 PM
++92 300 4570193
+Rana Saqib
+Sir jab 100% job ka bula us time be ye cheez bulni chahia thi na.
+11:38 PM
++92 300 4570193
+Rana Saqib
+Pervaiz Bhai
+Maa NY sir Kya tha sir ma test do ya na sir NY Kya na to repeat kro ma NY Kya oky sir sir NY Kuch daka ha to he Kya ha naa to Tum b yar sorry ker loo or repeat ker Loo sir ke Dua loo badua na loo please
+Bhai mery bad dawa wali bat ni ha. Allah bhter janta ha.
+Ap. Ko kia pata hamri sir sy kia bat hoe thi any sy phaly.
+Me. Sir. Ki bhot. Respect krta hon
+11:39 PM
+Pervaiz Bhai
++92 300 4570193
+Rana Saqib
+Bhai mery bad dawa wali bat ni ha. Allah bhter janta ha.
+Ap. Ko kia pata hamri sir sy kia bat hoe thi any sy phaly.
+Me. Sir. Ki bhot. Respect krta hon
+To thik ha bro suba sir ky pass chaly Jana or sir sy bat ker lyna yaa per too na bas kro
+11:40 PM
++92 300 4570193
+Rana Saqib
+I'm really sorry.
+
+Mari Kise bat heart hoe ya buri lagi.
+11:40 PM
++92 303 5777248
+Nouman 😊
+
+21 kB
+
+11:42 PM
+Asad jani
+Pervaiz Bhai
+Maa NY sir Kya tha sir ma test do ya na sir NY Kya na to repeat kro ma NY Kya oky sir sir NY Kuch daka ha to he Kya ha naa to Tum b yar sorry ker loo or repeat ker Loo sir ke Dua loo badua na loo please
+GOod night 😴
+11:42 PM
+Pervaiz Bhai
+Asad jani
+GOod night 😴
+O chal nikl to mama good night
+11:43 PM
+Asad jani
+Pervaiz Bhai
+O chal nikl to mama good night
+Dekh lY bs ma tera msg prA bs or tU 🥲
+11:43 PM
+Pervaiz Bhai
++92 303 5777248
+Nouman 😊
+Photo
+Right bro qasm sy iss koo follow kro sari Zindagi kamyab ho kyy
+11:43 PM
+Pervaiz Bhai
+Asad jani
+Dekh lY bs ma tera msg prA bs or tU 🥲
+🤨
+11:44 PM
+Asim Bro Software HOuse
+Waiting for this message. This may take a while. Learn more
+11:45 PM
+Pervaiz Bhai
+Asim Bro Software HOuse
+Waiting for this message. This may take a while.
+Koi ni yar sir maff ker Dy ky sir ka dil BHOt bara ha
+11:46 PM
+Asad jani
+Asim Bro Software HOuse
+Waiting for this message. This may take a while.
+Hn yr bilkUl 😞
+11:47 PM
+Asad jani
+Pervaiz Bhai
+Koi ni yar sir maff ker Dy ky sir ka dil BHOt bara ha
+GOod night 😴
+11:47 PM
+Pervaiz Bhai
+Asad jani
+GOod night 😴
+Phr 🤨
+11:48 PM
+7/8/2022
++92 300 4570193
+Rana Saqib
+Asim Bro Software HOuse
+Waiting for this message. This may take a while.
+Bhai wo sir ha mery b.
+Me sir ko bhot respect krta hon.
+
+Sir kahy rahy copy code ha.
+
+Puri class me sy koe Banda be ye bubbles wali assignments ya project send kr dy Is grp me.
+
+Amaan Dari k shat.
+
+Me apna code be sir ko send kr data Hon.
+Jo kheta ha sir ko ye Mera code ha is ny copy kia hai. wo be sir ko send kr dy.
+
+Sir khod check kr k bata dy ye code copy. ya khod bani ha assignment. 
+
+Abi dhood ka dhood Pani ka Pani ho jy ga.
+12:22 AM
+Me ny galt bat ni ki koe be.
+
+Kise ny kaha ha sir ko ye Mera code ha. Is ny copy ha. Us ko challange ha mera.
+ Mery wala code be sir ko send kry. Or apny wala be.
+
+Asy yaqeen tuta ha. Jasy sir NY muje kaha me jhoot bulta hon. Kise ny sir ko kaha ha to sir NY us ki bat pr yaqeen ki ha.
+
+Jo be ha is grp me sy ha. Wo
+Plz sir ko code send kry apna.
+Us sy request ha mari.
+
+Me. B apna code sir ko send kr do ga.
+12:28 AM
+
+30 kB
+Bro Please Kindly Sir saw Sorry Krlo BeShk Personal Krlo🙏🏻
+Bro Please Kindly Sir saw Sorry Krlo BeShk Personal Krlo🙏🏻
+12:35 AM
+Pervaiz Bhai
+You
+Bro Please Kindly Sir saw Sorry Krlo BeShk Personal Krlo🙏🏻
+Right bro ma NY b isy personal sms kia ha ky ker loo sorry ma NY AP sy palay kb ky sms kia ha ky bro sorry kro wo hamry sir ha
+12:37 AM
+Pervaiz Bhai
+Right bro ma NY b isy personal sms kia ha ky ker loo sorry ma NY AP sy palay kb ky sms kia ha ky bro sorry kro wo hamry sir ha
+Bilkul Yr Msgs Pr Kr Afsos hOva
+12:40 AM
+🥲
+12:40 AM
++92 342 5450050
+Rehman
+
+
+12:48 AM
++92 342 5450050
+Rehman
+0:55
+Agree 💯
+12:49 AM
++92 321 3998213
+Abdullah
++92 342 5450050
+Rehman
+0:55
+❣️❣️👍💯
+12:50 AM
+Pervaiz Bhai
++92 342 5450050
+Rehman
+0:55
+Right bro ❤️
+12:51 AM
++92 345 1469507
+.
++92 342 5450050
+Rehman
+0:55
+JBH❤️💯
+12:53 AM
++92 309 7848256
+مُقدس
++92 342 5450050
+Rehman
+0:55
+Exactly 💯
+1:00 AM
++92 315 7042606
+MecoMaan
++92 342 5450050
+Rehman
+0:55
+Assalamualaikum....!
+Sir khurram raheel sb ap ko salute hai apny jitne bhe hm pr mhnat ki hm ap ka shukria Adaa krty hai dil say....baqi test clear hona na.hona Allah ki bhe maslehat hti sabr say kaam lna chaiye hm bhe bhai ap ky sath he hai Allah bhtr rasta nkal dety hai  may frustration smjh skta demagh may bht kuch chlta may test dety huai soach rhaa  tha kay kb say mhnat kr rhy ghr waly bhe dekhty kay beta earn kry ga bht say khwab hty lkn jo mohsin hty hmary wo hmy bnaty hai un ka hrgz maqsad ni hta hmy nakaam krna....or ye jo bhai kh rhy hai kay academy check or course waki 3 month may krwana or krna bhe bht bri baat hai koi teacher itny politely or aaj.kl students ky sath bhai bn kr ni chlta sir khurram shb ki yr khoobi hai jo bhulai ni ja skti....bht… Read more
+2:38 AM
++92 303 5777248
+Nouman 😊
+
+40 kB
+
+9:36 AM
+
+36 kB
+
+9:36 AM
+
+35 kB
+
+9:36 AM
+
++8
+Bilal Software hOuse
+Waiting for this message. This may take a while. Learn more
+9:45 AM
+Sir Khurram GamicaCloud
+@Rana Saqib Aapka time waste nahi jyega inshallah, agar test clear nahi hua to its ok, as per policy hum aap ki kahin aur internship krwadengy.
+11:14 AM
++92 300 4570193
+Rana Saqib
+Sir Khurram GamicaCloud
+@Rana Saqib Aapka time waste nahi jyega inshallah, agar test clear nahi hua to its ok, as per policy hum aap ki kahin aur internship krwadengy.
+In Shaa Allah Sir 
+ Thanks so much Sir.
+11:26 AM
+Asad jani
+Sir Khurram GamicaCloud
+@Rana Saqib Aapka time waste nahi jyega inshallah, agar test clear nahi hua to its ok, as per policy hum aap ki kahin aur internship krwadengy.
+Mashallah ♥️😍
+11:34 AM
++92 303 5777248
+Nouman 😊
+
+21 kB
+
+1:01 PM
+
+36 kB
+
+1:01 PM
+
+28 kB
+
+1:01 PM
+
++6
++92 315 7042606
+MecoMaan
+
+30 kB
+Ameen Hajj mubarak to all of u❤️
+Ameen Hajj mubarak to all of u❤️
+3:46 PM
++92 322 6059407
+Muhammad Tayyab
++92 315 7042606
+MecoMaan
+Ameen Hajj mubarak to all of u❤️
+Ameen
+3:57 PM
+7/9/2022
+Pervaiz Bhai
+
+105 kB
+*‏نبی کریم صلی اللہ علیہ وسلم نے فرمایا* عرفہ سے زیادہ کسی اور دن اللہ تعالی اپنے بندوں کو جہنم سے آزاد نہیں کرتا وہ اس دن بندوں سے قریب ہوتا ہے ا... Read more یا اللّٰہ ہمارے سارے گناہ معاف کردے آمین ثم آمین اور ہمارے والدین کو لمبی زندگی دے اور ہمیشہ خوش رکھ اور یا اللّٰہ  جو بیمار ہے ان کو شفا عطا فرما                   *اگر مجھ سے کوئی غلطی ہوئی ہو تو معاف کر دینا FRIENDS  اللّٰہ آپ کو ہمیشہ خوش رکھے آمین*                   *BALA*   *بالا*
+‏نبی کریم صلی اللہ علیہ وسلم نے فرمایا عرفہ سے زیادہ کسی اور دن اللہ تعالی اپنے بندوں کو جہنم سے آزاد نہیں کرتا وہ اس دن بندوں سے قریب ہوتا ہے ا... Read more یا اللّٰہ ہمارے سارے گناہ معاف کردے آمین ثم آمین اور ہمارے والدین کو لمبی زندگی دے اور ہمیشہ خوش رکھ اور یا اللّٰہ  جو بیمار ہے ان کو شفا عطا فرما                   اگر مجھ سے کوئی غلطی ہوئی ہو تو معاف کر دینا FRIENDS  اللّٰہ آپ کو ہمیشہ خوش رکھے آمین                   BALA   بالا
+1:38 AM
+Sir Khurram GamicaCloud
+Sir Khurram GamicaCloud
+Tayyab
+Taimoor (from partial test results)
+7:58 AM
+7/17/2022
+Sir Khurram GamicaCloud
+aoa dear internees
+6:38 PM
+7/18/2022
+Sir Khurram GamicaCloud
+Kal kindly 9 baje office report kren
+11:51 AM
+7/19/2022
+Sir Khurram GamicaCloud
+web.facebook.com
+https://web.facebook.com/PUNJABILANGUAGEMOVEMENT
+web.facebook.com
+https://web.facebook.com/PUNJABILANGUAGEMOVEMENT
+
+Indian agencies funded projects, please aware of them and report these pages whenever possible.
+11:12 AM

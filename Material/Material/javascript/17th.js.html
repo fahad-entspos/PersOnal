@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #box{
+        width: 600px;
+        height: 600px;
+        border: 2px solid red;
+        margin: auto;
+        background-color: blue;
+    }
+    #circle{
+        width: 50px;
+        height: 50px;
+        background-color: chocolate;
+        border: 2px solid chocolate;
+        border-radius: 50px;
+        position: absolute;
+        margin: auto;
+        top: 0;
+        bottom: 0;
+        left: 0;
+    }
+</style>
+<body>
+    <div id="box">
+        <div id="circle"></div>
+    </div>
+    <script>
+        
+        let myDir = "left"
+
+        setInterval(() => {
+            
+            let rightSide = circle.offsetLeft + circle.offsetWidth;
+                let boxRight = box.offsetLeft + box.offsetWidth; 
+                if (circle.offsetLeft >= box.offsetLeft && circle.offsetLeft <= boxRight ) {
+                    circle.style.backgroundColor = "Green"
+                }
+                    else{ circle.style.backgroundColor = "orange"}
+            if (myDir == "left") {
+                circle.style.left = (circle.offsetLeft + 1) + "px";
+
+               
+            
+            if (rightSide == window.innerWidth) 
+            {
+                myDir = 'right'
+            }
+        }
+        else
+        {
+            circle.style.left = (circle.offsetLeft - 1) + "px";
+            if (circle.offsetLeft == 0) {
+                myDir = 'left'
+            }
+
+        }
+
+        }, .00001);
+       
+
+    </script>
+                
+</body>
+</html>
+
+
+'='
+
+
+

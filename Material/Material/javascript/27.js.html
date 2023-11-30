@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        /* Bt tag  */
+        /* li */
+
+        /* by class */
+        /* .red-box */
+
+        /* by id */
+        /* #red-box1,
+        #red-box2{
+            color:orange;
+        } */
+
+        
+        article[class]#some .span #data{
+
+        color:red;
+        }
+
+
+
+        article div{
+
+        }
+
+        .hide{
+            display: none;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <script>
+
+        // document.getElementsByClassName
+        // document.getElementsByTagName
+        // document.getElementsByName
+        // document.querySelector()
+
+    </script>
+
+<h1>Meezan Bank of Faisalabad</h1>
+<button onclick="showSignupForm()">New User</button>
+<button onclick="showLoginForm()">Already a user</button>
+<button onclick="logout()">logout</button>
+
+<form id="loginBox" class="hide">
+    <input type="text" id="login_user_name"> <br/>
+    <input type="text" id="login_user_password"> <br/>
+    <button onclick="loginUser()">Login</button>
+</form>
+
+<div id="signupBOx" class="hide">
+
+    <input type="text" id="signup_user_name"> <br/>
+    <input type="text" id="signup_user_password"> <br/>
+    <input type="number" id="signup_user_balance"> <br/>
+
+    <button onclick="createUser()">Signup</button>
+
+</div>
+
+<div id="dashboard" class="hide">
+    <h1>Welcome to dashboard</h1>
+    <table border="1">
+        <tr>
+            <td>Name</td>
+            <td id="tUserName"></td>
+            <td>Balance</td>
+            <td id="tUserBalance"></td>
+        </tr>
+    </table>
+</div>
+
+<script>
+
+    let currentUser;
+    let userAccounts = [];
+
+    function logout(){
+        loginBox.reset();
+        currentUser = null;
+        loginBox.classList.remove('hide')
+                    dashBoard.classList.add('hide')
+                }
+
+    function showDashboard(){
+        event.preventDefault();
+        tUserName.innerText = currentUser.name; 
+        tUserBalance.innerText = currentUser.balance; 
+        loginBox.classList.add('hide')
+        signupBOx.classList.add('hide')
+        dashboard.classList.remove('hide')
+
+    }
+
+    function showLoginForm(){
+
+            loginBox.classList.remove('hide')
+            signupBOx.classList.add('hide')
+
+    }
+
+    function showSignupForm(){
+
+        loginBox.classList.add('hide')
+        signupBOx.classList.remove('hide')
+
+
+    }
+
+    function createUser(){
+
+      let userIndex =   userAccounts.findIndex(function(asd){
+
+            if(asd.name == signup_user_name.value){
+                return true;
+            }
+
+        })
+
+        if(userIndex > -1){
+            return alert("user already registered");
+        }
+
+
+        let nyaUser = {
+            name:signup_user_name.value,
+            password:signup_user_password.value,
+            balance:signup_user_balance.value,
+        }
+
+        userAccounts.push(nyaUser);
+
+    }
+
+
+    function loginUser(){
+        
+
+        let name = login_user_name.value;
+        let password = login_user_password.value;
+
+       let user = userAccounts.find((user)=>{
+
+            if(user.name == name && user.password == password){
+                return true;
+            }
+
+        })
+
+        if(user){
+            currentUser = user;
+            alert("milgya ")
+            showDashboard();
+        }else{
+            alert("nahi milgya ")
+        }
+
+
+    }
+
+
+</script>
+    
+</body>
+</html>

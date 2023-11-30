@@ -1,0 +1,51 @@
+.main{
+    background-image: url("/public/855-2.jpg");
+    width: 98.9vw;
+    height: 100vh;
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    object-fit: cover;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20%;
+    margin-left: 7%;
+}
+
+.fahad{
+margin-top: 12%;
+background-color: rgb(0, 0, 0);
+width: 20%;
+border-radius: 490px 210px 201px 201px;
+margin-right: 10px;
+    height: 10%;
+    filter: drop-shadow(0 100px 100px rgb(0, 0, 0));
+}
+
+.content{
+    
+    color: white;
+    justify-content: center;
+    margin: auto;
+    font-family:'Times New Roman', Times, serif;
+    /* font-size:xx-large; */
+    font-size: 3.5rem  ;
+
+}
+.mix{
+margin-top: 14%;
+/* margin-left: 4%; */
+}
+.p{
+    color: white;
+    font-size: 1.5vw  ;
+
+}
+.btn{
+    margin-top: 1%;
+    width: 10px;
+}

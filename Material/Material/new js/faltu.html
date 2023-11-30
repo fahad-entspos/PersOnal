@@ -1,0 +1,353 @@
+<style>
+#container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    height: 400px;
+    width: 300px;
+    border: 2px solid grey;
+    text-align: center;
+
+}
+
+</style>
+</head>
+<body>
+<button onclick="addAdd()">Add new Add</button>
+<button onclick="addSort()">Sort</button>
+<div id="container">
+
+</div>
+<script>
+// creating add function
+function addAdd(){
+let newTitle=prompt("Enter title");
+let newPrice=+prompt("Enter Price");
+let newDescription=prompt("Enter Discription");
+let newImg=prompt("Enter Img");
+let newCondition=prompt("Enter Condition");
+
+
+let obj={
+title: newTitle,
+        price: newPrice,
+        description: newDescription,
+        img: newImg,
+        condition: newCondition,
+
+}
+ads.push(obj);
+createAdd();
+}
+// sort function
+function addSort(){
+let sortType=prompt("enter title or price to sort")
+ads.sort(function (a,b){
+if(a[sortType]<b[sortType]){
+    return -1;
+}else if(a[sortType]>b[sortType]){
+    return 1;
+}
+else{
+    return 0;
+
+}
+
+});
+createAdd();
+}
+
+
+let ads = [
+    {
+        title: "OPPO A65",
+        price: 500,
+        description: "A nice mobile",
+        img: "ad.jpeg",
+        condition: "new Condition",
+    },
+    {
+        title: "zippy 760",
+        price: 140,
+        description: "A changa laptop",
+        img: "ad.jpeg",
+        condition: "used Condition",
+
+    },
+    {
+        title: "VIVI A65",
+        price: 250,
+        description: "A nice mobile",
+        img: "ad.jpeg",
+        condition: "new Condition",
+
+    }
+]
+createAdd();
+function createAdd() {
+container.innerText=" ";
+for(let add of ads){
+let index=ads.indexOf(add);
+let adbox=document.createElement("div")
+adbox.className="box";
+
+let addTitle=document.createElement("h1");
+addTitle.innerText=add.title;
+
+let addprice=document.createElement("h2");
+addprice.innerText=add.price;
+
+let adddescription=document.createElement("p");
+adddescription.innerText=add.description;
+
+let addimg=document.createElement("img");
+addimg.src=add.img;
+
+let addcondition=document.createElement("p");
+addcondition.innerText=add.condition;
+
+let delBTN=document.createElement("button")//de;te btn
+delBTN.innerText="del";
+delBTN.onclick=function(){
+    ads.splice(index,1);
+    createAdd();
+}
+
+let editBTN=document.createElement("button");
+editBTN.innerText="edit";
+editBTN.onclick=function(){
+    let input=+prompt("enter\n1 for title\n2 price\n3 description\n4 img\n5 condition")
+    switch(input){
+        case 1:
+            let newtitle=prompt("Enter title");
+            add.title=newtitle;
+            createAdd();
+            break;
+        case 2:
+            let newprice=+prompt("Enter Price");
+            add.price=newprice;
+            createAdd();
+            break;
+        case 3:
+            let newdescription=prompt("Enter Description");
+            add.description=newdescription;
+            createAdd();
+            break;
+        case 4:
+            let newimg=prompt("Enter img");
+            add.img=newimg;
+            createAdd();
+            break;
+        case 5:
+            let newcondition=prompt("Enter condition");
+            add.condition=newcondition;
+            createAdd();
+            break;
+    }
+}
+adbox.append(addTitle,addimg,addprice,adddescription,addcondition,delBTN,editBTN);
+container.appendChild(adbox);
+
+}
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+
+
+
+
+
+
+<style>
+    .ad {
+        text-align: center;
+        width: 300px;
+        height: 450px;
+        border: 1px solid grey;
+    }
+
+    .ad img {
+        width: 150px;
+    }
+
+    #adContainer {
+        display: flex;
+        flex-wrap: wrap;
+    }
+</style>
+</head>
+
+<body>
+
+<button id="btn" onclick="addAdd()">Add add</button>
+<button onclick="sortar()">Sort</button>
+<div id="adContainer">
+</div>
+
+<script>
+    function addAdd() {
+
+        let adTitle = prompt("Enter Title of Add");
+        let adPrice = +prompt("Enter Price of Add");
+        let adDescription = prompt("Enter Description of Add");
+        let adCondition = prompt("Enter Condition")
+        let adImg= prompt("Enter Img name")
+        let obj = {
+            title: adTitle,
+            price: adPrice,
+            description: adDescription,
+            condition: adCondition,
+            img:adImg,
+        }
+        ads.push(obj)
+        addCreation();
+    }
+
+    
+    function sortar() {
+
+        function compare(a, b) {
+            if (a.price < b.price) {
+                return -1;
+            }
+            if (a.price > b.price) {
+                return 1;
+            }
+            return 0;
+        }
+
+        ads.sort(compare);
+        addCreation();
+    }
+
+    let ads = [
+        {
+            title: "OPPO A65",
+            price: 500,
+            description: "A nice mobile",
+            img: "ad.jpeg",
+            condition: "new Condition",
+        },
+        {
+            title: "HP 760",
+            price: 140,
+            description: "A changa laptop",
+            img: "ad.jpeg",
+            condition: "used Condition",
+
+        },
+        {
+            title: "VIVI A65",
+            price: 250,
+            description: "A nice mobile",
+            img: "ad.jpeg",
+            condition: "new Condition",
+
+        }
+    ]
+    addCreation();
+    function addCreation() {
+        adContainer.innerHTML = "";
+        for (let ad of ads) {
+            let index = ads.indexOf(ad);
+
+            let adBox = document.createElement('div');
+            adBox.className = "ad";
+
+            let adTitle = document.createElement('h1');
+            adTitle.innerText = ad.title;
+            let adPrice = document.createElement('h2');
+            adPrice.innerText = ad.price;
+
+            let adDescription = document.createElement('p');
+            adDescription.innerText = ad.description
+
+            let adImg = document.createElement('img');
+            adImg.src = ad.img;
+
+            let adCondition = document.createElement('p');
+            adCondition.innerText = ad.condition;
+
+            let delBtn = document.createElement("button");
+            delBtn.innerText = "Del";
+            delBtn.onclick = function () {
+                ads.splice(index, 1);
+                addCreation();
+            }
+
+
+            let editBtn = document.createElement("button");
+            editBtn.innerText = "Edit";
+            editBtn.onclick = function () {
+                let item = prompt("Enter title, price, description ");
+                switch (item) {
+                    case "title":
+                        ad.title = prompt("Enter new Title");
+                        addCreation();
+                        break;
+                    case "price":
+                        ad.price = prompt("Enter new Price");
+                        addCreation();
+                        break;
+                    case "description":
+                        ad.description = prompt("Enter new Title");
+                        addCreation();
+                        break;
+                }
+                addCreation();
+            }
+
+            adBox.append(adTitle, adImg, adPrice, adDescription, adCondition, delBtn, editBtn);
+
+
+            adContainer.appendChild(adBox);
+            // adContainer.append(adBox,);
+
+            // to add  button to add new add
+
+
+
+        }
+    }
+
+</script> -->

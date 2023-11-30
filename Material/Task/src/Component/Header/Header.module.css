@@ -1,0 +1,39 @@
+.blue{
+    color: blue;
+}
+
+.bordr{
+}
+.The{
+    margin-top: 100px;
+}
+.main{
+    display: flex;
+ 
+
+   } 
+
+.box{
+    width: 100%;
+
+}
+.boxone{
+    width: 10%;
+}
+.boxtwo{
+    width: 15%;
+}
+.boxthree{
+    width: 20%;
+
+}
+.we{
+    margin-top: 50px;
+}
+.container{
+    padding: 20px;
+    justify-content:space-around;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let students = [
+            {
+                name:"ali",
+                subjects:["bio", "PHysics", "chemistry", "economics"]
+            }, 
+            {
+                name:"rameez",
+                subjects:["ENGLISH", "PHysics", "maths"]
+            },
+            {
+                name:"aqsa",
+                subjects:["Pakistan Studies", "Accounting"]
+            },
+            {
+                name:"khurram",
+                subjects:["ENGLISH", "PHysics", "communication skills"]
+            },
+            {
+                name:"sarmad",
+                subjects:["stats", "management", "PHysics"]
+            }
+        ];
+
+        
+        array1=[];
+    for(let student of students){
+        for(let abc of student.subjects){
+            array1.push(abc)
+        }
+    }       
+        console.log(array1);
+        
+                   
+        </script>
+</body>
+</html>
